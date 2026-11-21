@@ -1,0 +1,77 @@
+{
+  "aturanBawaan": {
+    "promoAktif": false,
+    "hargaDesainPerMeterPersegi": null,
+    "hargaDesainSebelumPromoPerMeterPersegi": null,
+    "hargaBahanPerMeterPersegi": {
+      "mdf": null,
+      "blockboard": null,
+      "pvc": null,
+      "multipleks": null,
+      "particle-board": null
+    },
+    "hargaBahanSebelumPromoPerMeterPersegi": {
+      "mdf": null,
+      "blockboard": null,
+      "pvc": null,
+      "multipleks": null,
+      "particle-board": null
+    },
+    "hargaFinishingPerMeterPersegi": {
+      "cat-duco": null,
+      "sheet": null,
+      "hpl": null
+    },
+    "hargaFinishingSebelumPromoPerMeterPersegi": {
+      "cat-duco": null,
+      "sheet": null,
+      "hpl": null
+    },
+    "biayaTambahanOpsi": {
+      "soft-close": null,
+      "led-kabinet": null,
+      "jalur-kabel": null,
+      "survei-lokasi": null
+    }
+  },
+  "konfigurasiIndikatif": {
+    "mataUang": "IDR",
+    "persentaseDp": 30,
+    "hargaCustomTerkonfigurasi": true
+  },
+  "aturanIndikatif": {
+    "promoAktif": true,
+    "hargaDesainPerMeterPersegi": 150000,
+    "hargaDesainSebelumPromoPerMeterPersegi": 200000,
+    "hargaBahanPerMeterPersegi": {
+      "mdf": 1200000,
+      "blockboard": 1350000,
+      "pvc": 1850000,
+      "multipleks": 1600000,
+      "particle-board": 950000
+    },
+    "hargaBahanSebelumPromoPerMeterPersegi": {
+      "mdf": 1400000,
+      "blockboard": 1550000,
+      "pvc": 2100000,
+      "multipleks": 1850000,
+      "particle-board": 1150000
+    },
+    "hargaFinishingPerMeterPersegi": {
+      "cat-duco": 850000,
+      "sheet": 400000,
+      "hpl": 650000
+    },
+    "hargaFinishingSebelumPromoPerMeterPersegi": {
+      "cat-duco": 1000000,
+      "sheet": 500000,
+      "hpl": 780000
+    },
+    "biayaTambahanOpsi": {
+      "soft-close": 450000,
+      "led-kabinet": 650000,
+      "jalur-kabel": 250000,
+      "survei-lokasi": 0
+    }
+  }
+}

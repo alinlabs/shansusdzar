@@ -1,0 +1,122 @@
+[
+  {
+    "id": "mat-mdf",
+    "nama": "MDF",
+    "kategori": "papan",
+    "ketahananLembap": 3,
+    "peringkatKeawetan": 4,
+    "tingkatHarga": "Menengah",
+    "cocokUntuk": [
+      "Pintu Panel Rata",
+      "Backdrop Dinding",
+      "Lemari Ruang Kering"
+    ],
+    "ringkasan": "Medium Density Fiberboard berpermukaan halus dan padat yang mudah dibentuk serta ideal untuk aplikasi finishing/laminasi Cat Duco, Sheet, maupun HPL.",
+    "tipsPerawatan": "Gunakan di area interior kering dan hindari paparan air langsung secara terus-menerus."
+  },
+  {
+    "id": "mat-blockboard",
+    "nama": "Blockboard",
+    "kategori": "papan",
+    "ketahananLembap": 3,
+    "peringkatKeawetan": 4,
+    "tingkatHarga": "Ekonomis",
+    "cocokUntuk": [
+      "Rak Dinding",
+      "Partisi Ruangan",
+      "Pintu Lemari Bidang Lebar"
+    ],
+    "ringkasan": "Papan inti susunan bilah ringan dengan bidang rata yang stabil dan tidak mudah melengkung untuk unit berukuran lebar.",
+    "tipsPerawatan": "Bersihkan permukaan dengan kain kering atau sedikit lembap serta jaga sirkulasi ruang tetap kering."
+  },
+  {
+    "id": "mat-pvc",
+    "nama": "PVC",
+    "kategori": "papan",
+    "ketahananLembap": 5,
+    "peringkatKeawetan": 5,
+    "tingkatHarga": "Premium",
+    "cocokUntuk": [
+      "Kabinet Dapur Bawah (Area Sink)",
+      "Kamar Mandi / Vanity",
+      "Area Lembap"
+    ],
+    "ringkasan": "Papan polimer padat yang 100% tahan air, anti-rayap, dan tidak lapuk untuk area berisiko basah maupun lembap tinggi.",
+    "tipsPerawatan": "Bersihkan secara berkala dengan kain microfiber dan sabun ringan tanpa pembersih abrasif."
+  },
+  {
+    "id": "mat-multipleks",
+    "nama": "Multipleks",
+    "kategori": "papan",
+    "ketahananLembap": 4,
+    "peringkatKeawetan": 5,
+    "tingkatHarga": "Menengah",
+    "cocokUntuk": [
+      "Kabinet Dapur Atas",
+      "Lemari Pakaian",
+      "Credenza & Meja Kerja"
+    ],
+    "ringkasan": "Papan lapis silang dengan daya cengkeram sekrup sangat kuat dan stabilitas struktural tinggi untuk furniture harian.",
+    "tipsPerawatan": "Lap kering segera bila terkena cipratan air di area sambungan agar keawetan tetap terjaga."
+  },
+  {
+    "id": "mat-particle-board",
+    "nama": "Particle Board",
+    "kategori": "papan",
+    "ketahananLembap": 2,
+    "peringkatKeawetan": 3,
+    "tingkatHarga": "Ekonomis",
+    "cocokUntuk": [
+      "Rak Buku & Display",
+      "Meja Belajar",
+      "Kabinet Ruang Kering"
+    ],
+    "ringkasan": "Papan partikel kayu berbiaya ekonomis dengan kepadatan seragam untuk kebutuhan furniture ringan di dalam ruangan kering.",
+    "tipsPerawatan": "Hindari area lembap dan jangan membebani ambalan melebihi kapasitas desainnya."
+  },
+  {
+    "id": "fin-cat-duco",
+    "nama": "Cat Duco",
+    "kategori": "finishing",
+    "ketahananLembap": 4,
+    "peringkatKeawetan": 4,
+    "tingkatHarga": "Premium",
+    "cocokUntuk": [
+      "Pintu Profil & Minimalis",
+      "Lemari Kamar Tidur",
+      "Credenza Ruang Tamu"
+    ],
+    "ringkasan": "Pelapisan cat semprot berlapis yang menutup permukaan dan sisi papan secara menyatu tanpa garis sambungan.",
+    "tipsPerawatan": "Gunakan kain lembut tanpa bahan pelarut keras agar lapisan cat tetap mulus."
+  },
+  {
+    "id": "fin-sheet",
+    "nama": "Sheet",
+    "kategori": "finishing",
+    "ketahananLembap": 3,
+    "peringkatKeawetan": 3,
+    "tingkatHarga": "Ekonomis",
+    "cocokUntuk": [
+      "Interior Lemari Bagian Dalam",
+      "Rak & Meja Ekonomis",
+      "Bidang Lengkung Ringan"
+    ],
+    "ringkasan": "Lapisan finishing/laminasi tipis fleksibel yang praktis mengikuti kontur bidang dengan tampilan bersih dan ekonomis.",
+    "tipsPerawatan": "Hindari goresan benda tajam serta paparan panas tinggi langsung di permukaan."
+  },
+  {
+    "id": "fin-hpl",
+    "nama": "HPL",
+    "kategori": "finishing",
+    "ketahananLembap": 4,
+    "peringkatKeawetan": 5,
+    "tingkatHarga": "Menengah",
+    "cocokUntuk": [
+      "Kabinet Dapur & Pantry",
+      "Meja Kerja & Credenza",
+      "Lemari & Panel Dinding"
+    ],
+    "ringkasan": "High Pressure Laminate dengan ketahanan gores, panas ringan, serta pilihan corak solid, serat kayu, maupun motif batu.",
+    "tipsPerawatan": "Gunakan alas tahan panas untuk peralatan dapur panas dan bersihkan noda dengan kain lembap."
+  }
+]

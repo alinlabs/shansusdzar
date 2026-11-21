@@ -1,0 +1,93 @@
+[
+  {
+    "id": "inv-041",
+    "nomorInvoice": "INV-SDI-2026-041",
+    "namaProyek": "Kitchen Set & Kabinet Dapur Modular",
+    "namaKlien": "Bapak Hendra Wijaya",
+    "lokasi": "Cibubur / Bekasi",
+    "nilaiTotalKontrak": 29000000,
+    "tanggalJatuhTempo": "2026-11-20",
+    "status": "Lunas",
+    "riwayatPembayaran": [
+      {
+        "id": "pay-041-1",
+        "tanggal": "2026-09-24",
+        "label": "DP 50%",
+        "nominal": 14500000,
+        "metodePembayaran": "Transfer Bank",
+        "catatan": "Lunas saat persetujuan desain 3D."
+      },
+      {
+        "id": "pay-041-2",
+        "tanggal": "2026-11-19",
+        "label": "Pelunasan 50%",
+        "nominal": 14500000,
+        "metodePembayaran": "Transfer Bank",
+        "catatan": "Serah terima instalasi selesai."
+      }
+    ],
+    "catatan": "Garansi engsel dan struktur 12 bulan aktif."
+  },
+  {
+    "id": "inv-042",
+    "nomorInvoice": "INV-SDI-2026-042",
+    "namaProyek": "Meja Kerja & Panel Dinding Ruang Pimpinan",
+    "namaKlien": "PT Sinar Cipta Karawang",
+    "lokasi": "Karawang Barat",
+    "nilaiTotalKontrak": 24000000,
+    "tanggalJatuhTempo": "2026-11-28",
+    "status": "Berjalan",
+    "riwayatPembayaran": [
+      {
+        "id": "pay-042-1",
+        "tanggal": "2026-10-05",
+        "label": "DP 40%",
+        "nominal": 9600000,
+        "metodePembayaran": "Transfer Bank",
+        "catatan": "Mulai produksi di workshop."
+      },
+      {
+        "id": "pay-042-2",
+        "tanggal": "2026-10-26",
+        "label": "Termin 2 (Progres Workshop)",
+        "nominal": 9500000,
+        "metodePembayaran": "Termin Proyek",
+        "catatan": "Pembayaran tahap pra-kirim."
+      }
+    ],
+    "catatan": "Sisa pelunasan dibayarkan setelah pemasangan panel selesai."
+  },
+  {
+    "id": "inv-043",
+    "nomorInvoice": "INV-SDI-2026-043",
+    "namaProyek": "Lemari Pakaian Panel Rata & Credenza TV",
+    "namaKlien": "Ibu Nadia Kusuma",
+    "lokasi": "Purwakarta Kota",
+    "nilaiTotalKontrak": 22500000,
+    "tanggalJatuhTempo": "2026-12-06",
+    "status": "Berjalan",
+    "riwayatPembayaran": [
+      {
+        "id": "pay-043-1",
+        "tanggal": "2026-11-15",
+        "label": "DP 50%",
+        "nominal": 11250000,
+        "metodePembayaran": "Transfer Bank",
+        "catatan": "Sedang tahap pemotongan multipleks dan finishing/laminasi."
+      }
+    ],
+    "catatan": "Jadwal pemasangan estimasi minggu pertama Desember."
+  },
+  {
+    "id": "inv-044",
+    "nomorInvoice": "INV-SDI-2026-044",
+    "namaProyek": "Sofa Sandar Minimalis & Sideboard Ruang Tamu",
+    "namaKlien": "Bapak Dimas Pratama",
+    "lokasi": "Setiabudi, Bandung",
+    "nilaiTotalKontrak": 16800000,
+    "tanggalJatuhTempo": "2026-12-12",
+    "status": "Menunggu DP",
+    "riwayatPembayaran": [],
+    "catatan": "Penawaran telah disetujui, menunggu transfer DP 50%."
+  }
+]

@@ -1,0 +1,237 @@
+{
+  "jenisProyek": [
+    {
+      "id": "ruang-tamu",
+      "label": "Ruang Tamu & Keluarga",
+      "deskripsi": "Penataan area berkumpul, dudukan, rak dinding, dan meja tengah."
+    },
+    {
+      "id": "dapur-pantry",
+      "label": "Dapur & Pantry",
+      "deskripsi": "Kabinet dapur atas/bawah, island, serta tempat penyimpanan peralatan."
+    },
+    {
+      "id": "kamar-tidur",
+      "label": "Kamar Tidur",
+      "deskripsi": "Lemari pakaian, rangka tempat tidur, meja rias, dan nakas."
+    },
+    {
+      "id": "ruang-makan",
+      "label": "Ruang Makan",
+      "deskripsi": "Meja makan custom kapasitas keluarga, bangku, dan lemari saji."
+    },
+    {
+      "id": "ruang-kerja",
+      "label": "Ruang Kerja",
+      "deskripsi": "Meja kerja proporsional, rak arsip, serta kabinet kerja."
+    },
+    {
+      "id": "komersial-lainnya",
+      "label": "Ruang Usaha / Lainnya",
+      "deskripsi": "Penataan resepsionis, rak display, atau kebutuhan interior khusus."
+    }
+  ],
+  "jenisItem": [
+    {
+      "id": "kitchen-set",
+      "label": "Kabinet Dapur (Kitchen Set)",
+      "deskripsi": "Kabinet modular menyesuaikan bentuk dinding lurus, L, atau U."
+    },
+    {
+      "id": "wardrobe",
+      "label": "Lemari Pakaian (Wardrobe)",
+      "deskripsi": "Unit lemari pintu ayun atau geser dengan tata kompartemen dalam."
+    },
+    {
+      "id": "sofa-custom",
+      "label": "Sofa / Dudukan Custom",
+      "deskripsi": "Dudukan ruang tamu atau sudut santai menyesuaikan panjang dinding."
+    },
+    {
+      "id": "meja-custom",
+      "label": "Meja Makan / Meja Kerja",
+      "deskripsi": "Meja custom interior dengan ukuran permukaan sesuai ruang."
+    },
+    {
+      "id": "credenza-rak",
+      "label": "Credenza / Rak TV & Penyimpanan",
+      "deskripsi": "Kabinet rendah, rak buku, atau backdrop panel TV terpadu."
+    },
+    {
+      "id": "panel-partisi",
+      "label": "Partisi / Panel Dinding",
+      "deskripsi": "Penyekat ruangan semi-terbuka atau pelapis panel interior."
+    },
+    {
+      "id": "paket-ruang",
+      "label": "Paket Penataan Satu Ruangan",
+      "deskripsi": "Kombinasi beberapa unit utama dalam satu konsep ruang yang selaras."
+    }
+  ],
+  "daftarMaterial": [
+    {
+      "id": "mdf",
+      "label": "MDF",
+      "deskripsi": "Medium Density Fiberboard berpermukaan rata dan halus untuk interior ruang kering."
+    },
+    {
+      "id": "blockboard",
+      "label": "Blockboard",
+      "deskripsi": "Papan inti susunan bilah ringan yang stabil untuk pintu lemari dan bidang lebar."
+    },
+    {
+      "id": "pvc",
+      "label": "PVC",
+      "deskripsi": "Papan polimer padat tahan air dan anti-rayap untuk area dapur dan ruang lembap."
+    },
+    {
+      "id": "multipleks",
+      "label": "Multipleks",
+      "deskripsi": "Papan lapis silang berdaya cengkeram sekrup kuat untuk struktur furniture utama."
+    },
+    {
+      "id": "particle-board",
+      "label": "Particle Board",
+      "deskripsi": "Papan serbuk kayu ekonomis untuk unit rak, meja, dan partisi ruang kering."
+    }
+  ],
+  "daftarFinishing": [
+    {
+      "id": "cat-duco",
+      "label": "Cat Duco",
+      "deskripsi": "Finishing/Laminasi cat semprot halus tanpa sambungan tepi dengan warna solid presisi."
+    },
+    {
+      "id": "sheet",
+      "label": "Sheet",
+      "deskripsi": "Lapisan finishing/laminasi tipis fleksibel yang rapi untuk bidang lurus maupun sudut lengkung."
+    },
+    {
+      "id": "hpl",
+      "label": "HPL",
+      "deskripsi": "High Pressure Laminate tahan gores dan panas ringan dengan ragam tekstur modern."
+    }
+  ],
+  "pilihanWarna": [
+    {
+      "id": "gading-hangat",
+      "nama": "Gading Hangat",
+      "hex": "#EAE5DC",
+      "catatanNuansa": "Terang netral"
+    },
+    {
+      "id": "gandum-alami",
+      "nama": "Gandum Alami",
+      "hex": "#D8CFC2",
+      "catatanNuansa": "Hangat lembut"
+    },
+    {
+      "id": "abu-batu",
+      "nama": "Abu Batu",
+      "hex": "#999697",
+      "catatanNuansa": "Abu netral"
+    },
+    {
+      "id": "kayu-muda",
+      "nama": "Kayu Muda",
+      "hex": "#C2A382",
+      "catatanNuansa": "Nuansa kayu hangat"
+    },
+    {
+      "id": "walnut-tua",
+      "nama": "Cokelat Walnut",
+      "hex": "#634E3F",
+      "catatanNuansa": "Gelap elegan"
+    },
+    {
+      "id": "zaitun-redup",
+      "nama": "Zaitun Redup",
+      "hex": "#767969",
+      "catatanNuansa": "Aksen bumi tenang"
+    },
+    {
+      "id": "arang-hangat",
+      "nama": "Arang Hangat",
+      "hex": "#494641",
+      "catatanNuansa": "Gelap arsitektural"
+    },
+    {
+      "id": "grafit-gelap",
+      "nama": "Grafit Gelap",
+      "hex": "#2D2C29",
+      "catatanNuansa": "Kontras tegas"
+    }
+  ],
+  "opsiTambahan": [
+    {
+      "id": "soft-close",
+      "label": "Engsel & Rel Soft-Close",
+      "deskripsi": "Mekanisme pintu dan laci menutup perlahan tanpa hentakan."
+    },
+    {
+      "id": "led-kabinet",
+      "label": "Pencahayaan LED Tersembunyi",
+      "deskripsi": "Lampu hangat di bawah kabinet gantung atau di dalam rak display."
+    },
+    {
+      "id": "jalur-kabel",
+      "label": "Penyesuaian Jalur Kabel / Stopkontak",
+      "deskripsi": "Lubang grommet atau bukaan belakang rapi untuk perangkat elektronik."
+    },
+    {
+      "id": "survei-lokasi",
+      "label": "Jadwalkan Survei Pengukuran",
+      "deskripsi": "Tim melakukan verifikasi ukuran aktual di lokasi sebelum produksi."
+    }
+  ],
+  "batasDimensiCm": {
+    "panjangMin": 30,
+    "panjangMax": 3000,
+    "lebarMin": 30,
+    "lebarMax": 3000
+  },
+  "opsiUrutan": [
+    {
+      "nilai": "featured",
+      "label": "Urutan Koleksi"
+    },
+    {
+      "nilai": "name-asc",
+      "label": "Nama: A - Z"
+    },
+    {
+      "nilai": "name-desc",
+      "label": "Nama: Z - A"
+    },
+    {
+      "nilai": "price-asc",
+      "label": "Harga: Terendah"
+    }
+  ],
+  "presetDimensi": [
+    {
+      "id": "kompak",
+      "label": "Kompak 2 × 2 m",
+      "panjangCm": 200,
+      "lebarCm": 200
+    },
+    {
+      "id": "standar",
+      "label": "Standar 3 × 2,5 m",
+      "panjangCm": 300,
+      "lebarCm": 250
+    },
+    {
+      "id": "luas",
+      "label": "Luas 4 × 3 m",
+      "panjangCm": 400,
+      "lebarCm": 300
+    },
+    {
+      "id": "dapur",
+      "label": "Kitchen 3 × 0,8 m",
+      "panjangCm": 300,
+      "lebarCm": 80
+    }
+  ]
+}

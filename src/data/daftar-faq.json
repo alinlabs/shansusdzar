@@ -1,0 +1,42 @@
+[
+  {
+    "id": "faq-survei",
+    "kategori": "Survei & Pemesanan",
+    "pertanyaan": "Apakah tim SDI melayani survei pengukuran langsung ke lokasi?",
+    "jawaban": "Ya, kami melayani survei pengukuran lapangan untuk area Purwakarta, Karawang, Subang, Bandung, dan sekitarnya. Jadwal survei dapat disesuaikan melalui WhatsApp setelah konsultasi kebutuhan awal.",
+    "urutan": 1,
+    "terbit": true
+  },
+  {
+    "id": "faq-durasi",
+    "kategori": "Produksi & Waktu",
+    "pertanyaan": "Berapa lama estimasi proses pengerjaan furniture atau interior custom?",
+    "jawaban": "Rata-rata waktu pengerjaan di workshop kami adalah 10 hingga 21 hari kerja setelah desain, spesifikasi material, dan ukuran akhir disepakati bersama.",
+    "urutan": 2,
+    "terbit": true
+  },
+  {
+    "id": "faq-material-dapur",
+    "kategori": "Material & Teknis",
+    "pertanyaan": "Material apa yang disarankan untuk kabinet dapur area bak cuci (sink)?",
+    "jawaban": "Untuk kabinet bawah terutama area sekitar bak cuci piring, kami sangat menyarankan penggunaan PVC atau kombinasi Multipleks dengan finishing/laminasi HPL agar tahan lembap dan bebas rayap dalam pemakaian jangka panjang.",
+    "urutan": 3,
+    "terbit": true
+  },
+  {
+    "id": "faq-pembayaran",
+    "kategori": "Harga & Pembayaran",
+    "pertanyaan": "Bagaimana skema pembayaran dan konfirmasi harga resmi?",
+    "jawaban": "Estimasi awal dihitung dari luas panjang × lebar dikalikan tarif per meter material utama dan finishing/laminasi pilihan. Harga resmi difinalkan setelah pengukuran lapangan dengan sistem termin yang jelas.",
+    "urutan": 4,
+    "terbit": true
+  },
+  {
+    "id": "faq-garansi",
+    "kategori": "Garansi & Perawatan",
+    "pertanyaan": "Apakah ada garansi setelah unit terpasang di rumah?",
+    "jawaban": "Kami memberikan garansi penyetelan hardware (engsel, rel laci, dan sambungan pemasangan) selama masa pemakaian awal serta panduan perawatan sesuai jenis material utama dan finishing/laminasi yang dipilih.",
+    "urutan": 5,
+    "terbit": true
+  }
+]

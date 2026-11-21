@@ -1,0 +1,62 @@
+[
+  {
+    "id": "spk-1",
+    "nomorSpk": "SPK-SDI-2026-014",
+    "tanggalTerbit": "2026-11-18",
+    "tanggalTargetSelesai": "2026-12-02",
+    "prioritas": "Prioritas",
+    "status": "Proses Workshop",
+    "namaProyek": "Kitchen Set L-Shape HPL Matte & Pantry",
+    "namaKlien": "Ibu Ratna Dewi",
+    "alamatPemasangan": "Perumahan Bukit Indah Blok C4, Kabupaten Purwakarta",
+    "namaPengawas": "Hilman Aziz Napis",
+    "koordinatorProduksi": "Fajar Maulana",
+    "pemeriksaQc": "Aisyah Rahma",
+    "daftarItem": [
+      {
+        "id": "spk-1-item-1",
+        "namaUnit": "Kabinet Dapur Bawah (Area Basah & Sink)",
+        "dimensi": "320 × 60 cm",
+        "spesifikasiMaterial": "Material Utama PVC + Finishing/Laminasi HPL",
+        "jumlah": 1,
+        "daftarPeriksaQc": "Engsel slow-motion terpasang rata, sambungan sudut bebas celah."
+      },
+      {
+        "id": "spk-1-item-2",
+        "namaUnit": "Kabinet Dapur Atas + Rak Bumbu Gantung",
+        "dimensi": "320 × 38 cm",
+        "spesifikasiMaterial": "Material Utama Multipleks + Finishing/Laminasi HPL",
+        "jumlah": 1,
+        "daftarPeriksaQc": "Pintu hidrolik seimbang, jalur kabel adaptor LED tersembunyi."
+      }
+    ],
+    "catatanTeknis": "Lubang pipa pembuangan sink disesuaikan 15 cm dari sisi dinding kiri berdasarkan hasil ukur lapangan.",
+    "ketentuanKeselamatan": "Gunakan masker & pelindung mata saat pemotongan PVC; pastikan baut dinabolt kabinet atas menembus bata penuh."
+  },
+  {
+    "id": "spk-2",
+    "nomorSpk": "SPK-SDI-2026-015",
+    "tanggalTerbit": "2026-11-20",
+    "tanggalTargetSelesai": "2026-12-08",
+    "prioritas": "Normal",
+    "status": "Menunggu Mulai",
+    "namaProyek": "Wardrobe Pintu Sliding & Credenza TV Kamar Utama",
+    "namaKlien": "Bapak Hendra Wijaya",
+    "alamatPemasangan": "Cluster Galuh Mas, Karawang Barat",
+    "namaPengawas": "Hilman Aziz Napis",
+    "koordinatorProduksi": "Fajar Maulana",
+    "pemeriksaQc": "Zaki Permana",
+    "daftarItem": [
+      {
+        "id": "spk-2-item-1",
+        "namaUnit": "Wardrobe Sliding Panel Rata",
+        "dimensi": "240 × 60 cm",
+        "spesifikasiMaterial": "Material Utama Blockboard + Finishing/Laminasi Cat Duco",
+        "jumlah": 1,
+        "daftarPeriksaQc": "Roda rel geser halus tanpa macet, cermin bevel terpasang aman."
+      }
+    ],
+    "catatanTeknis": "Sisakan ruang 3 cm di sisi kanan untuk posisi saklar lampu kamar eksisting.",
+    "ketentuanKeselamatan": "Lapisi sudut lemari dengan busa pelindung saat muat angkutan menuju Karawang."
+  }
+]

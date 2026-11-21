@@ -1,0 +1,137 @@
+import { useMemo, type CSSProperties } from 'react';
+import { Link } from 'react-router';
+import { ArrowRight, ChevronRight } from 'lucide-react';
+import { ImageFallback } from '../../components/ui/image-fallback';
+import { useSiteContentStore } from '../../store/site-content-store';
+import type { PortfolioCaseStudy } from '../../types/cms';
+
+function PortfolioRunnerCard({
+  item,
+  eager,
+  isDuplicate,
+}: {
+  item: PortfolioCaseStudy;
+  eager?: boolean;
+  isDuplicate?: boolean;
+}) {
+  const TitleTag = isDuplicate ? 'p' : 'h3';
+
+  return (
+    <Link
+      to={`/portofolio/${item.slug}`}
+      aria-label={isDuplicate ? undefined : item.judul}
+      aria-hidden={isDuplicate ? true : undefined}
+      tabIndex={isDuplicate ? -1 : undefined}
+      className="group relative block shrink-0 w-[86cqw] sm:w-[82cqw] md:w-[calc((100cqw-1rem)/2)] lg:w-[calc((100cqw-2rem)/3)] aspect-[2/1] md:aspect-[16/9] overflow-hidden rounded-[var(--radius-lg)] bg-[var(--surface)] select-none"
+    >
+      <ImageFallback
+        src={item.gambarUtama}
+        alt={isDuplicate ? '' : item.teksAlt}
+        aspectRatio="auto"
+        eager={eager}
+        fallbackLabel={item.kategori}
+        className="size-full rounded-none border-0"
+        imgClassName="transition-transform duration-500 group-hover:scale-[1.03]"
+      />
+
+      <div
+        aria-hidden="true"
+        className="pointer-events-none absolute inset-x-0 bottom-0 h-[55%] bg-gradient-to-t from-black/75 via-black/30 to-transparent"
+      />
+
+      <div className="pointer-events-none absolute inset-x-0 bottom-0 p-3.5 sm:p-4 space-y-0.5 text-left">
+        <p className="text-[10px] sm:text-xs font-medium text-white/80 leading-tight truncate">
+          {item.kategori}
+        </p>
+        <TitleTag className="text-sm sm:text-base font-semibold text-white leading-snug line-clamp-2">
+          {item.judul}
+        </TitleTag>
+      </div>
+    </Link>
+  );
+}
+
+export function SectionPortofolio() {
+  const allProjects = useSiteContentStore((state) => state.portfolioProjects);
+
+  const items = useMemo(() => {
+    const featured = allProjects.filter((p) => p.terbit && p.tampilDiBeranda);
+    return featured.length > 0 ? featured : allProjects.filter((p) => p.terbit);
+  }, [allProjects]);
+
+  const runnerItems = useMemo(() => {
+    if (items.length === 0) return [];
+    const result: PortfolioCaseStudy[] = [];
+    while (result.length < 4) {
+      result.push(...items);
+    }
+    return result;
+  }, [items]);
+
+  if (runnerItems.length === 0) return null;
+
+  const durationSeconds = Math.max(30, Math.round(runnerItems.length * 9));
+  const trackStyle = {
+    '--portfolio-runner-duration': `${durationSeconds}s`,
+  } as CSSProperties;
+
+  return (
+    <section aria-labelledby="portofolio-heading" className="space-y-6 sm:space-y-8">
+      <div className="flex flex-row items-end justify-between gap-4">
+        <div className="min-w-0 text-left">
+          <p className="text-xs font-medium tracking-wide text-[var(--text-muted)] leading-tight mb-0.5">
+            <span className="md:hidden">Maha Karya</span>
+            <span className="hidden md:inline">Maha Karya Shansus Dzar</span>
+          </p>
+          <h2
+            id="portofolio-heading"
+            className="text-xl sm:text-2xl font-semibold tracking-tight text-[var(--text)] leading-snug"
+          >
+            Portofolio Kami
+          </h2>
+        </div>
+
+        <Link
+          to="/portofolio"
+          className="inline-flex items-center justify-end gap-1 md:gap-1.5 text-xs font-medium tracking-wide leading-tight text-[var(--text-muted)] hover:text-[var(--text)] hover:underline underline-offset-4 transition-colors whitespace-nowrap shrink-0"
+        >
+          <span className="md:hidden">Selengkapnya</span>
+          <span className="hidden md:inline">Lihat Selengkapnya</span>
+          <ChevronRight className="size-3.5 md:hidden" aria-hidden="true" />
+          <ArrowRight className="hidden md:block size-3.5" aria-hidden="true" />
+        </Link>
+      </div>
+
+      <div
+        role="region"
+        aria-label="Galeri portofolio berjalan"
+        className="portfolio-runner-viewport [container-type:inline-size] mx-0 w-full overflow-hidden rounded-[var(--radius-lg)]"
+      >
+        <div className="portfolio-runner-track flex w-max" style={trackStyle}>
+          <div className="flex shrink-0 items-center gap-3 pr-3 sm:gap-4 sm:pr-4">
+            {runnerItems.map((item, idx) => (
+              <PortfolioRunnerCard
+                key={`primary-${item.id}-${idx}`}
+                item={item}
+                eager
+              />
+            ))}
+          </div>
+          <div
+            aria-hidden="true"
+            className="flex shrink-0 items-center gap-3 pr-3 sm:gap-4 sm:pr-4"
+          >
+            {runnerItems.map((item, idx) => (
+              <PortfolioRunnerCard
+                key={`duplicate-${item.id}-${idx}`}
+                item={item}
+                eager
+                isDuplicate
+              />
+            ))}
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+}

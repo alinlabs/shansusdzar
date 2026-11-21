@@ -1,0 +1,20 @@
+[
+  {
+    "id": "pol-survei",
+    "judul": "Survei & Validasi Ukuran Lapangan",
+    "ringkasan": "Pengukuran presisi mencakup panjang dan lebar bidang, posisi titik listrik, serta jalur pipa air.",
+    "rincian": "Sebelum pemotongan papan di workshop, tim teknis memeriksa kondisi aktual di lokasi agar unit built-in terpasang rapat tanpa celah mengganggu."
+  },
+  {
+    "id": "pol-kualitas",
+    "judul": "Inspeksi Rakitan Sebelum Pengiriman",
+    "ringkasan": "Setiap unit melewati pengecekan sambungan, kerapian finishing/laminasi, dan fungsi engsel.",
+    "rincian": "Kami memastikan lapisan Cat Duco, Sheet, maupun HPL terpasang rata dan rapi serta seluruh rel laci dan engsel soft-close bekerja mulus."
+  },
+  {
+    "id": "pol-garansi",
+    "judul": "Dukungan Penyetelan & Garansi Pemasangan",
+    "ringkasan": "Pendampingan purna jual untuk penyetelan pintu kabinet maupun rel laci.",
+    "rincian": "Apabila setelah pemakaian awal terdapat pintu kabinet yang memerlukan penyetelan ulang engsel, tim kami siap menjadwalkan penyesuaian."
+  }
+]

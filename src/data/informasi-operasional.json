@@ -1,0 +1,16 @@
+{
+  "jamOperasional": "Senin – Sabtu, 08.00 – 17.00 WIB",
+  "catatanJadwalSurvei": "Survei lapangan tersedia Senin – Sabtu sesuai janji temu.",
+  "estimasiWaktuProduksi": "10 – 21 hari kerja (tergantung kompleksitas & antrean produksi)",
+  "ringkasanGaransi": "Garansi penyetelan hardware & konstruksi pemasangan hingga 6 bulan.",
+  "ringkasanTerminPembayaran": "Konfirmasi RAB pasca-survei · Termin DP Produksi · Pelunasan setelah terpasang.",
+  "areaJangkauanSurvei": [
+    "Kabupaten Purwakarta",
+    "Karawang & Cikampek",
+    "Subang",
+    "Bandung Raya",
+    "Bekasi & Cikarang"
+  ],
+  "pengumumanAktif": true,
+  "teksPengumuman": "Jadwal survei pengukuran lapangan minggu ini terbuka untuk area Purwakarta, Karawang, Subang, dan Bandung."
+}

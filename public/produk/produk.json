@@ -1,0 +1,1743 @@
+{
+  "versiSkema": 2,
+  "katalogContoh": true,
+  "catatan": "Seluruh unit produk terhubung dengan perhitungan tarif desain dan produksi workshop per m² (ukuran, material utama, dan finishing/laminasi), dengan skema promo aktif pada unit pilihan.",
+  "diperbaruiPada": "2026-11-21",
+  "daftarProduk": [
+    {
+      "id": "katalog-kitchen-set-01",
+      "slug": "kitchen-set-kabinet-atas-bawah",
+      "nama": "Kitchen set (kabinet atas & bawah)",
+      "kategori": "Dapur & Bar",
+      "deskripsiSingkat": "Sistem kabinet dapur atas dan bawah dengan kompartemen penyimpanan rapi, area kerja ergonomis, dan bukaan presisi.",
+      "daftarGambar": [],
+      "daftarMaterial": [
+        "Material Utama: MDF, Blockboard, PVC, Multipleks, atau Particle Board",
+        "Finishing/Laminasi: Cat Duco, Sheet, atau HPL"
+      ],
+      "pilihanWarna": [
+        {
+          "id": "gading-hangat",
+          "nama": "Gading Hangat",
+          "hex": "#EAE5DC"
+        },
+        {
+          "id": "abu-batu",
+          "nama": "Abu Batu",
+          "hex": "#999697"
+        },
+        {
+          "id": "kayu-muda",
+          "nama": "Kayu Muda",
+          "hex": "#C2A382"
+        },
+        {
+          "id": "arang-hangat",
+          "nama": "Arang Hangat",
+          "hex": "#494641"
+        }
+      ],
+      "dimensi": {
+        "lebarCm": null,
+        "kedalamanCm": null,
+        "tinggiCm": null,
+        "referensiUkuran": [
+          "2×3 m",
+          "3×4 m",
+          "300×60 cm"
+        ],
+        "catatan": "Ukuran custom disesuaikan berdasarkan panjang × lebar bidang dapur."
+      },
+      "harga": null,
+      "hargaMulai": 2430000,
+      "statusHarga": "mulai",
+      "ketersediaan": "konsultasi",
+      "unggulan": true,
+      "urutan": 1,
+      "opsiKustom": [
+        {
+          "id": "customisasi",
+          "label": "Customisasi",
+          "daftarNilai": [
+            "Lurus (Straight)",
+            "Sudut (L-Shape)",
+            "U-Shape"
+          ]
+        },
+        {
+          "id": "bahan",
+          "label": "Material Utama",
+          "daftarNilai": [
+            "MDF",
+            "Blockboard",
+            "PVC",
+            "Multipleks",
+            "Particle Board"
+          ]
+        },
+        {
+          "id": "finishing",
+          "label": "Finishing/Laminasi",
+          "daftarNilai": [
+            "Cat Duco",
+            "Sheet",
+            "HPL"
+          ]
+        }
+      ],
+      "produkContoh": true,
+      "kaitkanHargaCustom": true,
+      "promoAktif": true,
+      "hargaSebelumPromo": null,
+      "hargaMulaiSebelumPromo": 2970000
+    },
+    {
+      "id": "katalog-island-table-02",
+      "slug": "island-table-meja-bar-dapur",
+      "nama": "Island table / meja bar dapur",
+      "kategori": "Dapur & Bar",
+      "deskripsiSingkat": "Meja tengah dapur atau meja bar multifungsi dengan area saji luas serta kabinet laci penyimpanan di bagian bawah.",
+      "daftarGambar": [],
+      "daftarMaterial": [
+        "Material Utama: MDF, Blockboard, PVC, Multipleks, atau Particle Board",
+        "Finishing/Laminasi: Cat Duco, Sheet, atau HPL"
+      ],
+      "pilihanWarna": [
+        {
+          "id": "gading-hangat",
+          "nama": "Gading Hangat",
+          "hex": "#EAE5DC"
+        },
+        {
+          "id": "kayu-muda",
+          "nama": "Kayu Muda",
+          "hex": "#C2A382"
+        },
+        {
+          "id": "arang-hangat",
+          "nama": "Arang Hangat",
+          "hex": "#494641"
+        }
+      ],
+      "dimensi": {
+        "lebarCm": null,
+        "kedalamanCm": null,
+        "tinggiCm": null,
+        "referensiUkuran": [
+          "160×80 cm",
+          "200×90 cm",
+          "240×90 cm"
+        ],
+        "catatan": "Ukuran custom disesuaikan berdasarkan panjang × lebar area dapur."
+      },
+      "harga": null,
+      "hargaMulai": 1728000,
+      "statusHarga": "mulai",
+      "ketersediaan": "konsultasi",
+      "unggulan": false,
+      "urutan": 2,
+      "opsiKustom": [
+        {
+          "id": "customisasi",
+          "label": "Customisasi",
+          "daftarNilai": [
+            "Island Storage Penuh",
+            "Island + Area Duduk Bar",
+            "Meja Bar Samping"
+          ]
+        },
+        {
+          "id": "bahan",
+          "label": "Material Utama",
+          "daftarNilai": [
+            "MDF",
+            "Blockboard",
+            "PVC",
+            "Multipleks",
+            "Particle Board"
+          ]
+        },
+        {
+          "id": "finishing",
+          "label": "Finishing/Laminasi",
+          "daftarNilai": [
+            "Cat Duco",
+            "Sheet",
+            "HPL"
+          ]
+        }
+      ],
+      "produkContoh": true,
+      "kaitkanHargaCustom": true,
+      "promoAktif": false,
+      "hargaSebelumPromo": null,
+      "hargaMulaiSebelumPromo": null
+    },
+    {
+      "id": "katalog-lemari-pakaian-03",
+      "slug": "lemari-pakaian-wardrobe",
+      "nama": "Lemari pakaian (wardrobe)",
+      "kategori": "Kamar Tidur",
+      "deskripsiSingkat": "Unit lemari pakaian dengan pembagian ruang gantung, ambalan lipat, serta laci tertata sesuai kebutuhan kamar tidur.",
+      "daftarGambar": [],
+      "daftarMaterial": [
+        "Material Utama: MDF, Blockboard, PVC, Multipleks, atau Particle Board",
+        "Finishing/Laminasi: Cat Duco, Sheet, atau HPL"
+      ],
+      "pilihanWarna": [
+        {
+          "id": "gading-hangat",
+          "nama": "Gading Hangat",
+          "hex": "#EAE5DC"
+        },
+        {
+          "id": "gandum-alami",
+          "nama": "Gandum Alami",
+          "hex": "#D8CFC2"
+        },
+        {
+          "id": "abu-batu",
+          "nama": "Abu Batu",
+          "hex": "#999697"
+        },
+        {
+          "id": "arang-hangat",
+          "nama": "Arang Hangat",
+          "hex": "#494641"
+        }
+      ],
+      "dimensi": {
+        "lebarCm": null,
+        "kedalamanCm": null,
+        "tinggiCm": null,
+        "referensiUkuran": [
+          "160×240 cm",
+          "200×240 cm",
+          "280×280 cm"
+        ],
+        "catatan": "Ukuran custom disesuaikan berdasarkan panjang × lebar bidang kamar tidur."
+      },
+      "harga": null,
+      "hargaMulai": 5184000,
+      "statusHarga": "mulai",
+      "ketersediaan": "konsultasi",
+      "unggulan": true,
+      "urutan": 3,
+      "opsiKustom": [
+        {
+          "id": "customisasi",
+          "label": "Customisasi",
+          "daftarNilai": [
+            "Pintu Ayun (Swing)",
+            "Pintu Geser (Sliding)"
+          ]
+        },
+        {
+          "id": "bahan",
+          "label": "Material Utama",
+          "daftarNilai": [
+            "MDF",
+            "Blockboard",
+            "PVC",
+            "Multipleks",
+            "Particle Board"
+          ]
+        },
+        {
+          "id": "finishing",
+          "label": "Finishing/Laminasi",
+          "daftarNilai": [
+            "Cat Duco",
+            "Sheet",
+            "HPL"
+          ]
+        }
+      ],
+      "produkContoh": true,
+      "kaitkanHargaCustom": true,
+      "promoAktif": false,
+      "hargaSebelumPromo": null,
+      "hargaMulaiSebelumPromo": null
+    },
+    {
+      "id": "katalog-walk-in-closet-04",
+      "slug": "walk-in-closet",
+      "nama": "Walk-in closet",
+      "kategori": "Kamar Tidur",
+      "deskripsiSingkat": "Tata ruang ganti terpadu dengan lemari terbuka dan tertutup, laci aksesori, serta rak penyimpanan yang lapang.",
+      "daftarGambar": [],
+      "daftarMaterial": [
+        "Material Utama: MDF, Blockboard, PVC, Multipleks, atau Particle Board",
+        "Finishing/Laminasi: Cat Duco, Sheet, atau HPL"
+      ],
+      "pilihanWarna": [
+        {
+          "id": "gading-hangat",
+          "nama": "Gading Hangat",
+          "hex": "#EAE5DC"
+        },
+        {
+          "id": "kayu-muda",
+          "nama": "Kayu Muda",
+          "hex": "#C2A382"
+        },
+        {
+          "id": "walnut-tua",
+          "nama": "Cokelat Walnut",
+          "hex": "#634E3F"
+        },
+        {
+          "id": "arang-hangat",
+          "nama": "Arang Hangat",
+          "hex": "#494641"
+        }
+      ],
+      "dimensi": {
+        "lebarCm": null,
+        "kedalamanCm": null,
+        "tinggiCm": null,
+        "referensiUkuran": [
+          "2×3 m",
+          "3×3 m",
+          "3×4 m"
+        ],
+        "catatan": "Ukuran custom disesuaikan berdasarkan panjang × lebar ruang closet."
+      },
+      "harga": null,
+      "hargaMulai": 8100000,
+      "statusHarga": "mulai",
+      "ketersediaan": "konsultasi",
+      "unggulan": false,
+      "urutan": 4,
+      "opsiKustom": [
+        {
+          "id": "customisasi",
+          "label": "Customisasi",
+          "daftarNilai": [
+            "Dua Sisi (Galley)",
+            "L-Shape",
+            "U-Shape"
+          ]
+        },
+        {
+          "id": "bahan",
+          "label": "Material Utama",
+          "daftarNilai": [
+            "MDF",
+            "Blockboard",
+            "PVC",
+            "Multipleks",
+            "Particle Board"
+          ]
+        },
+        {
+          "id": "finishing",
+          "label": "Finishing/Laminasi",
+          "daftarNilai": [
+            "Cat Duco",
+            "Sheet",
+            "HPL"
+          ]
+        }
+      ],
+      "produkContoh": true,
+      "kaitkanHargaCustom": true,
+      "promoAktif": true,
+      "hargaSebelumPromo": null,
+      "hargaMulaiSebelumPromo": 9900000
+    },
+    {
+      "id": "katalog-backdrop-tv-05",
+      "slug": "backdrop-tv",
+      "nama": "Backdrop TV",
+      "kategori": "Ruang Keluarga & Dinding",
+      "deskripsiSingkat": "Panel latar dinding TV dengan manajemen jalur kabel tersembunyi serta proporsi rapi untuk ruang keluarga atau kamar.",
+      "daftarGambar": [],
+      "daftarMaterial": [
+        "Material Utama: MDF, Blockboard, PVC, Multipleks, atau Particle Board",
+        "Finishing/Laminasi: Cat Duco, Sheet, atau HPL"
+      ],
+      "pilihanWarna": [
+        {
+          "id": "gading-hangat",
+          "nama": "Gading Hangat",
+          "hex": "#EAE5DC"
+        },
+        {
+          "id": "kayu-muda",
+          "nama": "Kayu Muda",
+          "hex": "#C2A382"
+        },
+        {
+          "id": "abu-batu",
+          "nama": "Abu Batu",
+          "hex": "#999697"
+        },
+        {
+          "id": "arang-hangat",
+          "nama": "Arang Hangat",
+          "hex": "#494641"
+        }
+      ],
+      "dimensi": {
+        "lebarCm": null,
+        "kedalamanCm": null,
+        "tinggiCm": null,
+        "referensiUkuran": [
+          "180×240 cm",
+          "240×260 cm",
+          "300×280 cm"
+        ],
+        "catatan": "Ukuran custom disesuaikan berdasarkan panjang × lebar bidang dinding TV."
+      },
+      "harga": null,
+      "hargaMulai": 5832000,
+      "statusHarga": "mulai",
+      "ketersediaan": "konsultasi",
+      "unggulan": true,
+      "urutan": 5,
+      "opsiKustom": [
+        {
+          "id": "customisasi",
+          "label": "Customisasi",
+          "daftarNilai": [
+            "Panel Rata",
+            "Panel + Aksen Kisi",
+            "Panel + Rak Gantung"
+          ]
+        },
+        {
+          "id": "bahan",
+          "label": "Material Utama",
+          "daftarNilai": [
+            "MDF",
+            "Blockboard",
+            "PVC",
+            "Multipleks",
+            "Particle Board"
+          ]
+        },
+        {
+          "id": "finishing",
+          "label": "Finishing/Laminasi",
+          "daftarNilai": [
+            "Cat Duco",
+            "Sheet",
+            "HPL"
+          ]
+        }
+      ],
+      "produkContoh": true,
+      "kaitkanHargaCustom": true,
+      "promoAktif": true,
+      "hargaSebelumPromo": null,
+      "hargaMulaiSebelumPromo": 7128000
+    },
+    {
+      "id": "katalog-credenza-meja-tv-06",
+      "slug": "credenza-meja-tv",
+      "nama": "Credenza / meja TV",
+      "kategori": "Ruang Keluarga & Dinding",
+      "deskripsiSingkat": "Kabinet rendah atau meja TV dengan kompartemen laci dan pintu untuk perangkat hiburan dan perlengkapan ruang keluarga.",
+      "daftarGambar": [],
+      "daftarMaterial": [
+        "Material Utama: MDF, Blockboard, PVC, Multipleks, atau Particle Board",
+        "Finishing/Laminasi: Cat Duco, Sheet, atau HPL"
+      ],
+      "pilihanWarna": [
+        {
+          "id": "gandum-alami",
+          "nama": "Gandum Alami",
+          "hex": "#D8CFC2"
+        },
+        {
+          "id": "kayu-muda",
+          "nama": "Kayu Muda",
+          "hex": "#C2A382"
+        },
+        {
+          "id": "walnut-tua",
+          "nama": "Cokelat Walnut",
+          "hex": "#634E3F"
+        },
+        {
+          "id": "arang-hangat",
+          "nama": "Arang Hangat",
+          "hex": "#494641"
+        }
+      ],
+      "dimensi": {
+        "lebarCm": null,
+        "kedalamanCm": null,
+        "tinggiCm": null,
+        "referensiUkuran": [
+          "160×45 cm",
+          "200×45 cm",
+          "240×50 cm"
+        ],
+        "catatan": "Ukuran custom disesuaikan berdasarkan panjang × lebar area meja TV."
+      },
+      "harga": null,
+      "hargaMulai": 972000,
+      "statusHarga": "mulai",
+      "ketersediaan": "konsultasi",
+      "unggulan": false,
+      "urutan": 6,
+      "opsiKustom": [
+        {
+          "id": "customisasi",
+          "label": "Customisasi",
+          "daftarNilai": [
+            "Berdiri (Floor-Standing)",
+            "Gantung Dinding (Floating)"
+          ]
+        },
+        {
+          "id": "bahan",
+          "label": "Material Utama",
+          "daftarNilai": [
+            "MDF",
+            "Blockboard",
+            "PVC",
+            "Multipleks",
+            "Particle Board"
+          ]
+        },
+        {
+          "id": "finishing",
+          "label": "Finishing/Laminasi",
+          "daftarNilai": [
+            "Cat Duco",
+            "Sheet",
+            "HPL"
+          ]
+        }
+      ],
+      "produkContoh": true,
+      "kaitkanHargaCustom": true,
+      "promoAktif": false,
+      "hargaSebelumPromo": null,
+      "hargaMulaiSebelumPromo": null
+    },
+    {
+      "id": "katalog-divan-tempat-tidur-07",
+      "slug": "divan-rangka-tempat-tidur",
+      "nama": "Divan / rangka tempat tidur",
+      "kategori": "Kamar Tidur",
+      "deskripsiSingkat": "Rangka tempat tidur kokoh dengan pilihan kompartemen laci bawah yang memanfaatkan ruang kamar tidur secara maksimal.",
+      "daftarGambar": [],
+      "daftarMaterial": [
+        "Material Utama: MDF, Blockboard, PVC, Multipleks, atau Particle Board",
+        "Finishing/Laminasi: Cat Duco, Sheet, atau HPL"
+      ],
+      "pilihanWarna": [
+        {
+          "id": "gading-hangat",
+          "nama": "Gading Hangat",
+          "hex": "#EAE5DC"
+        },
+        {
+          "id": "kayu-muda",
+          "nama": "Kayu Muda",
+          "hex": "#C2A382"
+        },
+        {
+          "id": "walnut-tua",
+          "nama": "Cokelat Walnut",
+          "hex": "#634E3F"
+        }
+      ],
+      "dimensi": {
+        "lebarCm": null,
+        "kedalamanCm": null,
+        "tinggiCm": null,
+        "referensiUkuran": [
+          "120×200 cm",
+          "160×200 cm",
+          "180×200 cm"
+        ],
+        "catatan": "Ukuran custom mengikuti panjang × lebar kasur serta kebutuhan laci."
+      },
+      "harga": null,
+      "hargaMulai": 3240000,
+      "statusHarga": "mulai",
+      "ketersediaan": "konsultasi",
+      "unggulan": false,
+      "urutan": 7,
+      "opsiKustom": [
+        {
+          "id": "customisasi",
+          "label": "Customisasi",
+          "daftarNilai": [
+            "Single / 120 × 200",
+            "Queen / 160 × 200",
+            "King / 180 × 200"
+          ]
+        },
+        {
+          "id": "bahan",
+          "label": "Material Utama",
+          "daftarNilai": [
+            "MDF",
+            "Blockboard",
+            "PVC",
+            "Multipleks",
+            "Particle Board"
+          ]
+        },
+        {
+          "id": "finishing",
+          "label": "Finishing/Laminasi",
+          "daftarNilai": [
+            "Cat Duco",
+            "Sheet",
+            "HPL"
+          ]
+        }
+      ],
+      "produkContoh": true,
+      "kaitkanHargaCustom": true,
+      "promoAktif": true,
+      "hargaSebelumPromo": null,
+      "hargaMulaiSebelumPromo": 3960000
+    },
+    {
+      "id": "katalog-headboard-dinding-08",
+      "slug": "headboard-dinding",
+      "nama": "Headboard dinding",
+      "kategori": "Kamar Tidur",
+      "deskripsiSingkat": "Panel sandaran kepala tempat tidur yang terpasang rapi pada dinding kamar, dapat dipadukan dengan pencahayaan dan sakelar.",
+      "daftarGambar": [],
+      "daftarMaterial": [
+        "Material Utama: MDF, Blockboard, PVC, Multipleks, atau Particle Board",
+        "Finishing/Laminasi: Cat Duco, Sheet, atau HPL"
+      ],
+      "pilihanWarna": [
+        {
+          "id": "gading-hangat",
+          "nama": "Gading Hangat",
+          "hex": "#EAE5DC"
+        },
+        {
+          "id": "gandum-alami",
+          "nama": "Gandum Alami",
+          "hex": "#D8CFC2"
+        },
+        {
+          "id": "kayu-muda",
+          "nama": "Kayu Muda",
+          "hex": "#C2A382"
+        }
+      ],
+      "dimensi": {
+        "lebarCm": null,
+        "kedalamanCm": null,
+        "tinggiCm": null,
+        "referensiUkuran": [
+          "160×120 cm",
+          "200×140 cm",
+          "280×150 cm"
+        ],
+        "catatan": "Ukuran custom disesuaikan berdasarkan panjang × lebar bidang dinding sandaran."
+      },
+      "harga": null,
+      "hargaMulai": 2592000,
+      "statusHarga": "mulai",
+      "ketersediaan": "konsultasi",
+      "unggulan": false,
+      "urutan": 8,
+      "opsiKustom": [
+        {
+          "id": "customisasi",
+          "label": "Customisasi",
+          "daftarNilai": [
+            "Selebar Tempat Tidur",
+            "Penuh Hingga Nakas Kiri-Kanan"
+          ]
+        },
+        {
+          "id": "bahan",
+          "label": "Material Utama",
+          "daftarNilai": [
+            "MDF",
+            "Blockboard",
+            "PVC",
+            "Multipleks",
+            "Particle Board"
+          ]
+        },
+        {
+          "id": "finishing",
+          "label": "Finishing/Laminasi",
+          "daftarNilai": [
+            "Cat Duco",
+            "Sheet",
+            "HPL"
+          ]
+        }
+      ],
+      "produkContoh": true,
+      "kaitkanHargaCustom": true,
+      "promoAktif": false,
+      "hargaSebelumPromo": null,
+      "hargaMulaiSebelumPromo": null
+    },
+    {
+      "id": "katalog-nakas-09",
+      "slug": "nakas-bedside-table",
+      "nama": "Nakas (bedside table)",
+      "kategori": "Kamar Tidur",
+      "deskripsiSingkat": "Meja samping tempat tidur berukuran ringkas dengan laci penyimpanan harian dan permukaan rapi untuk lampu tidur.",
+      "daftarGambar": [],
+      "daftarMaterial": [
+        "Material Utama: MDF, Blockboard, PVC, Multipleks, atau Particle Board",
+        "Finishing/Laminasi: Cat Duco, Sheet, atau HPL"
+      ],
+      "pilihanWarna": [
+        {
+          "id": "gading-hangat",
+          "nama": "Gading Hangat",
+          "hex": "#EAE5DC"
+        },
+        {
+          "id": "kayu-muda",
+          "nama": "Kayu Muda",
+          "hex": "#C2A382"
+        },
+        {
+          "id": "arang-hangat",
+          "nama": "Arang Hangat",
+          "hex": "#494641"
+        }
+      ],
+      "dimensi": {
+        "lebarCm": null,
+        "kedalamanCm": null,
+        "tinggiCm": null,
+        "referensiUkuran": [
+          "45×40 cm",
+          "50×45 cm",
+          "60×45 cm"
+        ],
+        "catatan": "Ukuran custom disesuaikan berdasarkan panjang × lebar area samping kasur."
+      },
+      "harga": null,
+      "hargaMulai": 243000,
+      "statusHarga": "mulai",
+      "ketersediaan": "konsultasi",
+      "unggulan": false,
+      "urutan": 9,
+      "opsiKustom": [
+        {
+          "id": "customisasi",
+          "label": "Customisasi",
+          "daftarNilai": [
+            "1 Laci + Rak Terbuka",
+            "2 Laci Penuh",
+            "Floating Gantung"
+          ]
+        },
+        {
+          "id": "bahan",
+          "label": "Material Utama",
+          "daftarNilai": [
+            "MDF",
+            "Blockboard",
+            "PVC",
+            "Multipleks",
+            "Particle Board"
+          ]
+        },
+        {
+          "id": "finishing",
+          "label": "Finishing/Laminasi",
+          "daftarNilai": [
+            "Cat Duco",
+            "Sheet",
+            "HPL"
+          ]
+        }
+      ],
+      "produkContoh": true,
+      "kaitkanHargaCustom": true,
+      "promoAktif": false,
+      "hargaSebelumPromo": null,
+      "hargaMulaiSebelumPromo": null
+    },
+    {
+      "id": "katalog-meja-rias-10",
+      "slug": "meja-rias",
+      "nama": "Meja rias",
+      "kategori": "Kamar Tidur",
+      "deskripsiSingkat": "Meja rias proporsional dengan laci sekat kosmetik, rak tertata, dan bingkai cermin yang selaras dengan interior kamar.",
+      "daftarGambar": [],
+      "daftarMaterial": [
+        "Material Utama: MDF, Blockboard, PVC, Multipleks, atau Particle Board",
+        "Finishing/Laminasi: Cat Duco, Sheet, atau HPL"
+      ],
+      "pilihanWarna": [
+        {
+          "id": "gading-hangat",
+          "nama": "Gading Hangat",
+          "hex": "#EAE5DC"
+        },
+        {
+          "id": "gandum-alami",
+          "nama": "Gandum Alami",
+          "hex": "#D8CFC2"
+        },
+        {
+          "id": "kayu-muda",
+          "nama": "Kayu Muda",
+          "hex": "#C2A382"
+        }
+      ],
+      "dimensi": {
+        "lebarCm": null,
+        "kedalamanCm": null,
+        "tinggiCm": null,
+        "referensiUkuran": [
+          "100×45 cm",
+          "120×45 cm",
+          "140×50 cm"
+        ],
+        "catatan": "Ukuran custom disesuaikan berdasarkan panjang × lebar sudut rias kamar."
+      },
+      "harga": null,
+      "hargaMulai": 607500,
+      "statusHarga": "mulai",
+      "ketersediaan": "konsultasi",
+      "unggulan": false,
+      "urutan": 10,
+      "opsiKustom": [
+        {
+          "id": "customisasi",
+          "label": "Customisasi",
+          "daftarNilai": [
+            "Meja + Cermin Dinding",
+            "Set Menyatu dengan Wardrobe"
+          ]
+        },
+        {
+          "id": "bahan",
+          "label": "Material Utama",
+          "daftarNilai": [
+            "MDF",
+            "Blockboard",
+            "PVC",
+            "Multipleks",
+            "Particle Board"
+          ]
+        },
+        {
+          "id": "finishing",
+          "label": "Finishing/Laminasi",
+          "daftarNilai": [
+            "Cat Duco",
+            "Sheet",
+            "HPL"
+          ]
+        }
+      ],
+      "produkContoh": true,
+      "kaitkanHargaCustom": true,
+      "promoAktif": true,
+      "hargaSebelumPromo": null,
+      "hargaMulaiSebelumPromo": 742500
+    },
+    {
+      "id": "katalog-meja-kerja-11",
+      "slug": "meja-kerja-meja-belajar",
+      "nama": "Meja kerja / meja belajar",
+      "kategori": "Ruang Kerja & Penyimpanan",
+      "deskripsiSingkat": "Meja kerja atau meja belajar fungsional dengan manajemen kabel rapi, laci berkas, serta opsi rak gantung atas.",
+      "daftarGambar": [],
+      "daftarMaterial": [
+        "Material Utama: MDF, Blockboard, PVC, Multipleks, atau Particle Board",
+        "Finishing/Laminasi: Cat Duco, Sheet, atau HPL"
+      ],
+      "pilihanWarna": [
+        {
+          "id": "kayu-muda",
+          "nama": "Kayu Muda",
+          "hex": "#C2A382"
+        },
+        {
+          "id": "abu-batu",
+          "nama": "Abu Batu",
+          "hex": "#999697"
+        },
+        {
+          "id": "arang-hangat",
+          "nama": "Arang Hangat",
+          "hex": "#494641"
+        }
+      ],
+      "dimensi": {
+        "lebarCm": null,
+        "kedalamanCm": null,
+        "tinggiCm": null,
+        "referensiUkuran": [
+          "120×60 cm",
+          "150×65 cm",
+          "180×70 cm"
+        ],
+        "catatan": "Ukuran custom disesuaikan berdasarkan panjang × lebar area kerja atau belajar."
+      },
+      "harga": null,
+      "hargaMulai": 972000,
+      "statusHarga": "mulai",
+      "ketersediaan": "konsultasi",
+      "unggulan": true,
+      "urutan": 11,
+      "opsiKustom": [
+        {
+          "id": "customisasi",
+          "label": "Customisasi",
+          "daftarNilai": [
+            "Meja Lurus + Laci",
+            "Meja Sudut (L-Shape)",
+            "Set Meja + Kabinet Atas"
+          ]
+        },
+        {
+          "id": "bahan",
+          "label": "Material Utama",
+          "daftarNilai": [
+            "MDF",
+            "Blockboard",
+            "PVC",
+            "Multipleks",
+            "Particle Board"
+          ]
+        },
+        {
+          "id": "finishing",
+          "label": "Finishing/Laminasi",
+          "daftarNilai": [
+            "Cat Duco",
+            "Sheet",
+            "HPL"
+          ]
+        }
+      ],
+      "produkContoh": true,
+      "kaitkanHargaCustom": true,
+      "promoAktif": false,
+      "hargaSebelumPromo": null,
+      "hargaMulaiSebelumPromo": null
+    },
+    {
+      "id": "katalog-rak-buku-display-12",
+      "slug": "rak-buku-rak-pajang-display",
+      "nama": "Rak buku / rak pajang (display)",
+      "kategori": "Ruang Kerja & Penyimpanan",
+      "deskripsiSingkat": "Rak buku terbuka maupun lemari pajang kombinasi pintu untuk menata koleksi buku, arsip, serta dekorasi ruang.",
+      "daftarGambar": [],
+      "daftarMaterial": [
+        "Material Utama: MDF, Blockboard, PVC, Multipleks, atau Particle Board",
+        "Finishing/Laminasi: Cat Duco, Sheet, atau HPL"
+      ],
+      "pilihanWarna": [
+        {
+          "id": "gading-hangat",
+          "nama": "Gading Hangat",
+          "hex": "#EAE5DC"
+        },
+        {
+          "id": "kayu-muda",
+          "nama": "Kayu Muda",
+          "hex": "#C2A382"
+        },
+        {
+          "id": "walnut-tua",
+          "nama": "Cokelat Walnut",
+          "hex": "#634E3F"
+        }
+      ],
+      "dimensi": {
+        "lebarCm": null,
+        "kedalamanCm": null,
+        "tinggiCm": null,
+        "referensiUkuran": [
+          "120×200 cm",
+          "180×220 cm",
+          "240×240 cm"
+        ],
+        "catatan": "Ukuran custom disesuaikan berdasarkan panjang × lebar bidang rak."
+      },
+      "harga": null,
+      "hargaMulai": 3240000,
+      "statusHarga": "mulai",
+      "ketersediaan": "konsultasi",
+      "unggulan": false,
+      "urutan": 12,
+      "opsiKustom": [
+        {
+          "id": "customisasi",
+          "label": "Customisasi",
+          "daftarNilai": [
+            "Rak Terbuka Penuh",
+            "Kombinasi Terbuka + Kabinet Bawah"
+          ]
+        },
+        {
+          "id": "bahan",
+          "label": "Material Utama",
+          "daftarNilai": [
+            "MDF",
+            "Blockboard",
+            "PVC",
+            "Multipleks",
+            "Particle Board"
+          ]
+        },
+        {
+          "id": "finishing",
+          "label": "Finishing/Laminasi",
+          "daftarNilai": [
+            "Cat Duco",
+            "Sheet",
+            "HPL"
+          ]
+        }
+      ],
+      "produkContoh": true,
+      "kaitkanHargaCustom": true,
+      "promoAktif": true,
+      "hargaSebelumPromo": null,
+      "hargaMulaiSebelumPromo": 3960000
+    },
+    {
+      "id": "katalog-partisi-ruangan-13",
+      "slug": "partisi-penyekat-ruangan",
+      "nama": "Partisi / penyekat ruangan",
+      "kategori": "Ruang Keluarga & Dinding",
+      "deskripsiSingkat": "Penyekat ruangan semi-terbuka maupun dua muka dengan rak display atau bilah kisi untuk membagi zona aktivitas tanpa terasa sempit.",
+      "daftarGambar": [],
+      "daftarMaterial": [
+        "Material Utama: MDF, Blockboard, PVC, Multipleks, atau Particle Board",
+        "Finishing/Laminasi: Cat Duco, Sheet, atau HPL"
+      ],
+      "pilihanWarna": [
+        {
+          "id": "kayu-muda",
+          "nama": "Kayu Muda",
+          "hex": "#C2A382"
+        },
+        {
+          "id": "walnut-tua",
+          "nama": "Cokelat Walnut",
+          "hex": "#634E3F"
+        },
+        {
+          "id": "arang-hangat",
+          "nama": "Arang Hangat",
+          "hex": "#494641"
+        }
+      ],
+      "dimensi": {
+        "lebarCm": null,
+        "kedalamanCm": null,
+        "tinggiCm": null,
+        "referensiUkuran": [
+          "160×240 cm",
+          "220×260 cm",
+          "300×280 cm"
+        ],
+        "catatan": "Ukuran custom disesuaikan berdasarkan panjang × lebar bentangan penyekat."
+      },
+      "harga": null,
+      "hargaMulai": 5184000,
+      "statusHarga": "mulai",
+      "ketersediaan": "konsultasi",
+      "unggulan": false,
+      "urutan": 13,
+      "opsiKustom": [
+        {
+          "id": "customisasi",
+          "label": "Customisasi",
+          "daftarNilai": [
+            "Bilah Kisi Vertikal",
+            "Partisi Rak Dua Muka",
+            "Partisi Panel Tertutup"
+          ]
+        },
+        {
+          "id": "bahan",
+          "label": "Material Utama",
+          "daftarNilai": [
+            "MDF",
+            "Blockboard",
+            "PVC",
+            "Multipleks",
+            "Particle Board"
+          ]
+        },
+        {
+          "id": "finishing",
+          "label": "Finishing/Laminasi",
+          "daftarNilai": [
+            "Cat Duco",
+            "Sheet",
+            "HPL"
+          ]
+        }
+      ],
+      "produkContoh": true,
+      "kaitkanHargaCustom": true,
+      "promoAktif": false,
+      "hargaSebelumPromo": null,
+      "hargaMulaiSebelumPromo": null
+    },
+    {
+      "id": "katalog-wall-panel-14",
+      "slug": "wall-panel-kisi-kisi-dinding",
+      "nama": "Wall panel / kisi-kisi dinding",
+      "kategori": "Ruang Keluarga & Dinding",
+      "deskripsiSingkat": "Pelapis dinding panel rata maupun kisi-kisi beralur vertikal untuk memberi kedalaman visual pada foyer, ruang tamu, dan area komersial.",
+      "daftarGambar": [],
+      "daftarMaterial": [
+        "Material Utama: MDF, Blockboard, PVC, Multipleks, atau Particle Board",
+        "Finishing/Laminasi: Cat Duco, Sheet, atau HPL"
+      ],
+      "pilihanWarna": [
+        {
+          "id": "gading-hangat",
+          "nama": "Gading Hangat",
+          "hex": "#EAE5DC"
+        },
+        {
+          "id": "kayu-muda",
+          "nama": "Kayu Muda",
+          "hex": "#C2A382"
+        },
+        {
+          "id": "walnut-tua",
+          "nama": "Cokelat Walnut",
+          "hex": "#634E3F"
+        }
+      ],
+      "dimensi": {
+        "lebarCm": null,
+        "kedalamanCm": null,
+        "tinggiCm": null,
+        "referensiUkuran": [
+          "2×3 m",
+          "3×3 m",
+          "3×4 m"
+        ],
+        "catatan": "Ukuran custom dihitung dari panjang × lebar bidang dinding yang dilapisi."
+      },
+      "harga": null,
+      "hargaMulai": 8100000,
+      "statusHarga": "mulai",
+      "ketersediaan": "konsultasi",
+      "unggulan": false,
+      "urutan": 14,
+      "opsiKustom": [
+        {
+          "id": "customisasi",
+          "label": "Customisasi",
+          "daftarNilai": [
+            "Kisi-Kisi Vertikal",
+            "Panel Rata dengan Nat",
+            "Kombinasi Panel & Pintu Kamuflase"
+          ]
+        },
+        {
+          "id": "bahan",
+          "label": "Material Utama",
+          "daftarNilai": [
+            "MDF",
+            "Blockboard",
+            "PVC",
+            "Multipleks",
+            "Particle Board"
+          ]
+        },
+        {
+          "id": "finishing",
+          "label": "Finishing/Laminasi",
+          "daftarNilai": [
+            "Cat Duco",
+            "Sheet",
+            "HPL"
+          ]
+        }
+      ],
+      "produkContoh": true,
+      "kaitkanHargaCustom": true,
+      "promoAktif": true,
+      "hargaSebelumPromo": null,
+      "hargaMulaiSebelumPromo": 9900000
+    },
+    {
+      "id": "katalog-kabinet-bawah-tangga-15",
+      "slug": "kabinet-bawah-tangga",
+      "nama": "Kabinet bawah tangga",
+      "kategori": "Ruang Kerja & Penyimpanan",
+      "deskripsiSingkat": "Pemanfaatan ruang miring di bawah tangga menjadi lemari penyimpanan tertutup, laci tarik, atau sudut rak fungsional.",
+      "daftarGambar": [],
+      "daftarMaterial": [
+        "Material Utama: MDF, Blockboard, PVC, Multipleks, atau Particle Board",
+        "Finishing/Laminasi: Cat Duco, Sheet, atau HPL"
+      ],
+      "pilihanWarna": [
+        {
+          "id": "gading-hangat",
+          "nama": "Gading Hangat",
+          "hex": "#EAE5DC"
+        },
+        {
+          "id": "abu-batu",
+          "nama": "Abu Batu",
+          "hex": "#999697"
+        },
+        {
+          "id": "kayu-muda",
+          "nama": "Kayu Muda",
+          "hex": "#C2A382"
+        }
+      ],
+      "dimensi": {
+        "lebarCm": null,
+        "kedalamanCm": null,
+        "tinggiCm": null,
+        "referensiUkuran": [
+          "250×180 cm",
+          "320×220 cm",
+          "400×250 cm"
+        ],
+        "catatan": "Ukuran custom mengikuti kemiringan serta panjang × lebar bidang bawah tangga."
+      },
+      "harga": null,
+      "hargaMulai": 6075000,
+      "statusHarga": "mulai",
+      "ketersediaan": "konsultasi",
+      "unggulan": false,
+      "urutan": 15,
+      "opsiKustom": [
+        {
+          "id": "customisasi",
+          "label": "Customisasi",
+          "daftarNilai": [
+            "Lemari Pintu Rata + Laci",
+            "Kombinasi Rak & Gudang Tertutup"
+          ]
+        },
+        {
+          "id": "bahan",
+          "label": "Material Utama",
+          "daftarNilai": [
+            "MDF",
+            "Blockboard",
+            "PVC",
+            "Multipleks",
+            "Particle Board"
+          ]
+        },
+        {
+          "id": "finishing",
+          "label": "Finishing/Laminasi",
+          "daftarNilai": [
+            "Cat Duco",
+            "Sheet",
+            "HPL"
+          ]
+        }
+      ],
+      "produkContoh": true,
+      "kaitkanHargaCustom": true,
+      "promoAktif": false,
+      "hargaSebelumPromo": null,
+      "hargaMulaiSebelumPromo": null
+    },
+    {
+      "id": "katalog-lemari-sepatu-16",
+      "slug": "lemari-sepatu",
+      "nama": "Lemari sepatu",
+      "kategori": "Ruang Kerja & Penyimpanan",
+      "deskripsiSingkat": "Kabinet penyimpanan sepatu dengan rak bertingkat, ventilasi udara rapi, serta opsi bangku duduk untuk area foyer atau teras.",
+      "daftarGambar": [],
+      "daftarMaterial": [
+        "Material Utama: MDF, Blockboard, PVC, Multipleks, atau Particle Board",
+        "Finishing/Laminasi: Cat Duco, Sheet, atau HPL"
+      ],
+      "pilihanWarna": [
+        {
+          "id": "gading-hangat",
+          "nama": "Gading Hangat",
+          "hex": "#EAE5DC"
+        },
+        {
+          "id": "kayu-muda",
+          "nama": "Kayu Muda",
+          "hex": "#C2A382"
+        },
+        {
+          "id": "arang-hangat",
+          "nama": "Arang Hangat",
+          "hex": "#494641"
+        }
+      ],
+      "dimensi": {
+        "lebarCm": null,
+        "kedalamanCm": null,
+        "tinggiCm": null,
+        "referensiUkuran": [
+          "100×35 cm",
+          "140×38 cm",
+          "180×40 cm"
+        ],
+        "catatan": "Ukuran custom disesuaikan berdasarkan panjang × lebar area foyer atau pintu masuk."
+      },
+      "harga": null,
+      "hargaMulai": 472500,
+      "statusHarga": "mulai",
+      "ketersediaan": "konsultasi",
+      "unggulan": false,
+      "urutan": 16,
+      "opsiKustom": [
+        {
+          "id": "customisasi",
+          "label": "Customisasi",
+          "daftarNilai": [
+            "Kabinet Tinggi Penuh",
+            "Kabinet + Bangku Duduk Foyer"
+          ]
+        },
+        {
+          "id": "bahan",
+          "label": "Material Utama",
+          "daftarNilai": [
+            "MDF",
+            "Blockboard",
+            "PVC",
+            "Multipleks",
+            "Particle Board"
+          ]
+        },
+        {
+          "id": "finishing",
+          "label": "Finishing/Laminasi",
+          "daftarNilai": [
+            "Cat Duco",
+            "Sheet",
+            "HPL"
+          ]
+        }
+      ],
+      "produkContoh": true,
+      "kaitkanHargaCustom": true,
+      "promoAktif": false,
+      "hargaSebelumPromo": null,
+      "hargaMulaiSebelumPromo": null
+    },
+    {
+      "id": "katalog-vanity-kamar-mandi-17",
+      "slug": "kabinet-wastafel-kamar-mandi-vanity",
+      "nama": "Kabinet wastafel kamar mandi (vanity)",
+      "kategori": "Kamar Mandi & Cuci",
+      "deskripsiSingkat": "Kabinet bawah wastafel dan kabinet cermin kamar mandi dengan pilihan material utama tahan lembap serta jalur pipa yang rapi.",
+      "daftarGambar": [],
+      "daftarMaterial": [
+        "Material Utama: MDF, Blockboard, PVC, Multipleks, atau Particle Board",
+        "Finishing/Laminasi: Cat Duco, Sheet, atau HPL"
+      ],
+      "pilihanWarna": [
+        {
+          "id": "gading-hangat",
+          "nama": "Gading Hangat",
+          "hex": "#EAE5DC"
+        },
+        {
+          "id": "abu-batu",
+          "nama": "Abu Batu",
+          "hex": "#999697"
+        },
+        {
+          "id": "arang-hangat",
+          "nama": "Arang Hangat",
+          "hex": "#494641"
+        }
+      ],
+      "dimensi": {
+        "lebarCm": null,
+        "kedalamanCm": null,
+        "tinggiCm": null,
+        "referensiUkuran": [
+          "80×50 cm",
+          "100×55 cm",
+          "120×55 cm"
+        ],
+        "catatan": "Ukuran custom disesuaikan berdasarkan panjang × lebar area wastafel kamar mandi."
+      },
+      "harga": null,
+      "hargaMulai": 540000,
+      "statusHarga": "mulai",
+      "ketersediaan": "konsultasi",
+      "unggulan": false,
+      "urutan": 17,
+      "opsiKustom": [
+        {
+          "id": "customisasi",
+          "label": "Customisasi",
+          "daftarNilai": [
+            "Floating Gantung Dinding",
+            "Berdiri (Floor-Standing)"
+          ]
+        },
+        {
+          "id": "bahan",
+          "label": "Material Utama",
+          "daftarNilai": [
+            "MDF",
+            "Blockboard",
+            "PVC",
+            "Multipleks",
+            "Particle Board"
+          ]
+        },
+        {
+          "id": "finishing",
+          "label": "Finishing/Laminasi",
+          "daftarNilai": [
+            "Cat Duco",
+            "Sheet",
+            "HPL"
+          ]
+        }
+      ],
+      "produkContoh": true,
+      "kaitkanHargaCustom": true,
+      "promoAktif": true,
+      "hargaSebelumPromo": null,
+      "hargaMulaiSebelumPromo": 660000
+    },
+    {
+      "id": "katalog-laundry-cabinet-18",
+      "slug": "kabinet-ruang-cuci-laundry-cabinet",
+      "nama": "Kabinet ruang cuci (laundry cabinet)",
+      "kategori": "Kamar Mandi & Cuci",
+      "deskripsiSingkat": "Kabinet penataan mesin cuci, ruang lipat pakaian, serta penyimpanan deterjen yang tahan cipratan air dan rapi.",
+      "daftarGambar": [],
+      "daftarMaterial": [
+        "Material Utama: MDF, Blockboard, PVC, Multipleks, atau Particle Board",
+        "Finishing/Laminasi: Cat Duco, Sheet, atau HPL"
+      ],
+      "pilihanWarna": [
+        {
+          "id": "gading-hangat",
+          "nama": "Gading Hangat",
+          "hex": "#EAE5DC"
+        },
+        {
+          "id": "abu-batu",
+          "nama": "Abu Batu",
+          "hex": "#999697"
+        },
+        {
+          "id": "kayu-muda",
+          "nama": "Kayu Muda",
+          "hex": "#C2A382"
+        }
+      ],
+      "dimensi": {
+        "lebarCm": null,
+        "kedalamanCm": null,
+        "tinggiCm": null,
+        "referensiUkuran": [
+          "140×65 cm",
+          "180×65 cm",
+          "220×70 cm"
+        ],
+        "catatan": "Ukuran custom disesuaikan berdasarkan panjang × lebar ruang cuci serta dimensi mesin."
+      },
+      "harga": null,
+      "hargaMulai": 1228500,
+      "statusHarga": "mulai",
+      "ketersediaan": "konsultasi",
+      "unggulan": false,
+      "urutan": 18,
+      "opsiKustom": [
+        {
+          "id": "customisasi",
+          "label": "Customisasi",
+          "daftarNilai": [
+            "Kabinet Atas + Meja Lipat",
+            "Menara Mesin Cuci & Pengering"
+          ]
+        },
+        {
+          "id": "bahan",
+          "label": "Material Utama",
+          "daftarNilai": [
+            "MDF",
+            "Blockboard",
+            "PVC",
+            "Multipleks",
+            "Particle Board"
+          ]
+        },
+        {
+          "id": "finishing",
+          "label": "Finishing/Laminasi",
+          "daftarNilai": [
+            "Cat Duco",
+            "Sheet",
+            "HPL"
+          ]
+        }
+      ],
+      "produkContoh": true,
+      "kaitkanHargaCustom": true,
+      "promoAktif": false,
+      "hargaSebelumPromo": null,
+      "hargaMulaiSebelumPromo": null
+    },
+    {
+      "id": "katalog-meja-resepsionis-19",
+      "slug": "meja-resepsionis",
+      "nama": "Meja resepsionis",
+      "kategori": "Komersial & Gerai",
+      "deskripsiSingkat": "Meja penerima tamu untuk kantor, klinik, atau studio dengan fasad depan arsitektural serta area kerja staf yang tertata di sisi dalam.",
+      "daftarGambar": [],
+      "daftarMaterial": [
+        "Material Utama: MDF, Blockboard, PVC, Multipleks, atau Particle Board",
+        "Finishing/Laminasi: Cat Duco, Sheet, atau HPL"
+      ],
+      "pilihanWarna": [
+        {
+          "id": "gading-hangat",
+          "nama": "Gading Hangat",
+          "hex": "#EAE5DC"
+        },
+        {
+          "id": "kayu-muda",
+          "nama": "Kayu Muda",
+          "hex": "#C2A382"
+        },
+        {
+          "id": "arang-hangat",
+          "nama": "Arang Hangat",
+          "hex": "#494641"
+        }
+      ],
+      "dimensi": {
+        "lebarCm": null,
+        "kedalamanCm": null,
+        "tinggiCm": null,
+        "referensiUkuran": [
+          "180×70 cm",
+          "240×75 cm",
+          "300×80 cm"
+        ],
+        "catatan": "Ukuran custom disesuaikan berdasarkan panjang × lebar area lobi atau resepsionis."
+      },
+      "harga": null,
+      "hargaMulai": 1701000,
+      "statusHarga": "mulai",
+      "ketersediaan": "konsultasi",
+      "unggulan": false,
+      "urutan": 19,
+      "opsiKustom": [
+        {
+          "id": "customisasi",
+          "label": "Customisasi",
+          "daftarNilai": [
+            "Lurus (Straight)",
+            "Sudut (L-Shape)"
+          ]
+        },
+        {
+          "id": "bahan",
+          "label": "Material Utama",
+          "daftarNilai": [
+            "MDF",
+            "Blockboard",
+            "PVC",
+            "Multipleks",
+            "Particle Board"
+          ]
+        },
+        {
+          "id": "finishing",
+          "label": "Finishing/Laminasi",
+          "daftarNilai": [
+            "Cat Duco",
+            "Sheet",
+            "HPL"
+          ]
+        }
+      ],
+      "produkContoh": true,
+      "kaitkanHargaCustom": true,
+      "promoAktif": false,
+      "hargaSebelumPromo": null,
+      "hargaMulaiSebelumPromo": null
+    },
+    {
+      "id": "katalog-meja-kasir-20",
+      "slug": "meja-kasir",
+      "nama": "Meja kasir",
+      "kategori": "Komersial & Gerai",
+      "deskripsiSingkat": "Konter kasir toko atau kafe lengkap dengan laci tunai, ruang perangkat POS, jalur kabel, serta rak display depan.",
+      "daftarGambar": [],
+      "daftarMaterial": [
+        "Material Utama: MDF, Blockboard, PVC, Multipleks, atau Particle Board",
+        "Finishing/Laminasi: Cat Duco, Sheet, atau HPL"
+      ],
+      "pilihanWarna": [
+        {
+          "id": "kayu-muda",
+          "nama": "Kayu Muda",
+          "hex": "#C2A382"
+        },
+        {
+          "id": "walnut-tua",
+          "nama": "Cokelat Walnut",
+          "hex": "#634E3F"
+        },
+        {
+          "id": "arang-hangat",
+          "nama": "Arang Hangat",
+          "hex": "#494641"
+        }
+      ],
+      "dimensi": {
+        "lebarCm": null,
+        "kedalamanCm": null,
+        "tinggiCm": null,
+        "referensiUkuran": [
+          "140×60 cm",
+          "180×65 cm",
+          "220×70 cm"
+        ],
+        "catatan": "Ukuran custom disesuaikan berdasarkan panjang × lebar area transaksi gerai."
+      },
+      "harga": null,
+      "hargaMulai": 1134000,
+      "statusHarga": "mulai",
+      "ketersediaan": "konsultasi",
+      "unggulan": false,
+      "urutan": 20,
+      "opsiKustom": [
+        {
+          "id": "customisasi",
+          "label": "Customisasi",
+          "daftarNilai": [
+            "Lurus Ringkas",
+            "Sudut (L-Shape) + Rak Display"
+          ]
+        },
+        {
+          "id": "bahan",
+          "label": "Material Utama",
+          "daftarNilai": [
+            "MDF",
+            "Blockboard",
+            "PVC",
+            "Multipleks",
+            "Particle Board"
+          ]
+        },
+        {
+          "id": "finishing",
+          "label": "Finishing/Laminasi",
+          "daftarNilai": [
+            "Cat Duco",
+            "Sheet",
+            "HPL"
+          ]
+        }
+      ],
+      "produkContoh": true,
+      "kaitkanHargaCustom": true,
+      "promoAktif": true,
+      "hargaSebelumPromo": null,
+      "hargaMulaiSebelumPromo": 1386000
+    },
+    {
+      "id": "katalog-booth-pameran-gerai-21",
+      "slug": "booth-pameran-gerai",
+      "nama": "Booth pameran / gerai",
+      "kategori": "Komersial & Gerai",
+      "deskripsiSingkat": "Unit booth pameran atau gerai ritel modular dengan konter pelayanan, rak pajang produk, backdrop merek, dan ruang simpan.",
+      "daftarGambar": [],
+      "daftarMaterial": [
+        "Material Utama: MDF, Blockboard, PVC, Multipleks, atau Particle Board",
+        "Finishing/Laminasi: Cat Duco, Sheet, atau HPL"
+      ],
+      "pilihanWarna": [
+        {
+          "id": "gading-hangat",
+          "nama": "Gading Hangat",
+          "hex": "#EAE5DC"
+        },
+        {
+          "id": "kayu-muda",
+          "nama": "Kayu Muda",
+          "hex": "#C2A382"
+        },
+        {
+          "id": "arang-hangat",
+          "nama": "Arang Hangat",
+          "hex": "#494641"
+        }
+      ],
+      "dimensi": {
+        "lebarCm": null,
+        "kedalamanCm": null,
+        "tinggiCm": null,
+        "referensiUkuran": [
+          "2×2 m",
+          "2×3 m",
+          "3×3 m"
+        ],
+        "catatan": "Ukuran custom disesuaikan berdasarkan panjang × lebar kavling booth atau gerai."
+      },
+      "harga": null,
+      "hargaMulai": 5400000,
+      "statusHarga": "mulai",
+      "ketersediaan": "konsultasi",
+      "unggulan": false,
+      "urutan": 21,
+      "opsiKustom": [
+        {
+          "id": "customisasi",
+          "label": "Customisasi",
+          "daftarNilai": [
+            "Gerai Modular Bongkar-Pasang",
+            "Booth Permanen Area Mall"
+          ]
+        },
+        {
+          "id": "bahan",
+          "label": "Material Utama",
+          "daftarNilai": [
+            "MDF",
+            "Blockboard",
+            "PVC",
+            "Multipleks",
+            "Particle Board"
+          ]
+        },
+        {
+          "id": "finishing",
+          "label": "Finishing/Laminasi",
+          "daftarNilai": [
+            "Cat Duco",
+            "Sheet",
+            "HPL"
+          ]
+        }
+      ],
+      "produkContoh": true,
+      "kaitkanHargaCustom": true,
+      "promoAktif": false,
+      "hargaSebelumPromo": null,
+      "hargaMulaiSebelumPromo": null
+    }
+  ]
+}

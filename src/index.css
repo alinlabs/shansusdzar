@@ -1,0 +1,128 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+@import "./styles/tokens.css";
+
+/* Scrollbar vertikal utama & area gulir: zero layout-width impact agar konten tetap penuh */
+.app-scroll-region {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.app-scroll-region::-webkit-scrollbar {
+  display: none;
+  width: 0;
+  height: 0;
+}
+
+/* Indikator progress scroll vertikal mengambang (floating) di sisi kanan layout */
+.floating-vscroll-rail {
+  position: fixed;
+  z-index: 75;
+  width: 16px;
+  opacity: 0;
+  pointer-events: none;
+  touch-action: none;
+  user-select: none;
+  -webkit-user-select: none;
+  transition: opacity 260ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.floating-vscroll-rail[data-visible='true'] {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.floating-vscroll-rail[data-instant-hide='true'] {
+  transition: none !important;
+}
+
+.floating-vscroll-thumb {
+  position: absolute;
+  top: 0;
+  right: 4px;
+  width: 3px;
+  border-radius: 9999px;
+  background-color: color-mix(in srgb, var(--accent-soft) 28%, transparent);
+  transition:
+    width 160ms var(--ease-studio),
+    right 160ms var(--ease-studio),
+    left 160ms var(--ease-studio),
+    background-color 160ms var(--ease-studio);
+  will-change: transform, height;
+  cursor: grab;
+}
+
+.floating-vscroll-rail[data-side='left'] .floating-vscroll-thumb {
+  right: auto;
+  left: 4px;
+}
+
+.floating-vscroll-rail:hover .floating-vscroll-thumb,
+.floating-vscroll-rail[data-dragging='true'] .floating-vscroll-thumb {
+  width: 5px;
+  right: 3px;
+  background-color: color-mix(in srgb, var(--text-subtle) 46%, transparent);
+}
+
+.floating-vscroll-rail[data-side='left']:hover .floating-vscroll-thumb,
+.floating-vscroll-rail[data-side='left'][data-dragging='true'] .floating-vscroll-thumb {
+  right: auto;
+  left: 3px;
+}
+
+.floating-vscroll-rail[data-dragging='true'] .floating-vscroll-thumb {
+  cursor: grabbing;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .floating-vscroll-rail,
+  .floating-vscroll-thumb {
+    transition: none;
+  }
+}
+
+@media print {
+  .floating-vscroll-rail {
+    display: none !important;
+  }
+}
+
+/* Hilangkan tombol X bawaan peramban pada input pencarian agar tidak ganda dengan tombol hapus kustom */
+input[type='search']::-webkit-search-decoration,
+input[type='search']::-webkit-search-cancel-button,
+input[type='search']::-webkit-search-results-button,
+input[type='search']::-webkit-search-results-decoration {
+  -webkit-appearance: none;
+  appearance: none;
+  display: none;
+}
+
+@keyframes portfolio-runner {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(-50%, 0, 0);
+  }
+}
+
+.portfolio-runner-track {
+  animation: portfolio-runner var(--portfolio-runner-duration, 24s) linear infinite;
+  will-change: transform;
+}
+
+@media (hover: hover) {
+  .portfolio-runner-viewport:hover .portfolio-runner-track {
+    animation-play-state: paused;
+  }
+}
+
+.portfolio-runner-viewport:focus-within .portfolio-runner-track {
+  animation-play-state: paused;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .portfolio-runner-track {
+    animation: none;
+  }
+}

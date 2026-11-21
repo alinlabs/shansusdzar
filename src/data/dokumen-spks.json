@@ -1,0 +1,56 @@
+[
+  {
+    "id": "spks-1",
+    "nomorKontrak": "SPKS-SDI-2026-008",
+    "jenisPerjanjian": "Kontrak Proyek Custom Interior",
+    "kotaPenandatanganan": "Purwakarta",
+    "tanggalPenandatanganan": "2026-11-17",
+    "status": "Aktif Berjalan",
+    "perusahaanPihakPertama": "Interior & Furniture Shansusdzar Indonesia",
+    "perwakilanPihakPertama": "Hilman Aziz Napis",
+    "jabatanPihakPertama": "Owner & Penanggung Jawab Workshop",
+    "alamatPihakPertama": "Kp. Tegal Jati, RT 19/RW 10, Desa Cibogohilir, Kabupaten Purwakarta, 41162, Indonesia",
+    "namaPihakKedua": "Ibu Ratna Dewi",
+    "nomorIdentitasPihakKedua": "3214015408890002",
+    "jabatanPihakKedua": "Pemilik Rumah / Pemberi Tugas",
+    "teleponPihakKedua": "+6281294401122",
+    "alamatPihakKedua": "Perumahan Bukit Indah Blok C4, Kabupaten Purwakarta",
+    "judulProyek": "Pengadaan & Pemasangan Kitchen Set L-Shape serta Kabinet Pantry",
+    "lokasiProyek": "Perumahan Bukit Indah Blok C4, Kabupaten Purwakarta",
+    "nilaiKontrak": 26500000,
+    "persenDp": 50,
+    "persenProgres": 30,
+    "persenPelunasan": 20,
+    "durasiKerjaHari": 21,
+    "masaGaransiBulan": 6,
+    "daftarPasal": [
+      {
+        "id": "cl-1",
+        "judulPasal": "Pasal 1 — Ruang Lingkup Pekerjaan",
+        "isiPasal": "PIHAK PERTAMA berkewajiban memproduksi, mengirim, dan memasang unit custom interior sesuai gambar kerja, ukuran survei lapangan, serta spesifikasi material utama (MDF, Blockboard, PVC, Multipleks, atau Particle Board) dan finishing/laminasi (Cat Duco, Sheet, atau HPL) yang telah disetujui bersama oleh PIHAK KEDUA."
+      },
+      {
+        "id": "cl-2",
+        "judulPasal": "Pasal 2 — Nilai Kontrak & Tata Cara Pembayaran",
+        "isiPasal": "Total nilai pekerjaan disepakati sebesar nilai kontrak tercantum dengan sistem pembayaran bertahap: Uang Muka (DP) sebelum produksi dimulai, Termin Progres saat unit siap pasang/rakit workshop, dan Pelunasan setelah serah terima pemasangan selesai."
+      },
+      {
+        "id": "cl-3",
+        "judulPasal": "Pasal 3 — Jangka Waktu & Serah Terima",
+        "isiPasal": "Estimasi durasi pengerjaan workshop hingga instalasi di lokasi adalah sesuai hari kerja yang tercantum sejak pembayaran DP diterima dan gambar kerja final ditandatangani, tidak termasuk penundaan akibat renovasi sipil di lokasi."
+      },
+      {
+        "id": "cl-4",
+        "judulPasal": "Pasal 4 — Garansi Konstruksi & Perubahan Tambahan",
+        "isiPasal": "PIHAK PERTAMA memberikan masa pemeliharaan dan penyetelan engsel/rel selama masa garansi sejak Berita Acara Serah Terima. Penambahan atau perubahan desain di luar kesepakatan awal dituangkan dalam Addendum biaya terpisah."
+      },
+      {
+        "id": "cl-5",
+        "judulPasal": "Pasal 5 — Penyelesaian Perselisihan",
+        "isiPasal": "Apabila timbul perbedaan penafsiran selama pelaksanaan kerja sama, kedua belah pihak sepakat menyelesaikannya terlebih dahulu melalui musyawarah mufakat."
+      }
+    ],
+    "saksiPihakPertama": "Fajar Maulana",
+    "saksiPihakKedua": "Keluarga Klien"
+  }
+]

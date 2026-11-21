@@ -1,0 +1,116 @@
+[
+  {
+    "kodeIzin": "dashboard.view",
+    "modul": "Dashboard",
+    "label": "Lihat Dashboard",
+    "deskripsi": "Membaca ringkasan metrik studio dan log aktivitas terkini."
+  },
+  {
+    "kodeIzin": "katalog.view",
+    "modul": "Katalog",
+    "label": "Lihat Katalog",
+    "deskripsi": "Melihat daftar produk furniture dan variasi opsi di panel admin."
+  },
+  {
+    "kodeIzin": "katalog.edit",
+    "modul": "Katalog",
+    "label": "Buat & Edit Katalog",
+    "deskripsi": "Menambah produk baru, mengubah harga, material, warna, dan spesifikasi."
+  },
+  {
+    "kodeIzin": "katalog.delete",
+    "modul": "Katalog",
+    "label": "Hapus Produk Katalog",
+    "deskripsi": "Menghapus entri produk dari daftar katalog aktif."
+  },
+  {
+    "kodeIzin": "portofolio.view",
+    "modul": "Portofolio",
+    "label": "Lihat Portofolio",
+    "deskripsi": "Membuka daftar studi kasus dan dokumentasi proyek."
+  },
+  {
+    "kodeIzin": "portofolio.edit",
+    "modul": "Portofolio",
+    "label": "Buat & Edit Portofolio",
+    "deskripsi": "Menambah, mengubah urutan, dan menerbitkan studi kasus portofolio."
+  },
+  {
+    "kodeIzin": "portofolio.delete",
+    "modul": "Portofolio",
+    "label": "Hapus Portofolio",
+    "deskripsi": "Menghapus dokumentasi proyek dari portofolio."
+  },
+  {
+    "kodeIzin": "informasi.view",
+    "modul": "Informasi",
+    "label": "Lihat Informasi",
+    "deskripsi": "Melihat data material, FAQ, dan kebijakan layanan."
+  },
+  {
+    "kodeIzin": "informasi.edit",
+    "modul": "Informasi",
+    "label": "Edit Informasi & FAQ",
+    "deskripsi": "Mengubah spesifikasi material, daftar FAQ, jam layanan, dan pengumuman."
+  },
+  {
+    "kodeIzin": "tentang.view",
+    "modul": "Tentang & Beranda",
+    "label": "Lihat Konten Situs",
+    "deskripsi": "Membuka editor halaman Tentang Kami, Beranda, dan Ulasan."
+  },
+  {
+    "kodeIzin": "tentang.edit",
+    "modul": "Tentang & Beranda",
+    "label": "Edit Tentang & Beranda",
+    "deskripsi": "Mengubah narasi Tentang, profil pemilik, hero beranda, keunggulan, dan ulasan."
+  },
+  {
+    "kodeIzin": "bisnis.edit",
+    "modul": "Identitas Bisnis",
+    "label": "Edit Identitas & Kontak Bisnis",
+    "deskripsi": "Mengubah nama merek, alamat workshop, nomor WhatsApp, dan konfigurasi DP."
+  },
+  {
+    "kodeIzin": "keuangan.view",
+    "modul": "Dokumen & Keuangan",
+    "label": "Lihat Dokumen, SPK, Kontrak & Kas",
+    "deskripsi": "Membaca SPK, SPKS, BAST serah terima, invoice termin proyek, serta ringkasan arus kas studio."
+  },
+  {
+    "kodeIzin": "keuangan.edit",
+    "modul": "Dokumen & Keuangan",
+    "label": "Buat & Edit Dokumen Resmi & Kas",
+    "deskripsi": "Menerbitkan SPK, SPKS, BAST serah terima, invoice proyek, mencatat pembayaran termin, dan ekspor CSV."
+  },
+  {
+    "kodeIzin": "keuangan.delete",
+    "modul": "Dokumen & Keuangan",
+    "label": "Hapus Dokumen & Catatan Kas",
+    "deskripsi": "Menghapus arsip SPK, SPKS, BAST, tagihan proyek, atau entri buku kas."
+  },
+  {
+    "kodeIzin": "marketing.view",
+    "modul": "Marketing & Kontak",
+    "label": "Lihat Database Kontak & Riwayat Kampanye",
+    "deskripsi": "Melihat daftar database kontak, filter segmen prospek, serta riwayat broadcast WA dan email."
+  },
+  {
+    "kodeIzin": "marketing.edit",
+    "modul": "Marketing & Kontak",
+    "label": "Kelola Database & Kirim Broadcast Marketing",
+    "deskripsi": "Menambah/mengubah/impor kontak, menjalankan broadcast WA satu per satu, dan share ke email."
+  },
+  {
+    "kodeIzin": "akses.view",
+    "modul": "Hak Akses",
+    "label": "Lihat Pengguna & Peran",
+    "deskripsi": "Melihat daftar staf admin dan matriks izin peran."
+  },
+  {
+    "kodeIzin": "akses.manage",
+    "modul": "Hak Akses",
+    "label": "Kelola Hak Akses & Cadangan",
+    "deskripsi": "Menambah/menghapus staf, mengubah izin peran RBAC, ekspor/impor data situs."
+  }
+]
