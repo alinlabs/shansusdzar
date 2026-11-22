@@ -1,0 +1,867 @@
+[
+  {
+    "id": "katalog-kitchen-set-01",
+    "nama": "Kitchen set (kabinet atas & bawah)",
+    "kategori": "Dapur & Bar",
+    "deskripsiSingkat": "Sistem kabinet dapur atas dan bawah dengan kompartemen penyimpanan rapi, area kerja ergonomis, dan bukaan presisi.",
+    "gambarSampul": "/sample-produk/gambar/kitchen-set-real.webp",
+    "3d": "/sample-produk/3d/kitchen.glb",
+    "media": [
+      "/sample-produk/gambar/kitchen-set-depan.webp",
+      "/sample-produk/gambar/kitchen-set-detail.webp",
+      "/sample-produk/gambar/kitchen-set-open.webp",
+      "/sample-produk/gambar/kitchen-set-samping.webp",
+      "/sample-produk/gambar/kitchen-set-real.webp"
+    ],
+    "referensiUkuran": [
+      "200x220",
+      "250x220",
+      "300x240"
+    ],
+    "meterLari": false,
+    "promo": "10%",
+    "customisasi": [
+      "Lurus (Straight)",
+      "Sudut (L-Shape)",
+      "U-Shape"
+    ],
+    "include": [
+      "Engsel & Rel Laci Soft-Close",
+      "Rak Piring & Sekat Sendok Bawaan",
+      "Bukaan Jalur Cooker Hood & Stopkontak",
+      "Lis Pelindung Tepi & Edging PVC Rapi"
+    ],
+    "harga": {
+      "hpl": {
+        "blockboard": 1800000,
+        "multipleks": 2500000,
+        "pvc": 3500000
+      },
+      "duco": {
+        "blockboard": 4500000,
+        "multipleks": 4500000,
+        "pvc": 4500000
+      }
+    }
+  },
+  {
+    "id": "katalog-island-table-02",
+    "nama": "Island table / meja bar dapur",
+    "kategori": "Dapur & Bar",
+    "deskripsiSingkat": "Meja tengah dapur atau meja bar multifungsi dengan area saji luas serta kabinet laci penyimpanan di bagian bawah.",
+    "gambarSampul": "/sample-produk/gambar/meja-dapur-real.webp",
+    "3d": "",
+    "media": [
+      "/sample-produk/gambar/meja-dapur-front.webp",
+      "/sample-produk/gambar/meja-dapur-detail.webp",
+      "/sample-produk/gambar/meja-dapur-open.webp",
+      "/sample-produk/gambar/meja-dapur-side.webp",
+      "/sample-produk/gambar/meja-dapur-real.webp"
+    ],
+    "referensiUkuran": [
+      "160x85",
+      "200x90",
+      "240x90"
+    ],
+    "meterLari": true,
+    "promo": "350000",
+    "customisasi": [
+      "Island Storage Penuh",
+      "Island + Area Duduk Bar",
+      "Meja Bar Samping"
+    ],
+    "include": [
+      "Top Table Tebal & Edging PVC Rapi",
+      "Rel Laci & Engsel Soft-Close",
+      "Penyesuaian Jalur Stopkontak Samping"
+    ],
+    "harga": {
+      "hpl": {
+        "blockboard": 1800000,
+        "multipleks": 2500000,
+        "pvc": 3500000
+      },
+      "duco": {
+        "blockboard": 4500000,
+        "multipleks": 4500000,
+        "pvc": 4500000
+      }
+    }
+  },
+  {
+    "id": "katalog-lemari-pakaian-03",
+    "nama": "Lemari pakaian (wardrobe)",
+    "kategori": "Kamar Tidur",
+    "deskripsiSingkat": "Unit lemari pakaian dengan pembagian ruang gantung, ambalan lipat, serta laci tertata sesuai kebutuhan kamar tidur.",
+    "gambarSampul": "/sample-produk/gambar/lemari-pakaian-real.webp",
+    "3d": "",
+    "media": [
+      "/sample-produk/gambar/lemari-pakaian-front.webp",
+      "/sample-produk/gambar/lemari-pakaian-detail.webp",
+      "/sample-produk/gambar/lemari-pakaian-open.webp",
+      "/sample-produk/gambar/lemari-pakaian-side.webp",
+      "/sample-produk/gambar/lemari-pakaian-real.webp"
+    ],
+    "referensiUkuran": [
+      "160x220",
+      "200x220",
+      "240x240"
+    ],
+    "meterLari": false,
+    "promo": "12%",
+    "customisasi": [
+      "Pintu Ayun (Swing)",
+      "Pintu Geser (Sliding)"
+    ],
+    "include": [
+      "Sekat Ambalan Lipat & Laci Penyimpanan",
+      "Pipa Gantungan Baju & Engsel Soft-Close",
+      "Handle Minimalis & Rel Pintu Presisi"
+    ],
+    "harga": {
+      "hpl": {
+        "blockboard": 1800000,
+        "multipleks": 2500000,
+        "pvc": 3500000
+      },
+      "duco": {
+        "blockboard": 4500000,
+        "multipleks": 4500000,
+        "pvc": 4500000
+      }
+    }
+  },
+  {
+    "id": "katalog-backdrop-tv-05",
+    "nama": "Backdrop TV",
+    "kategori": "Ruang Keluarga & Dinding",
+    "deskripsiSingkat": "Panel latar dinding TV dengan manajemen jalur kabel tersembunyi serta proporsi rapi untuk ruang keluarga atau kamar.",
+    "gambarSampul": "/sample-produk/gambar/backdrop-tv-real.webp",
+    "3d": "",
+    "media": [
+      "/sample-produk/gambar/backdrop-tv-front.webp",
+      "/sample-produk/gambar/backdrop-tv-detail.webp",
+      "/sample-produk/gambar/backdrop-tv-open.webp",
+      "/sample-produk/gambar/backdrop-tv-side.webp",
+      "/sample-produk/gambar/backdrop-tv-real.webp"
+    ],
+    "referensiUkuran": [
+      "180x240",
+      "240x240",
+      "300x260"
+    ],
+    "meterLari": false,
+    "promo": "500000",
+    "customisasi": [
+      "Panel Rata",
+      "Panel + Aksen Kisi",
+      "Panel + Rak Gantung"
+    ],
+    "include": [
+      "Jalur Kabel TV & Bracket Tersembunyi",
+      "Penguatan Rangka Dudukan Bracket TV",
+      "Rangka Cleat Dinding & Lis Penutup Tepi"
+    ],
+    "harga": {
+      "hpl": {
+        "blockboard": 1000000,
+        "multipleks": 1500000,
+        "pvc": 2000000
+      },
+      "duco": {
+        "blockboard": 4500000,
+        "multipleks": 4500000,
+        "pvc": 4500000
+      }
+    }
+  },
+  {
+    "id": "katalog-credenza-meja-tv-06",
+    "nama": "Credenza / meja TV",
+    "kategori": "Ruang Keluarga & Dinding",
+    "deskripsiSingkat": "Kabinet rendah atau meja TV dengan kompartemen laci dan pintu untuk perangkat hiburan dan perlengkapan ruang keluarga.",
+    "gambarSampul": "/sample-produk/gambar/meja-tv-real.webp",
+    "3d": "",
+    "media": [
+      "/sample-produk/gambar/meja-tv-front.webp",
+      "/sample-produk/gambar/meja-tv-detail.webp",
+      "/sample-produk/gambar/meja-tv-open.webp",
+      "/sample-produk/gambar/meja-tv-side.webp",
+      "/sample-produk/gambar/meja-tv-real.webp"
+    ],
+    "referensiUkuran": [
+      "160x50",
+      "200x55",
+      "240x60"
+    ],
+    "meterLari": true,
+    "promo": "",
+    "customisasi": [
+      "Berdiri (Floor-Standing)",
+      "Gantung Dinding (Floating)"
+    ],
+    "include": [
+      "Lubang Kabel & Ventilasi Perangkat Audio",
+      "Engsel & Rel Laci Soft-Close",
+      "Ambalan Dalam & Edging PVC Rapi"
+    ],
+    "harga": {
+      "hpl": {
+        "blockboard": 1800000,
+        "multipleks": 2500000,
+        "pvc": 3500000
+      },
+      "duco": {
+        "blockboard": 4500000,
+        "multipleks": 4500000,
+        "pvc": 4500000
+      }
+    }
+  },
+  {
+    "id": "katalog-divan-tempat-tidur-07",
+    "nama": "Divan / rangka tempat tidur",
+    "kategori": "Kamar Tidur",
+    "deskripsiSingkat": "Rangka tempat tidur kokoh dengan pilihan kompartemen laci bawah yang memanfaatkan ruang kamar tidur secara maksimal.",
+    "gambarSampul": "/sample-produk/gambar/divan-real.webp",
+    "3d": "",
+    "media": [
+      "/sample-produk/gambar/divan-front.webp",
+      "/sample-produk/gambar/divan-detail.webp",
+      "/sample-produk/gambar/divan-open.webp",
+      "/sample-produk/gambar/divan-side.webp",
+      "/sample-produk/gambar/divan-real.webp"
+    ],
+    "referensiUkuran": [
+      "120x35",
+      "160x35",
+      "180x40"
+    ],
+    "meterLari": true,
+    "promo": "250000",
+    "customisasi": [
+      "Single / 120 × 200",
+      "Queen / 160 × 200",
+      "King / 180 × 200"
+    ],
+    "include": [
+      "Penyesuaian Posisi Laci Samping/Depan",
+      "Penguatan Tulangan Rangka Kasur",
+      "Rel Laci Heavy-Duty Soft-Close"
+    ],
+    "harga": {
+      "hpl": {
+        "blockboard": 1800000,
+        "multipleks": 2500000,
+        "pvc": 3500000
+      },
+      "duco": {
+        "blockboard": 4500000,
+        "multipleks": 4500000,
+        "pvc": 4500000
+      }
+    }
+  },
+  {
+    "id": "katalog-headboard-dinding-08",
+    "nama": "Headboard dinding",
+    "kategori": "Kamar Tidur",
+    "deskripsiSingkat": "Panel sandaran kepala tempat tidur yang terpasang rapi pada dinding kamar, dapat dipadukan dengan pencahayaan dan sakelar.",
+    "gambarSampul": "/sample-produk/gambar/headboard-real.webp",
+    "3d": "",
+    "media": [
+      "/sample-produk/gambar/headboard-front.webp",
+      "/sample-produk/gambar/headboard-detail.webp",
+      "/sample-produk/gambar/headboard-side.webp",
+      "/sample-produk/gambar/headboard-real.webp"
+    ],
+    "referensiUkuran": [
+      "160x120",
+      "180x120",
+      "240x120"
+    ],
+    "meterLari": false,
+    "promo": "",
+    "customisasi": [
+      "Selebar Tempat Tidur",
+      "Penuh Hingga Nakas Kiri-Kanan"
+    ],
+    "include": [
+      "Penyesuaian Bukaan Sakelar & Stopkontak",
+      "Sistem Rangka Cleat Dinding Presisi",
+      "Lis Penutup Tepi & Nat Sambungan Rapi"
+    ],
+    "harga": {
+      "hpl": {
+        "blockboard": 1000000,
+        "multipleks": 1500000,
+        "pvc": 2000000
+      },
+      "duco": {
+        "blockboard": 4500000,
+        "multipleks": 4500000,
+        "pvc": 4500000
+      }
+    }
+  },
+  {
+    "id": "katalog-nakas-09",
+    "nama": "Nakas (bedside table)",
+    "kategori": "Kamar Tidur",
+    "deskripsiSingkat": "Meja samping tempat tidur berukuran ringkas dengan laci penyimpanan harian dan permukaan rapi untuk lampu tidur.",
+    "gambarSampul": "/sample-produk/gambar/nakas-real.webp",
+    "3d": "",
+    "media": [
+      "/sample-produk/gambar/nakas-front.webp",
+      "/sample-produk/gambar/nakas-detail.webp",
+      "/sample-produk/gambar/nakas-open.webp",
+      "/sample-produk/gambar/nakas-side.webp",
+      "/sample-produk/gambar/nakas-real.webp"
+    ],
+    "referensiUkuran": [
+      "45x50",
+      "50x55",
+      "60x55"
+    ],
+    "meterLari": true,
+    "promo": "",
+    "customisasi": [
+      "1 Laci + Rak Terbuka",
+      "2 Laci Penuh",
+      "Floating Gantung"
+    ],
+    "include": [
+      "Rel Laci Soft-Close & Coak Handle Minimalis",
+      "Celah Kabel Lampu & Charger Belakang",
+      "Penyelarasan Tinggi Sejajar Matras"
+    ],
+    "harga": {
+      "hpl": {
+        "blockboard": 1800000,
+        "multipleks": 2500000,
+        "pvc": 3500000
+      },
+      "duco": {
+        "blockboard": 4500000,
+        "multipleks": 4500000,
+        "pvc": 4500000
+      }
+    }
+  },
+  {
+    "id": "katalog-meja-rias-10",
+    "nama": "Meja rias",
+    "kategori": "Kamar Tidur",
+    "deskripsiSingkat": "Meja rias proporsional dengan laci sekat kosmetik, rak tertata, dan bingkai cermin yang selaras dengan interior kamar.",
+    "gambarSampul": "/sample-produk/gambar/meja-rias-real.webp",
+    "3d": "",
+    "media": [
+      "/sample-produk/gambar/meja-rias-front.webp",
+      "/sample-produk/gambar/meja-rias-detail.webp",
+      "/sample-produk/gambar/meja-rias-open.webp",
+      "/sample-produk/gambar/meja-rias-side.webp",
+      "/sample-produk/gambar/meja-rias-real.webp"
+    ],
+    "referensiUkuran": [
+      "100x75",
+      "120x75",
+      "140x75"
+    ],
+    "meterLari": true,
+    "promo": "",
+    "customisasi": [
+      "Meja + Cermin Dinding",
+      "Set Menyatu dengan Wardrobe"
+    ],
+    "include": [
+      "Sekat Laci Rapi Perlengkapan Rias",
+      "Rel Laci Soft-Close",
+      "Rangka Dudukan & Bracket Cermin"
+    ],
+    "harga": {
+      "hpl": {
+        "blockboard": 1800000,
+        "multipleks": 2500000,
+        "pvc": 3500000
+      },
+      "duco": {
+        "blockboard": 4500000,
+        "multipleks": 4500000,
+        "pvc": 4500000
+      }
+    }
+  },
+  {
+    "id": "katalog-meja-kerja-11",
+    "nama": "Meja kerja / meja belajar",
+    "kategori": "Ruang Kerja & Penyimpanan",
+    "deskripsiSingkat": "Meja kerja atau meja belajar fungsional dengan manajemen kabel rapi, laci berkas, serta opsi rak gantung atas.",
+    "gambarSampul": "/sample-produk/gambar/meja-kerja-real.webp",
+    "3d": "",
+    "media": [
+      "/sample-produk/gambar/meja-kerja-front.webp",
+      "/sample-produk/gambar/meja-kerja-detail.webp",
+      "/sample-produk/gambar/meja-kerja-open.webp",
+      "/sample-produk/gambar/meja-kerja-side.webp",
+      "/sample-produk/gambar/meja-kerja-real.webp"
+    ],
+    "referensiUkuran": [
+      "120x75",
+      "150x75",
+      "180x75"
+    ],
+    "meterLari": true,
+    "promo": "15%",
+    "customisasi": [
+      "Meja Lurus + Laci",
+      "Meja Sudut (L-Shape)",
+      "Set Meja + Kabinet Atas"
+    ],
+    "include": [
+      "Lubang Grommet & Jalur Kabel Bawah Meja",
+      "Laci Berkas Rel Soft-Close",
+      "Penguatan Rangka Kaki & Edging Meja"
+    ],
+    "harga": {
+      "hpl": {
+        "blockboard": 1800000,
+        "multipleks": 2500000,
+        "pvc": 3500000
+      },
+      "duco": {
+        "blockboard": 4500000,
+        "multipleks": 4500000,
+        "pvc": 4500000
+      }
+    }
+  },
+  {
+    "id": "katalog-rak-buku-display-12",
+    "nama": "Rak buku / rak pajang (display)",
+    "kategori": "Ruang Kerja & Penyimpanan",
+    "deskripsiSingkat": "Rak buku terbuka maupun lemari pajang kombinasi pintu untuk menata koleksi buku, arsip, serta dekorasi ruang.",
+    "gambarSampul": "/sample-produk/gambar/rak-real.webp",
+    "3d": "",
+    "media": [
+      "/sample-produk/gambar/rak-front.webp",
+      "/sample-produk/gambar/rak-detail.webp",
+      "/sample-produk/gambar/rak-open.webp",
+      "/sample-produk/gambar/rak-side.webp",
+      "/sample-produk/gambar/rak-real.webp"
+    ],
+    "referensiUkuran": [
+      "120x200",
+      "160x200",
+      "200x240"
+    ],
+    "meterLari": false,
+    "promo": "",
+    "customisasi": [
+      "Rak Terbuka Penuh",
+      "Kombinasi Terbuka + Kabinet Bawah"
+    ],
+    "include": [
+      "Penguatan Ambalan Beban Buku Berat",
+      "Bracket Pengaman Dinding Anti-Goyang",
+      "Penyangga Ambalan & Edging PVC Rapi"
+    ],
+    "harga": {
+      "hpl": {
+        "blockboard": 1800000,
+        "multipleks": 2500000,
+        "pvc": 3500000
+      },
+      "duco": {
+        "blockboard": 4500000,
+        "multipleks": 4500000,
+        "pvc": 4500000
+      }
+    }
+  },
+  {
+    "id": "katalog-partisi-ruangan-13",
+    "nama": "Partisi / penyekat ruangan",
+    "kategori": "Ruang Keluarga & Dinding",
+    "deskripsiSingkat": "Penyekat ruangan semi-terbuka maupun dua muka dengan rak display atau bilah kisi untuk membagi zona aktivitas tanpa terasa sempit.",
+    "gambarSampul": "/sample-produk/gambar/partisi-real.webp",
+    "3d": "",
+    "media": [
+      "/sample-produk/gambar/partisi-front.webp",
+      "/sample-produk/gambar/partisi-detail.webp",
+      "/sample-produk/gambar/partisi-open.webp",
+      "/sample-produk/gambar/partisi-side.webp",
+      "/sample-produk/gambar/partisi-real.webp"
+    ],
+    "referensiUkuran": [
+      "160x240",
+      "200x240",
+      "250x260"
+    ],
+    "meterLari": false,
+    "promo": "",
+    "customisasi": [
+      "Bilah Kisi Vertikal",
+      "Partisi Rak Dua Muka",
+      "Partisi Panel Tertutup"
+    ],
+    "include": [
+      "Laminasi Rapi Tampak Depan & Belakang",
+      "Penguatan Angkur Lantai & Plafon",
+      "Kaki Penyeimbang & Lis Penutup Tepi"
+    ],
+    "harga": {
+      "hpl": {
+        "blockboard": 2500000,
+        "multipleks": 2500000,
+        "pvc": 3500000
+      },
+      "duco": {
+        "blockboard": 4500000,
+        "multipleks": 4500000,
+        "pvc": 4500000
+      }
+    }
+  },
+  {
+    "id": "katalog-wall-panel-14",
+    "nama": "Wall panel / kisi-kisi dinding",
+    "kategori": "Ruang Keluarga & Dinding",
+    "deskripsiSingkat": "Pelapis dinding panel rata maupun kisi-kisi beralur vertikal untuk memberi kedalaman visual pada foyer, ruang tamu, dan area komersial.",
+    "gambarSampul": "/sample-produk/gambar/wall-panel-real.webp",
+    "3d": "",
+    "media": [
+      "/sample-produk/gambar/wall-panel-front.webp",
+      "/sample-produk/gambar/wall-panel-detail.webp",
+      "/sample-produk/gambar/wall-panel-open.webp",
+      "/sample-produk/gambar/wall-panel-side.webp",
+      "/sample-produk/gambar/wall-panel-real.webp"
+    ],
+    "referensiUkuran": [
+      "200x280",
+      "240x280",
+      "300x280"
+    ],
+    "meterLari": false,
+    "promo": "450000",
+    "customisasi": [
+      "Kisi-Kisi Vertikal",
+      "Panel Rata dengan Nat",
+      "Kombinasi Panel & Pintu Kamuflase"
+    ],
+    "include": [
+      "Rangka Dasar Penyesuai Kerataan Dinding",
+      "Pemotongan Titik Sakelar & Stopkontak",
+      "Lis Penutup Tepi & Nat Modul Rapi"
+    ],
+    "harga": {
+      "hpl": {
+        "blockboard": 1000000,
+        "multipleks": 1500000,
+        "pvc": 2000000
+      },
+      "duco": {
+        "blockboard": 4500000,
+        "multipleks": 4500000,
+        "pvc": 4500000
+      }
+    }
+  },
+  {
+    "id": "katalog-kabinet-bawah-tangga-15",
+    "nama": "Kabinet bawah tangga",
+    "kategori": "Ruang Kerja & Penyimpanan",
+    "deskripsiSingkat": "Pemanfaatan ruang miring di bawah tangga menjadi lemari penyimpanan tertutup, laci tarik, atau sudut rak fungsional.",
+    "gambarSampul": "/sample-produk/gambar/kabinet-tangga-real.webp",
+    "3d": "",
+    "media": [
+      "/sample-produk/gambar/kabinet-tangga-front.webp",
+      "/sample-produk/gambar/kabinet-tangga-detail.webp",
+      "/sample-produk/gambar/kabinet-tangga-open.webp",
+      "/sample-produk/gambar/kabinet-tangga-real.webp"
+    ],
+    "referensiUkuran": [
+      "250x180",
+      "300x200",
+      "350x220"
+    ],
+    "meterLari": false,
+    "promo": "",
+    "customisasi": [
+      "Lemari Pintu Rata + Laci",
+      "Kombinasi Rak & Gudang Tertutup"
+    ],
+    "include": [
+      "Rangka Penyesuai Sudut Kemiringan Tangga",
+      "Engsel & Rel Laci Tarik Heavy-Duty Soft-Close",
+      "Sekat Kompartemen & Handle Minimalis"
+    ],
+    "harga": {
+      "hpl": {
+        "blockboard": 1800000,
+        "multipleks": 2500000,
+        "pvc": 3500000
+      },
+      "duco": {
+        "blockboard": 4500000,
+        "multipleks": 4500000,
+        "pvc": 4500000
+      }
+    }
+  },
+  {
+    "id": "katalog-lemari-sepatu-16",
+    "nama": "Lemari sepatu",
+    "kategori": "Ruang Kerja & Penyimpanan",
+    "deskripsiSingkat": "Kabinet penyimpanan sepatu dengan rak bertingkat, ventilasi udara rapi, serta opsi bangku duduk untuk area foyer atau teras.",
+    "gambarSampul": "/sample-produk/gambar/rak-sepatu-real.webp",
+    "3d": "",
+    "media": [
+      "/sample-produk/gambar/rak-sepatu-front.webp",
+      "/sample-produk/gambar/rak-sepatu-detail.webp",
+      "/sample-produk/gambar/rak-sepatu-open.webp",
+      "/sample-produk/gambar/rak-sepatu-side.webp",
+      "/sample-produk/gambar/rak-sepatu-real.webp"
+    ],
+    "referensiUkuran": [
+      "100x110",
+      "120x120",
+      "150x120"
+    ],
+    "meterLari": false,
+    "promo": "",
+    "customisasi": [
+      "Kabinet Tinggi Penuh",
+      "Kabinet + Bangku Duduk Foyer"
+    ],
+    "include": [
+      "Celah Ventilasi Udara Belakang/Pintu",
+      "Ambalan Tingkat Fleksibel (Sepatu & Boots)",
+      "Engsel Soft-Close Pintu Kabinet"
+    ],
+    "harga": {
+      "hpl": {
+        "blockboard": 1800000,
+        "multipleks": 2500000,
+        "pvc": 3500000
+      },
+      "duco": {
+        "blockboard": 4500000,
+        "multipleks": 4500000,
+        "pvc": 4500000
+      }
+    }
+  },
+  {
+    "id": "katalog-vanity-kamar-mandi-17",
+    "nama": "Kabinet wastafel kamar mandi (vanity)",
+    "kategori": "Kamar Mandi & Cuci",
+    "deskripsiSingkat": "Kabinet bawah wastafel dan kabinet cermin kamar mandi dengan pilihan material utama tahan lembap serta jalur pipa yang rapi.",
+    "gambarSampul": "/sample-produk/gambar/bathroom-vanity-real.webp",
+    "3d": "",
+    "media": [
+      "/sample-produk/gambar/bathroom-vanity-front.webp",
+      "/sample-produk/gambar/bathroom-vanity-detail.webp",
+      "/sample-produk/gambar/bathroom-vanity-open.webp",
+      "/sample-produk/gambar/bathroom-vanity-side.webp",
+      "/sample-produk/gambar/bathroom-vanity-real.webp"
+    ],
+    "referensiUkuran": [
+      "80x60",
+      "100x75",
+      "120x80"
+    ],
+    "meterLari": true,
+    "promo": "8%",
+    "customisasi": [
+      "Floating Gantung Dinding",
+      "Berdiri (Floor-Standing)"
+    ],
+    "include": [
+      "Coakan Rapi Pipa Sifon & Afur Wastafel",
+      "Sealant Tepi Pertemuan Dinding & Top",
+      "Engsel Soft-Close Area Lembap"
+    ],
+    "harga": {
+      "hpl": {
+        "blockboard": 1800000,
+        "multipleks": 2500000,
+        "pvc": 3500000
+      },
+      "duco": {
+        "blockboard": 4500000,
+        "multipleks": 4500000,
+        "pvc": 4500000
+      }
+    }
+  },
+  {
+    "id": "katalog-laundry-cabinet-18",
+    "nama": "Kabinet ruang cuci (laundry cabinet)",
+    "kategori": "Kamar Mandi & Cuci",
+    "deskripsiSingkat": "Kabinet penataan mesin cuci, ruang lipat pakaian, serta penyimpanan deterjen yang tahan cipratan air dan rapi.",
+    "gambarSampul": "/sample-produk/gambar/kabinet-laundry-real.webp",
+    "3d": "",
+    "media": [
+      "/sample-produk/gambar/kabinet-laundry-front.webp",
+      "/sample-produk/gambar/kabinet-laundry-detail.webp",
+      "/sample-produk/gambar/kabinet-laundry-open.webp",
+      "/sample-produk/gambar/kabinet-laundry-side.webp",
+      "/sample-produk/gambar/kabinet-laundry-real.webp"
+    ],
+    "referensiUkuran": [
+      "140x210",
+      "180x220",
+      "220x220"
+    ],
+    "meterLari": false,
+    "promo": "",
+    "customisasi": [
+      "Kabinet Atas + Meja Lipat",
+      "Menara Mesin Cuci & Pengering"
+    ],
+    "include": [
+      "Akses Selang Air Masuk, Pembuangan & Listrik",
+      "Batang Gantung Pakaian Kabinet Atas",
+      "Engsel Soft-Close & Sealant Area Lembap"
+    ],
+    "harga": {
+      "hpl": {
+        "blockboard": 1800000,
+        "multipleks": 2500000,
+        "pvc": 3500000
+      },
+      "duco": {
+        "blockboard": 4500000,
+        "multipleks": 4500000,
+        "pvc": 4500000
+      }
+    }
+  },
+  {
+    "id": "katalog-meja-resepsionis-19",
+    "nama": "Meja resepsionis",
+    "kategori": "Komersial & Gerai",
+    "deskripsiSingkat": "Meja penerima tamu untuk kantor, klinik, atau studio dengan fasad depan arsitektural serta area kerja staf yang tertata di sisi dalam.",
+    "gambarSampul": "/sample-produk/gambar/meja-resepsionis-real.webp",
+    "3d": "",
+    "media": [
+      "/sample-produk/gambar/meja-resepsionis-front.webp",
+      "/sample-produk/gambar/meja-resepsionis-detail.webp",
+      "/sample-produk/gambar/meja-resepsionis-side.webp",
+      "/sample-produk/gambar/meja-resepsionis-real.webp"
+    ],
+    "referensiUkuran": [
+      "180x105",
+      "220x110",
+      "260x110"
+    ],
+    "meterLari": true,
+    "promo": "",
+    "customisasi": [
+      "Lurus (Straight)",
+      "Sudut (L-Shape)"
+    ],
+    "include": [
+      "Grommet Kabel Komputer & Telepon Tersembunyi",
+      "Laci Arsip & Kompartemen Berkas Sisi Dalam",
+      "Rel Laci Soft-Close & Penguatan Rangka Konter"
+    ],
+    "harga": {
+      "hpl": {
+        "blockboard": 1800000,
+        "multipleks": 2500000,
+        "pvc": 3500000
+      },
+      "duco": {
+        "blockboard": 4500000,
+        "multipleks": 4500000,
+        "pvc": 4500000
+      }
+    }
+  },
+  {
+    "id": "katalog-meja-kasir-20",
+    "nama": "Meja kasir",
+    "kategori": "Komersial & Gerai",
+    "deskripsiSingkat": "Konter kasir toko atau kafe lengkap dengan laci tunai, ruang perangkat POS, jalur kabel, serta rak display depan.",
+    "gambarSampul": "/sample-produk/gambar/meja-kasir-real.webp",
+    "3d": "",
+    "media": [
+      "/sample-produk/gambar/meja-kasir-front.webp",
+      "/sample-produk/gambar/meja-kasir-detail.webp",
+      "/sample-produk/gambar/meja-kasir-side.webp",
+      "/sample-produk/gambar/meja-kasir-real.webp"
+    ],
+    "referensiUkuran": [
+      "140x95",
+      "180x100",
+      "220x105"
+    ],
+    "meterLari": true,
+    "promo": "",
+    "customisasi": [
+      "Lurus Ringkas",
+      "Sudut (L-Shape) + Rak Display"
+    ],
+    "include": [
+      "Jalur Kabel Mesin POS, Printer Struk & EDC",
+      "Laci Transaksi Rel Soft-Close",
+      "Lubang Grommet Kabel & Kunci Laci Kasir"
+    ],
+    "harga": {
+      "hpl": {
+        "blockboard": 1800000,
+        "multipleks": 2500000,
+        "pvc": 3500000
+      },
+      "duco": {
+        "blockboard": 4500000,
+        "multipleks": 4500000,
+        "pvc": 4500000
+      }
+    }
+  },
+  {
+    "id": "katalog-booth-pameran-gerai-21",
+    "nama": "Booth pameran / gerai",
+    "kategori": "Komersial & Gerai",
+    "deskripsiSingkat": "Unit booth pameran atau gerai ritel modular dengan konter pelayanan, rak pajang produk, backdrop merek, dan ruang simpan.",
+    "gambarSampul": "/sample-produk/gambar/booth-exhibition-real.webp",
+    "3d": "",
+    "media": [
+      "/sample-produk/gambar/booth-exhibition-front.webp",
+      "/sample-produk/gambar/booth-exhibition-detail.webp",
+      "/sample-produk/gambar/booth-exhibition-open.webp",
+      "/sample-produk/gambar/booth-exhibition-side.webp",
+      "/sample-produk/gambar/booth-exhibition-real.webp"
+    ],
+    "referensiUkuran": [
+      "200x240",
+      "300x250",
+      "300x280"
+    ],
+    "meterLari": false,
+    "promo": "",
+    "customisasi": [
+      "Gerai Modular Bongkar-Pasang",
+      "Booth Permanen Area Mall"
+    ],
+    "include": [
+      "Sistem Sambungan Knockdown Modular",
+      "Ruang Panel Kabel & Stopkontak Gerai",
+      "Kunci Pintu Kabinet Simpan & Kaki Pengatur Rata"
+    ],
+    "harga": {
+      "hpl": {
+        "blockboard": 1800000,
+        "multipleks": 2500000,
+        "pvc": 3500000
+      },
+      "duco": {
+        "blockboard": 4500000,
+        "multipleks": 4500000,
+        "pvc": 4500000
+      }
+    }
+  }
+]

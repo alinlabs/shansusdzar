@@ -1,0 +1,12 @@
+# Binary media and font assets (tracked natively in Git; hero.webm is ~4 MB so Git LFS is not needed)
+*.webm binary
+*.mp4 binary
+*.webp binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ico binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.mjs binary

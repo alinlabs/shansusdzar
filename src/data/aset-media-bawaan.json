@@ -1,0 +1,109 @@
+{
+  "asetLogoMerek": [
+    "/logo-gelap.webp",
+    "/logo-white.webp",
+    "/favicon.svg"
+  ],
+  "asetGambarMerekUtama": [
+    "/logo-gelap.webp",
+    "/logo-white.webp",
+    "/favicon.svg",
+    "/images/hero-interior-studio.webp",
+    "/images/promo-interior-banner.webp",
+    "/owner.png"
+  ],
+  "gambarProduk": [
+    {
+      "label": "Sofa Sandar Minimalis",
+      "url": "/produk/gambar/sofa-sandar-minimalis.webp"
+    },
+    {
+      "label": "Meja Makan Arsitektural",
+      "url": "/produk/gambar/meja-makan-arsitektural.webp"
+    },
+    {
+      "label": "Lemari Pakaian Panel Rata",
+      "url": "/produk/gambar/lemari-pakaian-panel-rata.webp"
+    },
+    {
+      "label": "Kabinet Dapur Modular",
+      "url": "/produk/gambar/kabinet-dapur-modular.webp"
+    },
+    {
+      "label": "Credenza & Panel Dinding",
+      "url": "/produk/gambar/credenza-panel-dinding.webp"
+    },
+    {
+      "label": "Meja Kerja & Kabinet",
+      "url": "/produk/gambar/meja-kerja-kabinet-dinding.webp"
+    },
+    {
+      "label": "Workshop & Craft",
+      "url": "/images/atelier-studio-craft.webp"
+    }
+  ],
+  "gambarPortofolio": [
+    {
+      "label": "Dapur Modular",
+      "url": "/produk/gambar/kabinet-dapur-modular.webp"
+    },
+    {
+      "label": "Lemari Panel",
+      "url": "/produk/gambar/lemari-pakaian-panel-rata.webp"
+    },
+    {
+      "label": "Meja Makan",
+      "url": "/produk/gambar/meja-makan-arsitektural.webp"
+    },
+    {
+      "label": "Credenza Panel",
+      "url": "/produk/gambar/credenza-panel-dinding.webp"
+    },
+    {
+      "label": "Meja Kerja",
+      "url": "/produk/gambar/meja-kerja-kabinet-dinding.webp"
+    },
+    {
+      "label": "Workshop Craft",
+      "url": "/images/atelier-studio-craft.webp"
+    },
+    {
+      "label": "Hero Interior",
+      "url": "/images/hero-interior-studio.webp"
+    }
+  ],
+  "sampulBerita": [
+    {
+      "label": "Kabinet Dapur Modular",
+      "url": "/produk/gambar/kabinet-dapur-modular.webp"
+    },
+    {
+      "label": "Lemari Pakaian Panel Rata",
+      "url": "/produk/gambar/lemari-pakaian-panel-rata.webp"
+    },
+    {
+      "label": "Credenza & Panel Dinding",
+      "url": "/produk/gambar/credenza-panel-dinding.webp"
+    },
+    {
+      "label": "Sofa Sandar Minimalis",
+      "url": "/produk/gambar/sofa-sandar-minimalis.webp"
+    },
+    {
+      "label": "Meja Makan Arsitektural",
+      "url": "/produk/gambar/meja-makan-arsitektural.webp"
+    },
+    {
+      "label": "Meja Kerja & Kabinet",
+      "url": "/produk/gambar/meja-kerja-kabinet-dinding.webp"
+    },
+    {
+      "label": "Workshop Shansusdzar",
+      "url": "/images/atelier-studio-craft.webp"
+    },
+    {
+      "label": "Interior Studio Banner",
+      "url": "/images/hero-interior-studio.webp"
+    }
+  ]
+}

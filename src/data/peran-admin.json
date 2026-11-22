@@ -1,0 +1,76 @@
+[
+  {
+    "id": "role-super-admin",
+    "nama": "Super Admin",
+    "deskripsi": "Akses penuh ke seluruh modul konten website, katalog, portofolio, informasi, keuangan, dan manajemen hak akses.",
+    "peranSistem": true,
+    "daftarIzin": [
+      "dashboard.view",
+      "katalog.view",
+      "katalog.edit",
+      "katalog.delete",
+      "portofolio.view",
+      "portofolio.edit",
+      "portofolio.delete",
+      "informasi.view",
+      "informasi.edit",
+      "tentang.view",
+      "tentang.edit",
+      "bisnis.edit",
+      "keuangan.view",
+      "keuangan.edit",
+      "keuangan.delete",
+      "marketing.view",
+      "marketing.edit",
+      "akses.view",
+      "akses.manage"
+    ]
+  },
+  {
+    "id": "role-catalog-editor",
+    "nama": "Editor Katalog",
+    "deskripsi": "Mengelola produk katalog, variasi ukuran, material, serta melihat ringkasan dashboard.",
+    "peranSistem": false,
+    "daftarIzin": [
+      "dashboard.view",
+      "katalog.view",
+      "katalog.edit",
+      "katalog.delete",
+      "portofolio.view"
+    ]
+  },
+  {
+    "id": "role-content-manager",
+    "nama": "Manajer Konten & Informasi",
+    "deskripsi": "Mengelola portofolio proyek, halaman informasi material/FAQ, beranda, sosial media, serta marketing kontak.",
+    "peranSistem": false,
+    "daftarIzin": [
+      "dashboard.view",
+      "katalog.view",
+      "portofolio.view",
+      "portofolio.edit",
+      "informasi.view",
+      "informasi.edit",
+      "tentang.view",
+      "tentang.edit",
+      "marketing.view",
+      "marketing.edit"
+    ]
+  },
+  {
+    "id": "role-viewer",
+    "nama": "Auditor / Viewer",
+    "deskripsi": "Hanya dapat meninjau dashboard, daftar produk, portofolio, informasi, marketing, dan ringkasan keuangan tanpa hak ubah.",
+    "peranSistem": false,
+    "daftarIzin": [
+      "dashboard.view",
+      "katalog.view",
+      "portofolio.view",
+      "informasi.view",
+      "tentang.view",
+      "keuangan.view",
+      "marketing.view",
+      "akses.view"
+    ]
+  }
+]

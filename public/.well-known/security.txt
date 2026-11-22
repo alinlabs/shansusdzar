@@ -1,0 +1,5 @@
+Contact: https://wa.me/6285797184059
+Canonical: https://sdi-furniture.vercel.app/.well-known/security.txt
+Policy: https://sdi-furniture.vercel.app/keamanan-kepatuhan
+Preferred-Languages: id, en
+Expires: 2027-12-31T23:59:59.000Z

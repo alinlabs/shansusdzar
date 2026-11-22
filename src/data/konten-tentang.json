@@ -1,0 +1,165 @@
+{
+  "labelAtas": "Tentang Kami",
+  "judul": "Shansus Dzar Indonesia",
+  "pengantar": "Interior Design & Building dari Purwakarta dengan material utama pilihan serta ukuran yang menyesuaikan ruang Anda.",
+  "gambarWorkshop": "/images/atelier-studio-craft.webp",
+  "teksAltWorkshop": "Meja kerja workshop Shansus Dzar Indonesia dengan sampel material utama papan, finishing/laminasi, dan gulungan gambar kerja",
+  "daftarParagraf": [
+    "Layanan furniture dan penataan interior dari Purwakarta yang berfokus pada pengerjaan unit furniture serta interior custom sesuai kondisi ruang aktual mulai dari ruang tamu, area makan, kamar tidur, hingga kabinet dapur.",
+    "Setiap perencanaan diawali dengan memahami kebutuhan harian penghuni, ketepatan dimensi ruangan, serta pemilihan material utama berketebalan standar 18 mm (Blockboard, Multipleks, PVC Board) dan finishing/laminasi (HPL, Cat Duco) agar hasil akhir nyaman digunakan dalam jangka panjang."
+  ],
+  "biografiPemilik": "Memimpin langsung workshop produksi dan perencanaan interior di Purwakarta bersama tim pengrajin dan para santri terampil, mengedepankan ketelitian sambungan serta pemilihan material utama yang jujur.",
+  "labelLokasi": "Lokasi & Kontak",
+  "judulLokasi": "Berbasis di Purwakarta, Jawa Barat",
+  "prinsipKerja": [
+    {
+      "id": "proporsi-ruang",
+      "nomor": "01",
+      "judul": "Menyesuaikan Dimensi Ruang Aktual",
+      "deskripsi": "Setiap unit dirancang mengacu pada ukuran ruangan yang tersedia sehingga tata letak terasa lega dan tetap fungsional."
+    },
+    {
+      "id": "material-jujur",
+      "nomor": "02",
+      "judul": "Diskusi Material Secara Terbuka",
+      "deskripsi": "Karakteristik rangka, lapisan HPL atau finishing/laminasi Cat Duco, serta pilihan warna dibahas sejak awal agar sesuai dengan penggunaan ruang."
+    },
+    {
+      "id": "estimasi-terukur",
+      "nomor": "03",
+      "judul": "Estimasi Awal & Verifikasi Lapangan",
+      "deskripsi": "Perkiraan biaya bersifat transparan sebagai acuan konsultasi awal dan baru difinalkan setelah konfirmasi ukuran di lokasi."
+    },
+    {
+      "id": "pendampingan-langsung",
+      "nomor": "04",
+      "judul": "Komunikasi Langsung dengan Tim Kami",
+      "deskripsi": "Ringkasan pilihan produk atau custom interior dapat langsung dibagikan ke WhatsApp resmi kami untuk penjadwalan konsultasi lanjutan."
+    }
+  ],
+  "labelVisi": "Visi & Misi Studio",
+  "judulVisi": "Menghadirkan Ruang Fungsional dengan Karya Presisi & Amanah",
+  "pernyataanVisi": "Menjadi workshop furniture dan interior custom terpercaya yang menghadirkan ruang hunian serta ruang kerja berkualitas tinggi, proporsional, jujur dalam spesifikasi material, dan memberdayakan keterampilan pengrajin serta para santri.",
+  "judulMisi": "Misi Pengerjaan & Pelayanan",
+  "daftarMisi": [
+    "Merancang setiap unit furniture dan kabinet berdasarkan dimensi ruang aktual agar sirkulasi dan fungsi penyimpanan maksimal.",
+    "Menyajikan pilihan material utama dengan ketebalan seragam 18 mm (Blockboard, Multipleks, PVC Board) serta finishing/laminasi (HPL, Cat Duco) secara terbuka dan sesuai kebutuhan ruang.",
+    "Membina keterampilan teknis pengrajin dan santri pada standar sambungan, finishing/laminasi, dan perakitan presisi di workshop.",
+    "Memberikan estimasi awal yang transparan, alur kerja 6 tahap yang terukur (Konsultasi, Survei, Design, DP, Produksi, hingga Instalasi/Pemasangan)."
+  ],
+  "labelTim": "Tim & Workshop",
+  "judulTim": "Orang-Orang di Balik Setiap Pengerjaan",
+  "deskripsiTim": "Setiap pesanan ditangani terpadu oleh tim perencana ruang, pengrajin kayu berpengalaman, dan para santri terampil di workshop Cibogohilir, Purwakarta.",
+  "anggotaTim": [
+    {
+      "id": "tim-hilman",
+      "nama": "Hilman Aziz Napis",
+      "inisial": "HA",
+      "jabatan": "Pendiri & Kepala Studio",
+      "divisi": "Pimpinan & Konsultasi Desain",
+      "biodata": "Mengarahkan perencanaan ruang, persetujuan desain akhir, dan kontrol kualitas langsung sebelum unit dikirim ke lokasi klien.",
+      "fotoProfil": "/owner.png",
+      "teksAltFoto": "Foto profil Hilman Aziz Napis, Pendiri & Kepala Studio"
+    },
+    {
+      "id": "tim-fajar",
+      "nama": "Fajar Maulana",
+      "inisial": "FM",
+      "jabatan": "Kepala Produksi & Material",
+      "divisi": "Workshop & Seleksi Bahan",
+      "biodata": "Memastikan seluruh material utama (Blockboard, Multipleks, PVC Board) dan hardware soft-close terpotong presisi sesuai gambar kerja workshop.",
+      "fotoProfil": "",
+      "teksAltFoto": "Foto Fajar Maulana"
+    },
+    {
+      "id": "tim-aisyah",
+      "nama": "Aisyah Rahma",
+      "inisial": "AR",
+      "jabatan": "Perencana Interior & Estimasi",
+      "divisi": "Layanan Klien & RAB",
+      "biodata": "Membantu menerjemahkan kebutuhan ruang klien menjadi tata letak 3D, pemilihan finishing/laminasi HPL atau Cat Duco, serta rincian estimasi biaya.",
+      "fotoProfil": "",
+      "teksAltFoto": "Foto Aisyah Rahma"
+    },
+    {
+      "id": "tim-santri",
+      "nama": "Tim Pengrajin & Santri SDI",
+      "inisial": "SD",
+      "jabatan": "Tim Perakitan & Instalasi",
+      "divisi": "Produksi, Finishing/Laminasi & Pemasangan",
+      "biodata": "Menangani perakitan sambungan, aplikasi HPL dan Cat Duco, hingga pemasangan rapi di rumah maupun kantor klien.",
+      "fotoProfil": "",
+      "teksAltFoto": "Foto Tim Pengrajin & Santri SDI"
+    }
+  ],
+  "sorotanWorkshop": [
+    {
+      "id": "hl-workshop",
+      "nilai": "450 m²",
+      "label": "Luas Workshop Produksi",
+      "detail": "Fasilitas potong presisi, finishing/laminasi HPL / Cat Duco, dan uji rakit kering di Purwakarta."
+    },
+    {
+      "id": "hl-survey",
+      "nilai": "5 Wilayah",
+      "label": "Area Survei Langsung",
+      "detail": "Melayani Purwakarta, Karawang, Subang, Bandung, hingga Jabodetabek."
+    },
+    {
+      "id": "hl-material",
+      "nilai": "18 mm · 3 Bahan",
+      "label": "Ketebalan Seragam & Material",
+      "detail": "Seluruh bahan utama (Blockboard, Multipleks, dan PVC Board) berketebalan 18 mm dengan finishing HPL atau Cat Duco."
+    },
+    {
+      "id": "hl-garansi",
+      "nilai": "12 Bulan",
+      "label": "Garansi Hardware & Sambungan",
+      "detail": "Dukungan purnajual untuk penyetelan engsel, rel laci, dan kelistrikan kabinet."
+    }
+  ],
+  "komitmenLayanan": [
+    "Konsultasi kebutuhan dan estimasi awal terbuka tanpa biaya tersembunyi.",
+    "Survei pengukuran langsung di lokasi untuk memastikan ukuran presisi terhadap kolom dan jalur instalasi.",
+    "Pembaruan progres pengerjaan workshop secara berkala sebelum jadwal pengiriman dan pemasangan."
+  ],
+  "gambarKriyaStudio": {
+    "sumberGambar": "/images/atelier-studio-craft.webp",
+    "teksAlt": "Sampel material utama papan, palet finishing/laminasi, dan gambar kerja di workshop Shansus Dzar Indonesia"
+  },
+  "drafPengantarStudio": {
+    "labelAtas": "Tentang Kami",
+    "judul": "Shansus Dzar Indonesia",
+    "pengantar": "Interior Design & Building dari Purwakarta dengan material utama pilihan serta ukuran yang menyesuaikan ruang Anda.",
+    "daftarParagraf": [
+      "Layanan furniture dan penataan interior dari Purwakarta yang berfokus pada pengerjaan unit furniture serta interior custom sesuai kondisi ruang aktual mulai dari ruang tamu, area makan, kamar tidur, hingga kabinet dapur.",
+      "Setiap perencanaan diawali dengan memahami kebutuhan harian penghuni, ketepatan dimensi ruangan, serta pemilihan material dan finishing/laminasi yang terarah agar hasil akhir nyaman digunakan dalam jangka panjang."
+    ]
+  },
+  "prinsipKerjaPublik": [
+    {
+      "id": "proporsi-ruang",
+      "nomor": "01",
+      "judul": "Menyesuaikan Dimensi Ruang Aktual",
+      "deskripsi": "Setiap unit dirancang mengacu pada ukuran ruangan yang tersedia sehingga tata letak terasa lega dan tetap fungsional."
+    },
+    {
+      "id": "material-jujur",
+      "nomor": "02",
+      "judul": "Diskusi Material Secara Terbuka",
+      "deskripsi": "Karakteristik rangka, lapisan HPL atau finishing/laminasi Cat Duco, serta pilihan warna dibahas sejak awal agar sesuai dengan penggunaan ruang."
+    },
+    {
+      "id": "estimasi-terukur",
+      "nomor": "03",
+      "judul": "Estimasi Awal & Verifikasi Lapangan",
+      "deskripsi": "Perkiraan biaya bersifat transparan sebagai acuan konsultasi awal dan baru difinalkan setelah konfirmasi ukuran di lokasi."
+    },
+    {
+      "id": "pendampingan-langsung",
+      "nomor": "04",
+      "judul": "Komunikasi Langsung dengan Tim Kami",
+      "deskripsi": "Ringkasan pilihan produk atau custom interior dapat langsung dibagikan ke WhatsApp resmi kami untuk penjadwalan konsultasi lanjutan."
+    }
+  ]
+}

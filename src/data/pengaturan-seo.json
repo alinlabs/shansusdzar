@@ -1,0 +1,53 @@
+{
+  "judulBawaan": "Shansus Dzar Indonesia — Interior Design & Building",
+  "deskripsiBawaan": "Interior Design & Building di Purwakarta. Jelajahi katalog, hitung estimasi awal, dan jadwalkan survei lapangan.",
+  "kataKunci": "interior purwakarta, furniture custom purwakarta, kitchen set custom, lemari wardrobe custom, workshop interior shansus dzar indonesia",
+  "urlKanonikalDasar": "https://sdi-furniture.vercel.app",
+  "kebijakanRobots": "index, follow",
+  "verifikasiGoogleSite": "",
+  "namaSitusOg": "Shansus Dzar Indonesia",
+  "tipeOg": "website",
+  "urlGambarOg": "/metatag.webp",
+  "kartuTwitter": "summary_large_image",
+  "akunTwitter": "@shansusdzar.indonesia",
+  "tipeSkema": "FurnitureStore",
+  "areaLayanan": "Purwakarta, Karawang, Subang, Bandung, Bekasi, Jabodetabek",
+  "kisaranHarga": "$$",
+  "penyesuaianHalaman": [
+    {
+      "jalurRute": "/",
+      "labelHalaman": "Beranda",
+      "judulMeta": "Shansus Dzar Indonesia | Interior Design & Building",
+      "deskripsiMeta": "Shansus Dzar Indonesia — Interior Design & Building Purwakarta. Lihat katalog furniture, estimasi biaya mandiri, serta layanan survei lokasi resmi.",
+      "kataKunciFokus": "interior purwakarta, furniture custom, kitchen set custom"
+    },
+    {
+      "jalurRute": "/produk",
+      "labelHalaman": "Produk Furniture",
+      "judulMeta": "Produk Furniture & Kabinet | Shansus Dzar Indonesia",
+      "deskripsiMeta": "Jelajahi koleksi kitchen set, wardrobe, sofa, meja kerja, dan credenza kustom dengan pilihan bahan Blockboard, Multipleks, PVC Board serta finishing/laminasi HPL dan Cat Duco.",
+      "kataKunciFokus": "produk furniture, kitchen set custom, wardrobe custom"
+    },
+    {
+      "jalurRute": "/produk/custom",
+      "labelHalaman": "Hitung Estimasi Custom",
+      "judulMeta": "Hitung Estimasi Custom Interior | Shansus Dzar Indonesia",
+      "deskripsiMeta": "Hitung simulasi estimasi biaya custom interior dari panjang × tinggi serta pilihan material utama dan finishing/laminasi per meter persegi.",
+      "kataKunciFokus": "hitung biaya kitchen set, kalkulator custom interior"
+    },
+    {
+      "jalurRute": "/portofolio",
+      "labelHalaman": "Portofolio Proyek",
+      "judulMeta": "Portofolio Penataan Interior | Shansus Dzar Indonesia",
+      "deskripsiMeta": "Dokumentasi pengerjaan kitchen set, ruang tamu, dan lemari custom karya tim Shansus Dzar Indonesia di Purwakarta dan Jawa Barat.",
+      "kataKunciFokus": "portofolio interior purwakarta, hasil kerja kitchen set"
+    },
+    {
+      "jalurRute": "/tentang",
+      "labelHalaman": "Tentang Workshop",
+      "judulMeta": "Tentang Workshop & Profil | Shansus Dzar Indonesia",
+      "deskripsiMeta": "Kenali Shansus Dzar Indonesia (Interior Design & Building) di Kp. Tegal Jati Purwakarta beserta prinsip kerja presisi dan transparan.",
+      "kataKunciFokus": "workshop furniture purwakarta, shansus dzar indonesia"
+    }
+  ]
+}

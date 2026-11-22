@@ -1,0 +1,87 @@
+[
+  {
+    "id": "spks-1",
+    "nomorKontrak": "SPKS-SDI-2026-008",
+    "jenisPerjanjian": "Kontrak Proyek Custom Interior",
+    "kotaPenandatanganan": "Purwakarta",
+    "tanggalPenandatanganan": "2026-11-17",
+    "status": "Aktif Berjalan",
+    "perusahaanPihakPertama": "Interior & Furniture Shansusdzar Indonesia",
+    "perwakilanPihakPertama": "Hilman Aziz Napis",
+    "jabatanPihakPertama": "Owner & Penanggung Jawab Workshop",
+    "alamatPihakPertama": "Kp. Tegal Jati, RT 19/RW 10, Desa Cibogohilir, Kabupaten Purwakarta, 41162, Indonesia",
+    "namaPihakKedua": "Ibu Ratna Dewi",
+    "nomorIdentitasPihakKedua": "3214015408890002",
+    "jabatanPihakKedua": "Pemilik Rumah / Pemberi Tugas",
+    "teleponPihakKedua": "+6281294401122",
+    "alamatPihakKedua": "Perumahan Bukit Indah Blok C4, Kabupaten Purwakarta",
+    "judulProyek": "Pengadaan & Pemasangan Kitchen Set L-Shape serta Kabinet Pantry",
+    "lokasiProyek": "Perumahan Bukit Indah Blok C4, Kabupaten Purwakarta",
+    "nilaiKontrak": 26500000,
+    "persenDp": 30,
+    "persenProgres": 60,
+    "persenPelunasan": 10,
+    "tahapanPembayaran": [
+      {
+        "id": "termin-dp",
+        "urutan": 1,
+        "nama": "Termin 1 : Down Payment",
+        "persentase": 30,
+        "keterangan": "Saat kontrak ditandatangani dan disepakati."
+      },
+      {
+        "id": "termin-produksi",
+        "urutan": 2,
+        "nama": "Termin 2 : Progress Produksi",
+        "persentase": 40,
+        "keterangan": "Saat produksi sudah berjalan 50% progress."
+      },
+      {
+        "id": "termin-pra-instalasi",
+        "urutan": 3,
+        "nama": "Termin 3 : Pra-Instalasi",
+        "persentase": 20,
+        "keterangan": "Setelah produksi selesai dan siap diinstal atau sebelum diinstal."
+      },
+      {
+        "id": "termin-bast",
+        "urutan": 4,
+        "nama": "Termin 4 : Serah Terima",
+        "persentase": 10,
+        "keterangan": "Sebagai masa tunggu revisi atau perbaikan, dibayar saat penandatanganan BAST."
+      }
+    ],
+    "catatanPembayaran": "Pembayaran dilakukan bertahap sesuai progres pengerjaan dan hanya sah melalui rekening resmi yang tercantum pada invoice workshop.",
+    "durasiKerjaHari": 21,
+    "masaGaransiBulan": 6,
+    "daftarPasal": [
+      {
+        "id": "cl-1",
+        "judulPasal": "Pasal 1 — Ruang Lingkup Pekerjaan",
+        "isiPasal": "PIHAK PERTAMA berkewajiban memproduksi, mengirim, dan memasang unit custom interior sesuai gambar kerja, ukuran survei lapangan, serta spesifikasi material utama (Blockboard, Multipleks, atau PVC Board) dan finishing/laminasi (HPL atau Cat Duco) yang telah disetujui bersama oleh PIHAK KEDUA."
+      },
+      {
+        "id": "cl-2",
+        "judulPasal": "Pasal 2 — Nilai Kontrak & Tata Cara Pembayaran",
+        "isiPasal": "Total nilai pekerjaan disepakati sebesar nilai kontrak tercantum dengan sistem pembayaran bertahap sesuai skema resmi workshop: 1) Termin 1 : Down Payment sebesar 30% (Saat kontrak ditandatangani dan disepakati); 2) Termin 2 : Progress Produksi sebesar 40% (Saat produksi sudah berjalan 50% progress); 3) Termin 3 : Pra-Instalasi sebesar 20% (Setelah produksi selesai dan siap diinstal atau sebelum diinstal); 4) Termin 4 : Serah Terima sebesar 10% (Sebagai masa tunggu revisi atau perbaikan, dibayar saat penandatanganan BAST). Pembayaran dilakukan bertahap sesuai progres pengerjaan dan hanya sah melalui rekening resmi yang tercantum pada invoice workshop."
+      },
+      {
+        "id": "cl-3",
+        "judulPasal": "Pasal 3 — Jangka Waktu & Serah Terima",
+        "isiPasal": "Estimasi durasi pengerjaan workshop hingga instalasi di lokasi adalah sesuai hari kerja yang tercantum sejak pembayaran DP diterima dan gambar kerja final ditandatangani, tidak termasuk penundaan akibat renovasi sipil di lokasi."
+      },
+      {
+        "id": "cl-4",
+        "judulPasal": "Pasal 4 — Garansi Konstruksi & Perubahan Tambahan",
+        "isiPasal": "PIHAK PERTAMA memberikan masa pemeliharaan dan penyetelan engsel/rel selama masa garansi sejak Berita Acara Serah Terima. Penambahan atau perubahan desain di luar kesepakatan awal dituangkan dalam Addendum biaya terpisah."
+      },
+      {
+        "id": "cl-5",
+        "judulPasal": "Pasal 5 — Penyelesaian Perselisihan",
+        "isiPasal": "Apabila timbul perbedaan penafsiran selama pelaksanaan kerja sama, kedua belah pihak sepakat menyelesaikannya terlebih dahulu melalui musyawarah mufakat."
+      }
+    ],
+    "saksiPihakPertama": "Fajar Maulana",
+    "saksiPihakKedua": "Keluarga Klien"
+  }
+]

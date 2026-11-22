@@ -1,0 +1,77 @@
+[
+  {
+    "id": "mat-blockboard",
+    "nama": "Blockboard",
+    "kategori": "papan",
+    "ketahananLembap": 3,
+    "peringkatKeawetan": 4,
+    "tingkatHarga": "Ekonomis",
+    "cocokUntuk": [
+      "Rak Dinding",
+      "Partisi Ruangan",
+      "Pintu Lemari Bidang Lebar"
+    ],
+    "ringkasan": "Papan inti susunan bilah kayu dengan ketebalan standar 18 mm yang ringan, rata, dan stabil sehingga tidak mudah melengkung untuk unit berukuran lebar.",
+    "tipsPerawatan": "Bersihkan permukaan dengan kain kering atau sedikit lembap serta jaga sirkulasi ruang tetap kering."
+  },
+  {
+    "id": "mat-multipleks",
+    "nama": "Multipleks",
+    "kategori": "papan",
+    "ketahananLembap": 4,
+    "peringkatKeawetan": 5,
+    "tingkatHarga": "Menengah",
+    "cocokUntuk": [
+      "Kabinet Dapur Atas",
+      "Lemari Pakaian",
+      "Credenza & Meja Kerja"
+    ],
+    "ringkasan": "Papan lapis silang berketebalan standar 18 mm dengan daya cengkeram sekrup sangat kuat dan stabilitas struktural tinggi untuk furniture harian.",
+    "tipsPerawatan": "Lap kering segera bila terkena cipratan air di area sambungan agar keawetan tetap terjaga."
+  },
+  {
+    "id": "mat-pvc",
+    "nama": "PVC Board",
+    "kategori": "papan",
+    "ketahananLembap": 5,
+    "peringkatKeawetan": 5,
+    "tingkatHarga": "Premium",
+    "cocokUntuk": [
+      "Kabinet Dapur Bawah (Area Sink)",
+      "Kamar Mandi / Vanity",
+      "Area Lembap"
+    ],
+    "ringkasan": "Papan polimer padat dengan ketebalan standar 18 mm yang 100% tahan air, anti-rayap, dan tidak lapuk untuk area berisiko basah maupun lembap tinggi.",
+    "tipsPerawatan": "Bersihkan secara berkala dengan kain microfiber dan sabun ringan tanpa pembersih abrasif."
+  },
+  {
+    "id": "fin-hpl",
+    "nama": "HPL",
+    "kategori": "finishing",
+    "ketahananLembap": 4,
+    "peringkatKeawetan": 5,
+    "tingkatHarga": "Menengah",
+    "cocokUntuk": [
+      "Kitchen Set & Kabinet Dapur",
+      "Lemari Pakaian & Credenza",
+      "Meja Kerja & Panel Dinding"
+    ],
+    "ringkasan": "Pelapis High Pressure Laminate berketebalan kaku yang tahan gores, tahan panas ringan, dan mudah dibersihkan dengan pilihan motif kayu maupun warna solid modern.",
+    "tipsPerawatan": "Bersihkan dengan kain lembap dan sabun ringan, serta hindari menaruh panci panas langsung tanpa alas di permukaan."
+  },
+  {
+    "id": "fin-cat-duco",
+    "nama": "Cat Duco",
+    "kategori": "finishing",
+    "ketahananLembap": 4,
+    "peringkatKeawetan": 5,
+    "tingkatHarga": "Premium",
+    "cocokUntuk": [
+      "Pintu Profil & Minimalis",
+      "Lemari Kamar Tidur",
+      "Credenza Ruang Tamu"
+    ],
+    "ringkasan": "Pelapisan cat semprot berlapis yang menutup permukaan dan sisi papan secara menyatu tanpa garis sambungan.",
+    "tipsPerawatan": "Gunakan kain lembut tanpa bahan pelarut keras agar lapisan cat tetap mulus."
+  }
+]

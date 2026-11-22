@@ -1,0 +1,168 @@
+[
+  {
+    "id": "bast-1",
+    "nomorBast": "BAST-SDI-2026-004",
+    "jenisSerahTerima": "Serah Terima Pekerjaan Selesai (100%)",
+    "status": "Selesai & Garansi Aktif",
+    "kotaSerahTerima": "Purwakarta",
+    "tanggalSerahTerima": "2026-11-19",
+    "nomorSpkReferensi": "SPK-SDI-2026-014",
+    "nomorSpksReferensi": "SPKS-SDI-2026-008",
+    "nomorInvoiceReferensi": "INV-SDI-2026-041",
+    "nilaiKontrakReferensi": 26500000,
+    "statusTerminAkhir": "Lunas Saat BAST",
+    "tahapanPembayaran": [
+      {
+        "id": "termin-dp",
+        "urutan": 1,
+        "nama": "Termin 1 : Down Payment",
+        "persentase": 30,
+        "keterangan": "Saat kontrak ditandatangani dan disepakati."
+      },
+      {
+        "id": "termin-produksi",
+        "urutan": 2,
+        "nama": "Termin 2 : Progress Produksi",
+        "persentase": 40,
+        "keterangan": "Saat produksi sudah berjalan 50% progress."
+      },
+      {
+        "id": "termin-pra-instalasi",
+        "urutan": 3,
+        "nama": "Termin 3 : Pra-Instalasi",
+        "persentase": 20,
+        "keterangan": "Setelah produksi selesai dan siap diinstal atau sebelum diinstal."
+      },
+      {
+        "id": "termin-bast",
+        "urutan": 4,
+        "nama": "Termin 4 : Serah Terima",
+        "persentase": 10,
+        "keterangan": "Sebagai masa tunggu revisi atau perbaikan, dibayar saat penandatanganan BAST."
+      }
+    ],
+    "catatanPembayaran": "Termin 4 : Serah Terima 10% telah dilunasi saat penandatanganan serah terima pekerjaan selesai.",
+    "perusahaanPihakPertama": "Interior & Furniture Shansusdzar Indonesia",
+    "perwakilanPihakPertama": "Hilman Aziz Napis",
+    "jabatanPihakPertama": "Owner & Penanggung Jawab Workshop",
+    "alamatPihakPertama": "Kp. Tegal Jati, RT 19/RW 10, Desa Cibogohilir, Kabupaten Purwakarta, 41162, Indonesia",
+    "namaPihakKedua": "Ibu Ratna Dewi",
+    "jabatanPihakKedua": "Pemilik Rumah / Pemberi Tugas",
+    "teleponPihakKedua": "+6281294401122",
+    "alamatPihakKedua": "Perumahan Bukit Indah Blok C4, Kabupaten Purwakarta",
+    "namaProyek": "Kitchen Set L-Shape HPL & Kabinet Pantry",
+    "lokasiPemasangan": "Perumahan Bukit Indah Blok C4, Kabupaten Purwakarta",
+    "persentaseSelesai": 100,
+    "masaGaransiBulan": 6,
+    "tanggalMulaiGaransi": "2026-11-19",
+    "daftarItem": [
+      {
+        "id": "bast-1-item-1",
+        "namaUnit": "Kabinet Dapur Bawah (Area Basah & Sink)",
+        "dimensi": "320 × 60 × 85 cm",
+        "jumlah": 1,
+        "kondisi": "Baik & Sesuai",
+        "catatan": "Engsel slow-motion terpasang presisi, sealant area sink kedap air."
+      },
+      {
+        "id": "bast-1-item-2",
+        "namaUnit": "Kabinet Dapur Atas + Rak Bumbu Gantung",
+        "dimensi": "320 × 38 × 80 cm",
+        "jumlah": 1,
+        "kondisi": "Baik & Sesuai",
+        "catatan": "Pintu hidrolik seimbang, lampu LED strip warm white 3000K menyala normal."
+      },
+      {
+        "id": "bast-1-item-3",
+        "namaUnit": "Kabinet Pantry & Tempat Microwave",
+        "dimensi": "90 × 60 × 220 cm",
+        "jumlah": 1,
+        "kondisi": "Baik & Sesuai",
+        "catatan": "Stop kontak tanam dan ventilasi belakang berfungsi baik."
+      }
+    ],
+    "teksPernyataan": "Pada hari ini kedua belah pihak telah melaksanakan pemeriksaan fisik bersama di lokasi pemasangan. Seluruh unit pekerjaan telah terpasang lengkap, berfungsi dengan baik, dan diterima oleh PIHAK KEDUA sesuai spesifikasi kesepakatan.",
+    "catatanTindakLanjut": "Nihil — seluruh item lolos pengecekan akhir dan area dapur telah dibersihkan.",
+    "saksiPihakPertama": "Fajar Maulana",
+    "saksiPihakKedua": "Keluarga Klien"
+  },
+  {
+    "id": "bast-2",
+    "nomorBast": "BAST-SDI-2026-005",
+    "jenisSerahTerima": "Serah Terima Parsial / Bertahap",
+    "status": "Menunggu Tanda Tangan",
+    "kotaSerahTerima": "Karawang",
+    "tanggalSerahTerima": "2026-11-21",
+    "nomorSpkReferensi": "SPK-SDI-2026-015",
+    "nomorSpksReferensi": "",
+    "nomorInvoiceReferensi": "INV-SDI-2026-042",
+    "nilaiKontrakReferensi": 24000000,
+    "statusTerminAkhir": "Dalam Masa Tunggu Revisi",
+    "tahapanPembayaran": [
+      {
+        "id": "termin-dp",
+        "urutan": 1,
+        "nama": "Termin 1 : Down Payment",
+        "persentase": 30,
+        "keterangan": "Saat kontrak ditandatangani dan disepakati."
+      },
+      {
+        "id": "termin-produksi",
+        "urutan": 2,
+        "nama": "Termin 2 : Progress Produksi",
+        "persentase": 40,
+        "keterangan": "Saat produksi sudah berjalan 50% progress."
+      },
+      {
+        "id": "termin-pra-instalasi",
+        "urutan": 3,
+        "nama": "Termin 3 : Pra-Instalasi",
+        "persentase": 20,
+        "keterangan": "Setelah produksi selesai dan siap diinstal atau sebelum diinstal."
+      },
+      {
+        "id": "termin-bast",
+        "urutan": 4,
+        "nama": "Termin 4 : Serah Terima",
+        "persentase": 10,
+        "keterangan": "Sebagai masa tunggu revisi atau perbaikan, dibayar saat penandatanganan BAST."
+      }
+    ],
+    "catatanPembayaran": "Termin 4 : Serah Terima 10% ditahan sementara selama masa tunggu penyetelan minor laci tengah credenza TV.",
+    "perusahaanPihakPertama": "Interior & Furniture Shansusdzar Indonesia",
+    "perwakilanPihakPertama": "Hilman Aziz Napis",
+    "jabatanPihakPertama": "Owner & Penanggung Jawab Workshop",
+    "alamatPihakPertama": "Kp. Tegal Jati, RT 19/RW 10, Desa Cibogohilir, Kabupaten Purwakarta, 41162, Indonesia",
+    "namaPihakKedua": "Bapak Hendra Wijaya",
+    "jabatanPihakKedua": "Pemilik Unit / Klien",
+    "teleponPihakKedua": "+6281388204410",
+    "alamatPihakKedua": "Cluster Galuh Mas, Karawang Barat",
+    "namaProyek": "Wardrobe Pintu Sliding & Credenza TV Kamar Utama",
+    "lokasiPemasangan": "Cluster Galuh Mas, Karawang Barat",
+    "persentaseSelesai": 85,
+    "masaGaransiBulan": 6,
+    "tanggalMulaiGaransi": "2026-11-21",
+    "daftarItem": [
+      {
+        "id": "bast-2-item-1",
+        "namaUnit": "Wardrobe Sliding Full Plafon",
+        "dimensi": "240 × 60 × 270 cm",
+        "jumlah": 1,
+        "kondisi": "Baik & Sesuai",
+        "catatan": "Rel sliding heavy duty halus, cermin bevel terpasang kuat."
+      },
+      {
+        "id": "bast-2-item-2",
+        "namaUnit": "Credenza TV Kamar Utama",
+        "dimensi": "180 × 40 × 55 cm",
+        "jumlah": 1,
+        "kondisi": "Perlu Penyetelan Minor",
+        "catatan": "Penambahan karet peredam laci tengah dijadwalkan kunjungan teknisi."
+      }
+    ],
+    "teksPernyataan": "PIHAK PERTAMA menyerahkan unit terpasang kepada PIHAK KEDUA untuk dilakukan pemeriksaan bersama. Unit yang memerlukan penyetelan minor akan diselesaikan oleh tim workshop dalam waktu maksimal 3 hari kerja.",
+    "catatanTindakLanjut": "Penyetelan laci tengah credenza TV dijadwalkan pada kunjungan penyetelan berikutnya.",
+    "saksiPihakPertama": "Zaki Permana",
+    "saksiPihakKedua": "Ibu Nadia (Istri Klien)"
+  }
+]
