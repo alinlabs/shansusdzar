@@ -1,0 +1,42 @@
+[
+  {
+    "id": "usr-hilman",
+    "nama": "Hilman Aziz Napis",
+    "email": "admin@shansusdzar.id",
+    "kataSandi": "sdi-admin-2026",
+    "idPeran": "role-super-admin",
+    "divisi": "Pimpinan Studio",
+    "status": "aktif",
+    "loginTerakhir": "2026-11-20T09:15:00.000Z"
+  },
+  {
+    "id": "usr-katalog",
+    "nama": "Fajar Maulana",
+    "email": "katalog@shansusdzar.id",
+    "kataSandi": "sdi-katalog-2026",
+    "idPeran": "role-catalog-editor",
+    "divisi": "Produksi & Katalog",
+    "status": "aktif",
+    "loginTerakhir": "2026-11-19T14:20:00.000Z"
+  },
+  {
+    "id": "usr-konten",
+    "nama": "Aisyah Rahma",
+    "email": "konten@shansusdzar.id",
+    "kataSandi": "sdi-konten-2026",
+    "idPeran": "role-content-manager",
+    "divisi": "Dokumentasi & Klien",
+    "status": "aktif",
+    "loginTerakhir": "2026-11-18T11:05:00.000Z"
+  },
+  {
+    "id": "usr-viewer",
+    "nama": "Zaki Permana",
+    "email": "audit@shansusdzar.id",
+    "kataSandi": "sdi-viewer-2026",
+    "idPeran": "role-viewer",
+    "divisi": "Peninjau Internal",
+    "status": "aktif",
+    "loginTerakhir": null
+  }
+]

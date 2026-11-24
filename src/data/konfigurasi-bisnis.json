@@ -1,0 +1,32 @@
+{
+  "namaMerek": "Shansus Dzar Indonesia",
+  "namaMerekSingkat": "Shansus Dzar Indonesia",
+  "drafSlogan": "Interior Design & Building dari Purwakarta dengan pendekatan material alami dan ukuran yang menyesuaikan ruang Anda.",
+  "alamat": {
+    "jalan": "Kp. Tegal Jati",
+    "rtRw": "RT. 019/RW. 010",
+    "desa": "Desa Cibogohilir, Kecamatan Plered",
+    "kabupaten": "Kabupaten Purwakarta",
+    "kodePos": "41162",
+    "negara": "Indonesia",
+    "alamatLengkap": "Kp. Tegal Jati, RT. 019/RW. 010, Desa Cibogohilir, Kecamatan Plered, Kabupaten Purwakarta, Jawa Barat - 41162"
+  },
+  "whatsapp": {
+    "nomorTampil": "0813-15000-234",
+    "digitTerstandar": "6281315000234",
+    "urlDasar": "https://wa.me/6281315000234"
+  },
+  "mediaSosial": {
+    "urlFacebook": "https://www.facebook.com/shansusdzar.indonesia",
+    "urlInstagram": "https://www.instagram.com/shansusdzar.indonesia",
+    "urlTiktok": "https://www.tiktok.com/@shansusdzar.indonesia"
+  },
+  "drafPemilik": {
+    "terverifikasi": true,
+    "namaPemilik": "Hilman Aziz Napis",
+    "jabatanPemilik": "Owner SDI Furniture",
+    "kutipanPemilik": "Ketelitian pengerjaan dan kejujuran material untuk ruang yang nyaman serta bertahan lama.",
+    "jalurFoto": "/owner.png",
+    "teksAltFoto": "Foto profil Hilman Aziz Napis, Pemilik Shansus Dzar Indonesia"
+  }
+}

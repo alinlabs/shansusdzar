@@ -1,0 +1,8 @@
+{
+  "name": "shansusdzar",
+  "description": "Studio digital interior dan furniture dari Purwakarta, Indonesia. Jelajahi katalog furniture siap pakai, rencanakan interior kustom, dan ajukan ringkasan permintaan pesanan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

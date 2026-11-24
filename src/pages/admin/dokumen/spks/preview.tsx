@@ -1,0 +1,187 @@
+import { useMemo } from 'react';
+import { ArrowLeft, FileDown, Pencil } from 'lucide-react';
+import { useParams } from 'react-router';
+import { AdminActionButton, AdminActionLink } from '../../../../components/admin/admin-action-buttons';
+import { useDocumentTitle } from '../../../../hooks/use-document-title';
+import { formatRupiahSigned, formatShortDateId } from '../../../../lib/finance-utils';
+import {
+  DEFAULT_PAYMENT_SCHEME,
+  calculatePaymentSchemeBreakdown,
+  resolveEffectivePaymentScheme,
+} from '../../../../lib/payment-scheme';
+import { downloadAgreementPdf } from '../../../../lib/pdf/build-workshop-documents-pdf';
+import { hasPermission } from '../../../../lib/rbac';
+import { useAdminAuthStore } from '../../../../store/admin-auth-store';
+import { useDocumentsStore } from '../../../../store/documents-store';
+import { useSiteContentStore } from '../../../../store/site-content-store';
+import { AdminPageHeader } from '../../admin-shell';
+
+const BACK_PATH = '/admin/dokumen/spks';
+
+export default function AdminSpksPreviewPage() {
+  const { id } = useParams<{ id: string }>();
+  const businessConfig = useSiteContentStore((state) => state.businessConfig);
+  const paymentScheme =
+    useSiteContentStore((state) => state.paymentScheme) ?? DEFAULT_PAYMENT_SCHEME;
+  const agreements = useDocumentsStore((state) => state.agreements);
+
+  const users = useAdminAuthStore((state) => state.users);
+  const roles = useAdminAuthStore((state) => state.roles);
+  const sessionUserId = useAdminAuthStore((state) => state.sessionUserId);
+
+  const currentUser = users.find((u) => u.id === sessionUserId) ?? null;
+  const currentRole = currentUser ? roles.find((r) => r.id === currentUser.idPeran) ?? null : null;
+  const canEdit = hasPermission(currentRole, 'keuangan.edit');
+
+  const doc = useMemo(
+    () => (id ? agreements.find((item) => item.id === id) ?? null : null),
+    [id, agreements]
+  );
+
+  const paymentBreakdown = useMemo(() => {
+    if (!doc) return [];
+    const effective = resolveEffectivePaymentScheme(
+      doc.tahapanPembayaran,
+      paymentScheme,
+      doc.catatanPembayaran
+    );
+    return calculatePaymentSchemeBreakdown(doc.nilaiKontrak || 0, effective);
+  }, [doc, paymentScheme]);
+
+  useDocumentTitle(
+    `${doc ? `Pratinjau ${doc.nomorKontrak}` : 'Kontrak Tidak Ditemukan'} | Dokumen Admin ${businessConfig.namaMerekSingkat}`
+  );
+
+  if (!doc) {
+    return (
+      <div className="space-y-5 sm:space-y-6">
+        <AdminPageHeader
+          title="Kontrak SPKS Tidak Ditemukan"
+          actions={
+            <AdminActionLink
+              to={BACK_PATH}
+              icon={<ArrowLeft className="size-3.5" />}
+              label="Kembali ke Daftar SPKS"
+            />
+          }
+        />
+      </div>
+    );
+  }
+
+  return (
+    <div className="space-y-5 sm:space-y-6">
+      <AdminPageHeader
+        title={`Pratinjau ${doc.nomorKontrak}`}
+        description={`${doc.jenisPerjanjian} · Status: ${doc.status}`}
+        actions={
+          <>
+            <AdminActionLink
+              to={BACK_PATH}
+              icon={<ArrowLeft className="size-3.5" />}
+              label="Kembali"
+            />
+            {canEdit && (
+              <AdminActionLink
+                to={`/admin/dokumen/spks/${doc.id}/edit`}
+                icon={<Pencil className="size-3.5" />}
+                label="Ubah Kontrak"
+              />
+            )}
+            <AdminActionButton
+              variant="primary"
+              icon={<FileDown className="size-3.5" />}
+              label="Unduh PDF Resmi"
+              mobileLabel="PDF"
+              onClick={() => downloadAgreementPdf(doc, businessConfig, paymentScheme)}
+            />
+          </>
+        }
+      />
+
+      <article className="max-w-4xl p-4 sm:p-8 border border-[var(--border)] bg-[var(--surface)] rounded-[var(--radius-lg)] space-y-5 sm:space-y-6 text-xs sm:text-sm text-[var(--text)] leading-relaxed">
+        <div className="text-center border-b border-[var(--border)] pb-5 space-y-1">
+          <p className="text-lg font-bold uppercase tracking-wide">
+            Surat Perjanjian Kerja Sama
+          </p>
+          <p className="text-xs font-mono text-[var(--text-muted)]">
+            Nomor: {doc.nomorKontrak}
+          </p>
+          <p className="text-xs text-[var(--text-muted)]">
+            {doc.kotaPenandatanganan}, {formatShortDateId(doc.tanggalPenandatanganan)}
+          </p>
+        </div>
+
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 p-4 rounded-[var(--radius-md)] border border-[var(--border)] bg-[var(--bg)] text-xs">
+          <div className="space-y-1">
+            <p className="font-semibold text-[var(--text-muted)]">PIHAK PERTAMA</p>
+            <p className="font-semibold text-[var(--text)]">{doc.perusahaanPihakPertama}</p>
+            <p>
+              {doc.perwakilanPihakPertama} ({doc.jabatanPihakPertama})
+            </p>
+            <p className="text-[var(--text-muted)]">{doc.alamatPihakPertama}</p>
+          </div>
+          <div className="space-y-1">
+            <p className="font-semibold text-[var(--text-muted)]">PIHAK KEDUA</p>
+            <p className="font-semibold text-[var(--text)]">{doc.namaPihakKedua}</p>
+            <p>
+              {doc.jabatanPihakKedua} · {doc.teleponPihakKedua || '-'}
+            </p>
+            {doc.nomorIdentitasPihakKedua && (
+              <p className="text-[var(--text-muted)]">NIK/NPWP: {doc.nomorIdentitasPihakKedua}</p>
+            )}
+            <p className="text-[var(--text-muted)]">{doc.alamatPihakKedua}</p>
+          </div>
+        </div>
+
+        <div className="p-4 rounded-[var(--radius-md)] border border-[var(--border)] bg-[var(--bg)] space-y-3 text-xs">
+          <div className="flex flex-wrap items-center justify-between gap-2">
+            <span className="font-semibold text-[var(--text)]">{doc.judulProyek}</span>
+            <span className="font-bold text-[var(--text)] tabular-nums">
+              {formatRupiahSigned(doc.nilaiKontrak)}
+            </span>
+          </div>
+          <p className="text-[var(--text-muted)] tabular-nums">
+            Durasi {doc.durasiKerjaHari} hari kerja · Garansi {doc.masaGaransiBulan} bulan
+          </p>
+          <div className="pt-2 border-t border-[var(--border)] divide-y divide-[var(--border)]">
+            {paymentBreakdown.map((stage) => (
+              <div
+                key={stage.id}
+                className="py-1.5 first:pt-0 last:pb-0 flex flex-wrap items-baseline justify-between gap-2"
+              >
+                <span className="text-[var(--text)]">
+                  {stage.nama} {stage.persentase}% —{' '}
+                  <span className="text-[var(--text-muted)]">{stage.keterangan}</span>
+                </span>
+                <span className="font-semibold text-[var(--text)] tabular-nums">
+                  {stage.amount !== null ? formatRupiahSigned(stage.amount) : '—'}
+                </span>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        <div className="space-y-4">
+          {doc.daftarPasal.map((cl) => (
+            <div key={cl.id} className="space-y-1">
+              <h2 className="font-semibold text-sm text-[var(--text)]">{cl.judulPasal}</h2>
+              <p className="text-xs sm:text-sm text-[var(--text-muted)] whitespace-pre-line">
+                {cl.isiPasal}
+              </p>
+            </div>
+          ))}
+        </div>
+
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-4 border-t border-[var(--border)] text-xs text-[var(--text-muted)]">
+          <div>
+            <p>Saksi Pihak Pertama: {doc.saksiPihakPertama || '-'}</p>
+          </div>
+          <div>
+            <p>Saksi Pihak Kedua: {doc.saksiPihakKedua || '-'}</p>
+          </div>
+        </div>
+      </article>
+    </div>
+  );
+}

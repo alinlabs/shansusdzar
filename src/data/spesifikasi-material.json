@@ -1,0 +1,122 @@
+[
+  {
+    "id": "mat-blockboard",
+    "nama": "Blockboard",
+    "kategori": "papan",
+    "ketahananLembap": 62,
+    "peringkatKeawetan": 76,
+    "keterjangkauan": 90,
+    "terbuatDari": "Susunan bilah kayu solid pilihan (seperti sengon atau albasia) pada inti papan berketebalan 18 mm yang disusun rapat sejajar, kemudian diapit dua lembar lapisan veneer kayu di sisi muka dan belakang.",
+    "kelebihan": [
+      "Bobot relatif lebih ringan dibanding papan lapis penuh sehingga nyaman untuk pintu lemari berukuran tinggi.",
+      "Permukaan sangat rata dan stabil terhadap pelengkungan pada bidang lebar seperti partisi dan panel dinding.",
+      "Pilihan paling ramah anggaran di kelas papan ketebalan 18 mm untuk area interior kering."
+    ],
+    "gambarReferensi": "/sample-produk/gambar/wall-panel-real.webp",
+    "cocokUntuk": [
+      "Rak Dinding",
+      "Partisi Ruangan",
+      "Pintu Lemari Bidang Lebar",
+      "Panel Dinding Dekoratif",
+      "Backdrop TV Ruang Keluarga"
+    ],
+    "ringkasan": "Papan inti susunan bilah kayu dengan ketebalan standar 18 mm yang ringan, rata, dan paling ramah anggaran untuk unit bidang lebar di area kering.",
+    "tipsPerawatan": "Bersihkan permukaan secara berkala memakai kain microfiber kering atau sedikit lembap, lalu segera lap hingga kering. Pastikan sirkulasi udara ruangan terjaga baik agar inti bilah kayu tetap stabil dan bebas jamur maupun lembap berlebih."
+  },
+  {
+    "id": "mat-multipleks",
+    "nama": "Multipleks",
+    "kategori": "papan",
+    "ketahananLembap": 78,
+    "peringkatKeawetan": 94,
+    "keterjangkauan": 74,
+    "terbuatDari": "Beberapa lembar kulit kayu (veneer) berketebalan tipis yang ditumpuk dan direkatkan dengan arah serat kayu bersilang (90 derajat antar lapisan) hingga mencapai tebal papan 18 mm di bawah tekanan mesin press tinggi.",
+    "kelebihan": [
+      "Struktur serat silang memberi daya cengkeram sekrup dan engsel paling kuat untuk bukaan pintu harian.",
+      "Tahan menahan beban berat seperti tumpukan piring di kabinet dapur atas atau koleksi buku.",
+      "Lebih tahan terhadap perubahan suhu dan kelembapan normal ruangan dibanding partikel kayu."
+    ],
+    "gambarReferensi": "/sample-produk/gambar/kitchen-set-detail.webp",
+    "cocokUntuk": [
+      "Kabinet Dapur Atas",
+      "Lemari Pakaian",
+      "Credenza & Meja Kerja",
+      "Rangka Utama Kitchen Set",
+      "Rak Buku Beban Berat"
+    ],
+    "ringkasan": "Papan lapis silang berketebalan 18 mm dengan daya cengkeram sekrup sangat kuat dan stabilitas struktural tinggi untuk furniture harian.",
+    "tipsPerawatan": "Bersihkan debu harian dengan lap microfiber lembap yang diperas tuntas, lalu keringkan kembali bagian sudut dan sambungan edging. Hindari genangan air menempel lama pada area engsel atau bukaan sekrup agar kepadatan lapisan veneer tetap optimal."
+  },
+  {
+    "id": "mat-pvc",
+    "nama": "PVC Board",
+    "kategori": "papan",
+    "ketahananLembap": 98,
+    "peringkatKeawetan": 88,
+    "keterjangkauan": 52,
+    "terbuatDari": "Polimer Polyvinyl Chloride (PVC) padat yang diproses dengan teknologi foam extrusion berkerapatan tinggi menjadi papan 18 mm tanpa campuran serbuk atau serat kayu sama sekali.",
+    "kelebihan": [
+      "100% tahan air dan tidak akan mengembang, berjamur, atau lapuk walau terkena genangan lembap.",
+      "Kebal terhadap serangan rayap tanah karena bebas kandungan selulosa kayu.",
+      "Tahan korosi dan bahan pembersih rumah tangga ringan di area dapur maupun kamar mandi."
+    ],
+    "gambarReferensi": "/sample-produk/gambar/bathroom-vanity-real.webp",
+    "cocokUntuk": [
+      "Kabinet Dapur Bawah (Area Sink)",
+      "Kamar Mandi / Vanity",
+      "Area Lembap",
+      "Kabinet Ruang Cuci (Laundry)",
+      "Loker & Kabinet Area Servis"
+    ],
+    "ringkasan": "Papan polimer padat ketebalan 18 mm yang 100% tahan air, anti-rayap, dan tidak lapuk untuk area berisiko basah maupun lembap tinggi.",
+    "tipsPerawatan": "Lap permukaan papan secara berkala memakai kain lembut dan larutan sabun ringan tanpa pembersih abrasif atau kawat kasar. Untuk area sink maupun kamar mandi, cukup bilas sisa percikan sabun dan keringkan agar tampilan tetap bersih."
+  },
+  {
+    "id": "fin-hpl",
+    "nama": "HPL",
+    "kategori": "finishing",
+    "ketahananLembap": 84,
+    "peringkatKeawetan": 90,
+    "keterjangkauan": 76,
+    "terbuatDari": "Lembaran kertas kraft yang diimpregnasi resin fenolik bersama kertas dekoratif bermotif resin melamin, lalu dipadatkan menggunakan mesin press bersuhu dan bertekanan tinggi hingga ketebalan ± 0,7–0,8 mm.",
+    "kelebihan": [
+      "Sangat tahan gores, gesekan harian, dan noda minyak dapur sehingga mudah dibersihkan cukup dengan lap lembap.",
+      "Tersedia ratusan pilihan motif serat kayu alami, batu marmer, hingga warna solid matte yang konsisten.",
+      "Waktu pengerjaan di workshop lebih cepat dan efisien di atas papan Blockboard, Multipleks, maupun PVC Board 18 mm."
+    ],
+    "gambarReferensi": "/sample-produk/gambar/meja-kerja-real.webp",
+    "cocokUntuk": [
+      "Kitchen Set & Kabinet Dapur",
+      "Lemari Pakaian & Credenza",
+      "Meja Kerja & Panel Dinding",
+      "Countertop & Meja Pantry",
+      "Booth Resepsionis & Area Komersial"
+    ],
+    "ringkasan": "Pelapis High Pressure Laminate berketebalan ± 0,7–0,8 mm yang tahan gores, tahan panas ringan, dan mudah dibersihkan dengan pilihan motif kayu maupun warna solid modern.",
+    "tipsPerawatan": "Bersihkan noda harian maupun cipratan minyak menggunakan kain lembap bersabun ringan, lalu seka dengan lap kering searah serat motif. Selalu gunakan tatakan saat menaruh panci panas dan hindari goresan benda tajam langsung pada permukaan."
+  },
+  {
+    "id": "fin-cat-duco",
+    "nama": "Cat Duco",
+    "kategori": "finishing",
+    "ketahananLembap": 82,
+    "peringkatKeawetan": 86,
+    "keterjangkauan": 46,
+    "terbuatDari": "Sistem pengecatan semprot berlapis berbasis resin nitrocellulose / polyurethane yang diaplikasikan bertahap mulai dari pendempulan pori, epoxy primer, lapisan warna custom, hingga pelindung clear coat (doff, satin, atau glossy).",
+    "kelebihan": [
+      "Menutup seluruh muka, lekuk profil, dan sisi tepi secara menyatu mulus tanpa garis sambungan edging sedikit pun.",
+      "Warna dapat disesuaikan secara presisi sesuai palet interior atau konsep arsitektural klasik hingga modern.",
+      "Fleksibel diaplikasikan pada pintu profil berkusen, list ukir minimalis, maupun sudut lengkung custom."
+    ],
+    "gambarReferensi": "/sample-produk/gambar/lemari-pakaian-real.webp",
+    "cocokUntuk": [
+      "Pintu Profil & Minimalis",
+      "Lemari Kamar Tidur",
+      "Credenza Ruang Tamu",
+      "Kitchen Set Klasik & Modern",
+      "Kabinet Wastafel & Vanity Mewah"
+    ],
+    "ringkasan": "Pelapisan cat semprot berlapis (primer, warna, dan clear coat) yang menutup sisi papan secara menyatu tanpa garis sambungan.",
+    "tipsPerawatan": "Bersihkan permukaan cat secara lembut memakai kain microfiber kering atau sedikit lembap tanpa tiner, alkohol, maupun pembersih kimia keras. Hindari benturan benda keras dan paparan sinar matahari langsung agar lapisan clear coat tetap mulus dan warnanya awet."
+  }
+]

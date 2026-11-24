@@ -1,0 +1,99 @@
+{
+  "labelAtas": "Tentang Kami",
+  "judul": "Shansus Dzar Indonesia",
+  "pengantar": "Interior Design & Building dari Purwakarta dengan material utama pilihan serta ukuran yang menyesuaikan ruang Anda.",
+  "gambarWorkshop": "/images/atelier-studio-craft.webp",
+  "teksAltWorkshop": "Meja kerja workshop Shansus Dzar Indonesia dengan sampel material utama papan, finishing/laminasi, dan gulungan gambar kerja",
+  "daftarParagraf": [
+    "Layanan furniture dan penataan interior dari Purwakarta yang berfokus pada pengerjaan unit furniture serta interior custom sesuai kondisi ruang aktual mulai dari ruang tamu, area makan, kamar tidur, hingga kabinet dapur.",
+    "Setiap perencanaan diawali dengan memahami kebutuhan harian penghuni, ketepatan dimensi ruangan, serta pemilihan material utama berketebalan standar 18 mm (Blockboard, Multipleks, PVC Board) dan finishing/laminasi (HPL, Cat Duco) agar hasil akhir nyaman digunakan dalam jangka panjang."
+  ],
+  "labelLokasi": "Lokasi & Kontak",
+  "judulLokasi": "Berbasis di Purwakarta, Jawa Barat",
+  "pernyataanVisi": "Menjadi workshop furniture dan interior custom terpercaya yang menghadirkan ruang hunian serta ruang kerja berkualitas tinggi, proporsional, jujur dalam spesifikasi material, dan memberdayakan keterampilan pengrajin serta para santri.",
+  "judulMisi": "Misi Pengerjaan & Pelayanan",
+  "daftarMisi": [
+    "Merancang setiap unit furniture dan kabinet berdasarkan dimensi ruang aktual agar sirkulasi dan fungsi penyimpanan maksimal.",
+    "Menyajikan pilihan material utama dengan ketebalan seragam 18 mm (Blockboard, Multipleks, PVC Board) serta finishing/laminasi (HPL, Cat Duco) secara terbuka dan sesuai kebutuhan ruang.",
+    "Membina keterampilan teknis pengrajin dan santri pada standar sambungan, finishing/laminasi, dan perakitan presisi di workshop.",
+    "Memberikan estimasi awal yang transparan, alur kerja 6 tahap yang terukur (Konsultasi, Survei, Design, DP, Produksi, hingga Instalasi/Pemasangan)."
+  ],
+  "labelTim": "Tim & Workshop",
+  "judulTim": "Orang-Orang di Balik Setiap Pengerjaan",
+  "anggotaTim": [
+    {
+      "id": "tim-fajar",
+      "nama": "Fajar Maulana",
+      "inisial": "FM",
+      "jabatan": "Kepala Produksi & Material",
+      "fotoProfil": "",
+      "teksAltFoto": "Foto Fajar Maulana"
+    },
+    {
+      "id": "tim-aisyah",
+      "nama": "Aisyah Rahma",
+      "inisial": "AR",
+      "jabatan": "Perencana Interior & Estimasi",
+      "fotoProfil": "",
+      "teksAltFoto": "Foto Aisyah Rahma"
+    },
+    {
+      "id": "tim-ridwan",
+      "nama": "Ridwan Hakim",
+      "inisial": "RH",
+      "jabatan": "Desainer 3D & Gambar Kerja",
+      "fotoProfil": "",
+      "teksAltFoto": "Foto Ridwan Hakim"
+    },
+    {
+      "id": "tim-wahyu",
+      "nama": "Wahyu Prasetyo",
+      "inisial": "WP",
+      "jabatan": "Pengrajin Konstruksi & Potong",
+      "fotoProfil": "",
+      "teksAltFoto": "Foto Wahyu Prasetyo"
+    },
+    {
+      "id": "tim-dedi",
+      "nama": "Dedi Suryadi",
+      "inisial": "DS",
+      "jabatan": "Spesialis Finishing HPL & Duco",
+      "fotoProfil": "",
+      "teksAltFoto": "Foto Dedi Suryadi"
+    },
+    {
+      "id": "tim-rizky",
+      "nama": "Rizky Fauzan",
+      "inisial": "RF",
+      "jabatan": "Koordinator Santri & Instalasi",
+      "fotoProfil": "",
+      "teksAltFoto": "Foto Rizky Fauzan"
+    }
+  ],
+  "sorotanWorkshop": [
+    {
+      "id": "hl-projects",
+      "nilai": "50+ Proyek",
+      "label": "Proyek Terselesaikan",
+      "detail": "Pengerjaan kabinet, dapur, kamar tidur, dan penataan ruang kerja secara presisi."
+    },
+    {
+      "id": "hl-survey",
+      "nilai": "5 Wilayah",
+      "label": "Area Survei Langsung",
+      "detail": "Melayani Purwakarta, Karawang, Subang, Bandung, hingga Jabodetabek."
+    },
+    {
+      "id": "hl-experience",
+      "nilai": "9+ Tahun",
+      "label": "Pengalaman Pengerjaan",
+      "detail": "Menangani proyek furniture dan interior custom untuk hunian maupun ruang kerja."
+    },
+    {
+      "id": "hl-team",
+      "nilai": "6 Ahli",
+      "label": "Tim Profesional",
+      "detail": "Perencana interior, desainer 3D, pengrajin kayu, spesialis finishing, dan instalasi."
+    }
+  ]
+}

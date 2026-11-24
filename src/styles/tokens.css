@@ -1,0 +1,396 @@
+:root {
+  color-scheme: light;
+
+  /* Surface & Canvas (clean off-white with whisper-thin neutral grey) */
+  --bg: #fafafa;
+  --surface: #ffffff;
+  --surface-muted: #f2f2f4;
+  --surface-elevated: #ffffff;
+
+  /* Typography */
+  --text: #18181b;
+  --text-muted: #52525b;
+  --text-subtle: #71717a;
+
+  /* Borders & Dividers */
+  --border: #e4e4e7;
+  --border-strong: #d4d4d8;
+
+  /* Clean Neutral Architectural Accent */
+  --accent: #27272a;
+  --accent-hover: #18181b;
+  --accent-contrast: #ffffff;
+  --accent-soft: #a1a1aa;
+  --focus: #52525b;
+
+  /* Semantic States (never color-only) */
+  --danger: #9b3b36;
+  --danger-surface: #fbf2f1;
+  --danger-border: #e5c3c0;
+  --success: #3e6650;
+  --success-surface: #f1f6f3;
+  --success-border: #c3d9cc;
+  --warning: #9c6621;
+
+  /* Architectural Data Visualization Palette (Light) */
+  --chart-1: #3b5949;
+  --chart-2: #4c6b8a;
+  --chart-3: #b07436;
+  --chart-4: #7c5268;
+  --chart-5: #52525b;
+  --chart-6: #8c4a43;
+
+  /* Scrim & Elevation */
+  --scrim: rgba(15, 15, 18, 0.14);
+  --scrim-blur: 6px;
+  --shadow-sm: 0 1px 2px rgba(15, 15, 18, 0.04);
+  --shadow-md: 0 12px 32px -8px rgba(15, 15, 18, 0.08);
+  --shadow-drawer: -12px 0 36px -12px rgba(15, 15, 18, 0.12);
+
+  /* Radii & Layout */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --container-max: 94vw;
+
+  /* Motion */
+  --ease-studio: cubic-bezier(0.16, 1, 0.3, 1);
+  --duration-fast: 150ms;
+  --duration-normal: 240ms;
+}
+
+.dark {
+  color-scheme: dark;
+
+  /* Deep warm charcoal & graphite surfaces — designed intentionally */
+  --bg: #171716;
+  --surface: #21201e;
+  --surface-muted: #2b2a27;
+  --surface-elevated: #262523;
+
+  /* Soft ivory typography */
+  --text: #f2f0ec;
+  --text-muted: #aca7a0;
+  --text-subtle: #8c8781;
+
+  /* Subdued warm borders */
+  --border: #363430;
+  --border-strong: #4a4742;
+
+  /* Restrained warm stone accent */
+  --accent: #d6d0c7;
+  --accent-hover: #e7e2da;
+  --accent-contrast: #191816;
+  --accent-soft: #8c8781;
+  --focus: #c6b9a7;
+
+  /* Semantic States */
+  --danger: #e2918c;
+  --danger-surface: #2d1e1d;
+  --danger-border: #593533;
+  --success: #8ab89d;
+  --success-surface: #1d2922;
+  --success-border: #344d3e;
+  --warning: #e0aa63;
+
+  /* Architectural Data Visualization Palette (Dark) */
+  --chart-1: #82b898;
+  --chart-2: #84add6;
+  --chart-3: #e0ad6e;
+  --chart-4: #c493ad;
+  --chart-5: #b8b2a8;
+  --chart-6: #de8a82;
+
+  /* Scrim & Elevation */
+  --scrim: rgba(10, 10, 9, 0.15);
+  --scrim-blur: 6px;
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.25);
+  --shadow-md: 0 16px 36px -8px rgba(0, 0, 0, 0.45);
+  --shadow-drawer: -12px 0 36px -12px rgba(0, 0, 0, 0.55);
+}
+
+@layer base {
+  html {
+    font-family:
+      'Inter Variable',
+      'Inter',
+      ui-sans-serif,
+      system-ui,
+      -apple-system,
+      BlinkMacSystemFont,
+      'Segoe UI',
+      sans-serif;
+    background-color: var(--bg);
+    color: var(--text);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    height: 100%;
+    height: 100dvh;
+    overflow: hidden;
+    overflow-x: hidden;
+    overscroll-behavior: none;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  .dark body {
+    letter-spacing: 0.008em;
+  }
+
+  body {
+    margin: 0;
+    height: 100%;
+    height: 100dvh;
+    background-color: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+    overflow: hidden;
+    overflow-x: hidden;
+    overscroll-behavior: none;
+    transition:
+      background-color var(--duration-normal) var(--ease-studio),
+      color var(--duration-normal) var(--ease-studio);
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    text-wrap: balance;
+    letter-spacing: -0.02em;
+  }
+
+  *:focus-visible {
+    outline: 2px solid var(--focus);
+    outline-offset: 2px;
+  }
+
+  input:focus,
+  input:focus-visible,
+  textarea:focus,
+  textarea:focus-visible,
+  select:focus,
+  select:focus-visible {
+    outline: none;
+  }
+
+  a,
+  button,
+  [role='button'],
+  summary,
+  input,
+  select,
+  textarea,
+  label {
+    touch-action: manipulation;
+  }
+
+  a,
+  button,
+  [role='button'],
+  summary {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  @supports (-webkit-touch-callout: none) {
+    input:not([type='checkbox']):not([type='radio']):not([type='range']),
+    textarea,
+    select {
+      font-size: max(16px, 1em);
+    }
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Sembunyikan indikator scrollbar horizontal di seluruh elemen dan browser */
+*::-webkit-scrollbar:horizontal {
+  display: none !important;
+  height: 0 !important;
+}
+
+.overflow-x-auto,
+.overflow-x-scroll {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.overflow-x-auto::-webkit-scrollbar,
+.overflow-x-scroll::-webkit-scrollbar {
+  display: none;
+  height: 0;
+}
+
+.review-carousel-viewport {
+  --review-visible: 1;
+  --review-gap: 1.5rem;
+  overflow: hidden;
+}
+
+@media (min-width: 768px) {
+  .review-carousel-viewport {
+    --review-visible: 3;
+  }
+}
+
+.review-carousel-track {
+  display: flex;
+  gap: var(--review-gap);
+  will-change: transform;
+}
+
+.review-carousel-card {
+  flex: 0 0 calc((100% - (var(--review-visible) - 1) * var(--review-gap)) / var(--review-visible));
+  min-width: 0;
+}
+
+.modal-backdrop-motion {
+  transition:
+    opacity 250ms ease-in-out,
+    background-color 250ms ease-in-out,
+    backdrop-filter 250ms ease-in-out,
+    -webkit-backdrop-filter 250ms ease-in-out;
+}
+
+.modal-backdrop-motion[data-state='closed'] {
+  opacity: 0;
+  background-color: transparent;
+  backdrop-filter: blur(0px);
+  -webkit-backdrop-filter: blur(0px);
+  pointer-events: none;
+}
+
+.modal-backdrop-motion[data-state='open'] {
+  opacity: 1;
+  background-color: var(--scrim);
+  backdrop-filter: blur(var(--scrim-blur));
+  -webkit-backdrop-filter: blur(var(--scrim-blur));
+}
+
+.modal-panel-motion {
+  transform-origin: center center;
+  transition:
+    transform 250ms cubic-bezier(0.22, 1, 0.36, 1),
+    opacity 250ms cubic-bezier(0.22, 1, 0.36, 1);
+  will-change: transform, opacity;
+}
+
+.modal-panel-motion[data-state='closed'] {
+  transform: translate3d(0, 100%, 0);
+  opacity: 1;
+  pointer-events: none;
+}
+
+.modal-panel-motion[data-state='open'] {
+  transform: translate3d(0, 0, 0);
+  opacity: 1;
+}
+
+@media (min-width: 768px) {
+  .modal-panel-motion[data-state='closed'] {
+    transform: scale(0);
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  .modal-panel-motion[data-state='open'] {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.cart-drawer-motion {
+  transition: transform 250ms cubic-bezier(0.22, 1, 0.36, 1);
+  will-change: transform;
+}
+
+.cart-drawer-motion[data-state='closed'] {
+  transform: translate3d(0, 100%, 0);
+  pointer-events: none;
+}
+
+.cart-drawer-motion[data-state='open'] {
+  transform: translate3d(0, 0, 0);
+}
+
+@media (min-width: 768px) {
+  .cart-drawer-motion[data-state='closed'] {
+    transform: translate3d(100%, 0, 0);
+    pointer-events: none;
+  }
+
+  .cart-drawer-motion[data-state='open'] {
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.modal-drawer-left-motion {
+  transition: transform 250ms cubic-bezier(0.22, 1, 0.36, 1);
+  will-change: transform;
+}
+
+.modal-drawer-left-motion[data-state='closed'] {
+  transform: translate3d(-100%, 0, 0);
+  pointer-events: none;
+}
+
+.modal-drawer-left-motion[data-state='open'] {
+  transform: translate3d(0, 0, 0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 0;
+  }
+
+  html,
+  body {
+    height: auto !important;
+    overflow: visible !important;
+  }
+
+  body * {
+    visibility: hidden;
+  }
+
+  .pdf-print-root,
+  .pdf-print-root * {
+    visibility: visible;
+  }
+
+  .pdf-print-root {
+    position: absolute;
+    inset: 0;
+    background: #ffffff;
+  }
+
+  .pdf-print-page {
+    width: 210mm;
+    height: 297mm;
+    page-break-after: always;
+    break-after: page;
+    margin: 0;
+    padding: 0;
+    border: none !important;
+    box-shadow: none !important;
+  }
+
+  .pdf-print-page:last-child {
+    page-break-after: auto;
+    break-after: auto;
+  }
+}

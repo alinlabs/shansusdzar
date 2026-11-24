@@ -1,0 +1,92 @@
+{
+  "labelHero": "Interior No. #1",
+  "judulHero": "Shansus Dzar",
+  "judulHeroBarisDua": "Indonesia",
+  "deskripsiHero": "Produk Berkualitas Tinggi",
+  "deskripsiHeroBarisDua": "Hasil Karya Para Santri",
+  "labelPortofolio": "Maha Karya Shansus Dzar",
+  "judulPortofolio": "Portofolio Kami",
+  "labelUnggulan": "Koleksi Pilihan",
+  "judulUnggulan": "Pilihan Furniture & Kabinet",
+  "labelKeunggulan": "Cara Kami Bekerja",
+  "judulKeunggulan": "Memberi Hasil Terbaik",
+  "labelProses": "Alur Konsultasi & Pengerjaan",
+  "judulProses": "6 Tahap Layanan Terstruktur",
+  "deskripsiProses": "Alur kerja profesional mulai dari konsultasi awal hingga instalasi selesai dengan rapi dan presisi di lokasi Anda.",
+  "labelTestimoni": "Apa Kata Mereka",
+  "judulTestimoni": "Pengalaman Terbaik",
+  "daftarKeunggulan": [
+    {
+      "id": "proporsi-ruang",
+      "nomor": "01.",
+      "judul": "Menyesuaikan Dimensi Ruangan",
+      "deskripsi": "Setiap ruangan memiliki sirkulasi dan batas berbeda; ukuran unit dapat dikonsultasikan agar proporsional.",
+      "detail": "Penyesuaian panjang, lebar, tinggi, serta bukaan pintu dan laci memastikan unit tidak menghalangi jalur aktivitas maupun pencahayaan alami ruangan."
+    },
+    {
+      "id": "seleksi-material",
+      "nomor": "02.",
+      "judul": "Pilihan Material 18 mm & Finishing Terarah",
+      "deskripsi": "Seluruh material utama (Blockboard, Multipleks, dan PVC Board) berketebalan standar 18 mm dengan finishing HPL atau Cat Duco.",
+      "detail": "Pemilihan material utama berketebalan seragam 18 mm dan pelapis finishing mempertimbangkan tingkat kelembapan ruang, kemudahan perawatan, serta keserasian warna interior."
+    },
+    {
+      "id": "komunikasi-langsung",
+      "nomor": "03.",
+      "judul": "Konsultasi Secara Langsung",
+      "deskripsi": "Diskusikan kebutuhan furniture siap pakai maupun proyek interior kustom langsung bersama tim kami.",
+      "detail": "Anda dapat berkonsultasi mengenai fungsi penyimpanan, referensi desain, hingga penyesuaian anggaran sebelum rancangan final masuk ke tahap produksi."
+    },
+    {
+      "id": "konstruksi-presisi",
+      "nomor": "04.",
+      "judul": "Konstruksi Rapi & Tahan Lama",
+      "deskripsi": "Setiap unit dirakit dengan ketelitian pada sambungan, kekuatan rangka, dan kenyamanan pakai jangka panjang.",
+      "detail": "Pemasangan engsel, rel laci, serta pelapisan tepi dikerjakan secara presisi agar tetap kokoh dan nyaman digunakan untuk kebutuhan rumah tangga maupun ruang kerja."
+    }
+  ],
+  "tahapanProses": [
+    {
+      "id": "konsultasi",
+      "nomor": "01",
+      "judul": "Konsultasi",
+      "deskripsi": "Diskusi kebutuhan ruang, referensi desain, estimasi anggaran awal, serta pemilihan material 18 mm dan finishing.",
+      "detail": "Pada tahap awal ini, tim kami membantu memetakan fungsi ruang, jumlah unit, pilihan material utama 18 mm (Blockboard, Multipleks, atau PVC Board), opsi finishing (HPL atau Cat Duco), serta perkiraan biaya sebelum penjadwalan survei."
+    },
+    {
+      "id": "survei",
+      "nomor": "02",
+      "judul": "Survei",
+      "deskripsi": "Kunjungan pengukuran presisi di lokasi untuk memvalidasi dimensi ruangan, jalur kelistrikan, dan titik instalasi air.",
+      "detail": "Tim teknis mendatangi lokasi secara langsung guna mengukur bidang dinding, elevasi lantai, bukaan pintu/jendela, serta membawa sampel fisik material 18 mm dan contoh finishing agar Anda dapat menilai tekstur serta warnanya langsung di pencahayaan ruang."
+    },
+    {
+      "id": "design",
+      "nomor": "03",
+      "judul": "Design",
+      "deskripsi": "Penyusunan tata letak teknis, visualisasi 3D proporsional (Gratis Desain untuk pemesanan Build), serta finalisasi RAB resmi.",
+      "detail": "Berdasarkan data akurat hasil survei, tim perencana menyusun gambar kerja dan visualisasi 3D lengkap dengan pembagian kompartemen, warna akhir, aksesori soft-close, serta Rencana Anggaran Biaya (RAB) final. Pemesanan pembuatan (Build) sudah otomatis gratis biaya desain."
+    },
+    {
+      "id": "dp",
+      "nomor": "04",
+      "judul": "DP (Uang Muka)",
+      "deskripsi": "Persetujuan desain final dan pembayaran uang muka (DP) untuk pengadaan material serta penguncian jadwal produksi.",
+      "detail": "Setelah desain dan RAB disepakati, klien menandatangani surat perjanjian kerja (SPKS) dan melakukan pembayaran DP sesuai termin awal agar material utama 18 mm pilihan Anda segera disiapkan dan masuk antrean produksi workshop."
+    },
+    {
+      "id": "produksi",
+      "nomor": "05",
+      "judul": "Produksi",
+      "deskripsi": "Proses pemotongan presisi, perakitan konstruksi, pelapisan finishing, serta uji kontrol kualitas di workshop.",
+      "detail": "Pengerjaan dilakukan terpadu di workshop Purwakarta oleh tim pengrajin dan para santri—meliputi pemotongan panel 18 mm, aplikasi HPL atau pengecatan Cat Duco, uji rakit kering, serta pemeriksaan ketat engsel dan rel laci."
+    },
+    {
+      "id": "instalasi",
+      "nomor": "06",
+      "judul": "Instalasi / Pemasangan",
+      "deskripsi": "Pengiriman unit secara aman, pemasangan presisi di lokasi, penyetelan akhir, hingga serah terima bergaransi.",
+      "detail": "Tim instalasi mengirimkan unit dengan pelindung khusus, merakit kabinet rapat mengikuti kondisi dinding lokasi, menyetel kelurusan pintu serta rel laci, membersihkan area kerja, dan menandatangani Berita Acara Serah Terima (BAST) disertai garansi."
+    }
+  ]
+}

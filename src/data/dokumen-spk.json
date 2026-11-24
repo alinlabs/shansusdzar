@@ -1,0 +1,130 @@
+[
+  {
+    "id": "spk-1",
+    "nomorSpk": "SPK-SDI-2026-014",
+    "tanggalTerbit": "2026-11-18",
+    "tanggalTargetSelesai": "2026-12-02",
+    "prioritas": "Prioritas",
+    "status": "Proses Workshop",
+    "namaProyek": "Kitchen Set L-Shape HPL & Pantry",
+    "namaKlien": "Ibu Ratna Dewi",
+    "alamatPemasangan": "Perumahan Bukit Indah Blok C4, Kabupaten Purwakarta",
+    "namaPengawas": "Hilman Aziz Napis",
+    "koordinatorProduksi": "Fajar Maulana",
+    "pemeriksaQc": "Aisyah Rahma",
+    "nomorInvoiceReferensi": "INV-SDI-2026-041",
+    "nomorSpksReferensi": "SPKS-SDI-2026-008",
+    "nilaiKontrakReferensi": 26500000,
+    "tahapanPembayaran": [
+      {
+        "id": "termin-dp",
+        "urutan": 1,
+        "nama": "Termin 1 : Down Payment",
+        "persentase": 30,
+        "keterangan": "Saat kontrak ditandatangani dan disepakati."
+      },
+      {
+        "id": "termin-produksi",
+        "urutan": 2,
+        "nama": "Termin 2 : Progress Produksi",
+        "persentase": 40,
+        "keterangan": "Saat produksi sudah berjalan 50% progress."
+      },
+      {
+        "id": "termin-pra-instalasi",
+        "urutan": 3,
+        "nama": "Termin 3 : Pra-Instalasi",
+        "persentase": 20,
+        "keterangan": "Setelah produksi selesai dan siap diinstal atau sebelum diinstal."
+      },
+      {
+        "id": "termin-bast",
+        "urutan": 4,
+        "nama": "Termin 4 : Serah Terima",
+        "persentase": 10,
+        "keterangan": "Sebagai masa tunggu revisi atau perbaikan, dibayar saat penandatanganan BAST."
+      }
+    ],
+    "catatanPembayaran": "Pembayaran dilakukan bertahap sesuai progres pengerjaan dan hanya sah melalui rekening resmi yang tercantum pada invoice workshop.",
+    "daftarItem": [
+      {
+        "id": "spk-1-item-1",
+        "namaUnit": "Kabinet Dapur Bawah (Area Basah & Sink)",
+        "dimensi": "320 × 60 cm",
+        "spesifikasiMaterial": "Material Utama PVC Board + Finishing/Laminasi HPL",
+        "jumlah": 1,
+        "daftarPeriksaQc": "Engsel slow-motion terpasang rata, sambungan sudut bebas celah."
+      },
+      {
+        "id": "spk-1-item-2",
+        "namaUnit": "Kabinet Dapur Atas + Rak Bumbu Gantung",
+        "dimensi": "320 × 38 cm",
+        "spesifikasiMaterial": "Material Utama Multipleks + Finishing/Laminasi HPL",
+        "jumlah": 1,
+        "daftarPeriksaQc": "Pintu hidrolik seimbang, jalur kabel adaptor LED tersembunyi."
+      }
+    ],
+    "catatanTeknis": "Lubang pipa pembuangan sink disesuaikan 15 cm dari sisi dinding kiri berdasarkan hasil ukur lapangan.",
+    "ketentuanKeselamatan": "Gunakan masker & pelindung mata saat pemotongan PVC Board; pastikan baut dinabolt kabinet atas menembus bata penuh."
+  },
+  {
+    "id": "spk-2",
+    "nomorSpk": "SPK-SDI-2026-015",
+    "tanggalTerbit": "2026-11-20",
+    "tanggalTargetSelesai": "2026-12-08",
+    "prioritas": "Normal",
+    "status": "Menunggu Mulai",
+    "namaProyek": "Wardrobe Pintu Sliding & Credenza TV Kamar Utama",
+    "namaKlien": "Bapak Hendra Wijaya",
+    "alamatPemasangan": "Cluster Galuh Mas, Karawang Barat",
+    "namaPengawas": "Hilman Aziz Napis",
+    "koordinatorProduksi": "Fajar Maulana",
+    "pemeriksaQc": "Zaki Permana",
+    "nomorInvoiceReferensi": "INV-SDI-2026-041",
+    "nomorSpksReferensi": "",
+    "nilaiKontrakReferensi": 29000000,
+    "tahapanPembayaran": [
+      {
+        "id": "termin-dp",
+        "urutan": 1,
+        "nama": "Termin 1 : Down Payment",
+        "persentase": 30,
+        "keterangan": "Saat kontrak ditandatangani dan disepakati."
+      },
+      {
+        "id": "termin-produksi",
+        "urutan": 2,
+        "nama": "Termin 2 : Progress Produksi",
+        "persentase": 40,
+        "keterangan": "Saat produksi sudah berjalan 50% progress."
+      },
+      {
+        "id": "termin-pra-instalasi",
+        "urutan": 3,
+        "nama": "Termin 3 : Pra-Instalasi",
+        "persentase": 20,
+        "keterangan": "Setelah produksi selesai dan siap diinstal atau sebelum diinstal."
+      },
+      {
+        "id": "termin-bast",
+        "urutan": 4,
+        "nama": "Termin 4 : Serah Terima",
+        "persentase": 10,
+        "keterangan": "Sebagai masa tunggu revisi atau perbaikan, dibayar saat penandatanganan BAST."
+      }
+    ],
+    "catatanPembayaran": "Pembayaran dilakukan bertahap sesuai progres pengerjaan dan hanya sah melalui rekening resmi yang tercantum pada invoice workshop.",
+    "daftarItem": [
+      {
+        "id": "spk-2-item-1",
+        "namaUnit": "Wardrobe Sliding Panel Rata",
+        "dimensi": "240 × 60 cm",
+        "spesifikasiMaterial": "Material Utama Blockboard + Finishing/Laminasi Cat Duco",
+        "jumlah": 1,
+        "daftarPeriksaQc": "Roda rel geser halus tanpa macet, cermin bevel terpasang aman."
+      }
+    ],
+    "catatanTeknis": "Sisakan ruang 3 cm di sisi kanan untuk posisi saklar lampu kamar eksisting.",
+    "ketentuanKeselamatan": "Lapisi sudut lemari dengan busa pelindung saat muat angkutan menuju Karawang."
+  }
+]
