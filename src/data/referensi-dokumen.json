@@ -1,0 +1,42 @@
+{
+  "prioritasSpk": [
+    "Normal",
+    "Prioritas",
+    "Mendesak"
+  ],
+  "statusSpk": [
+    "Draf",
+    "Menunggu Mulai",
+    "Proses Workshop",
+    "Instalasi Lapangan",
+    "Selesai QC"
+  ],
+  "jenisSpks": [
+    "Kontrak Proyek Custom Interior",
+    "Kerja Sama Mitra / Kontraktor",
+    "Pengadaan Furniture Komersial"
+  ],
+  "statusSpks": [
+    "Draf",
+    "Ditinjau Klien",
+    "Ditandatangani",
+    "Aktif Berjalan",
+    "Selesai"
+  ],
+  "jenisBast": [
+    "Serah Terima Pekerjaan Selesai (100%)",
+    "Serah Terima Parsial / Bertahap",
+    "Serah Terima Masa Pemeliharaan (FHO)"
+  ],
+  "statusBast": [
+    "Draf",
+    "Menunggu Tanda Tangan",
+    "Ditandatangani Klien",
+    "Selesai & Garansi Aktif"
+  ],
+  "kondisiItemBast": [
+    "Baik & Sesuai",
+    "Perlu Penyetelan Minor",
+    "Tertunda / Belum Terpasang"
+  ]
+}

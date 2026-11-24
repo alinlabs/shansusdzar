@@ -1,0 +1,5 @@
+Contact: https://wa.me/6281315000234
+Canonical: https://shansusdzar.vercel.app/.well-known/security.txt
+Policy: https://shansusdzar.vercel.app/keamanan-kepatuhan
+Preferred-Languages: id, en
+Expires: 2027-12-31T23:59:59.000Z

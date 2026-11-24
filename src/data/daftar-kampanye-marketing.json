@@ -1,0 +1,47 @@
+[
+  {
+    "id": "cmp-survei-purwakarta",
+    "judul": "Follow Up Jadwal Survei & Pengukuran Gratis Q4",
+    "tujuan": "Konversi Prospek Survei",
+    "status": "Aktif",
+    "targetSegmen": [
+      "Prospek Baru",
+      "Klien Aktif"
+    ],
+    "saluran": [
+      "whatsapp",
+      "email"
+    ],
+    "pesanWhatsapp": "Halo Bapak/Ibu {nama},\n\nKami dari Interior & Furniture Shansusdzar Indonesia ingin menindaklanjuti rencana penataan ruang di {kota}.\n\nTim kami siap menjadwalkan kunjungan survei pengukuran lokasi dan diskusi material utama serta finishing/laminasi HPL/Cat Duco langsung ke tempat Anda.\n\nApakah minggu ini ada waktu luang untuk kami bantu hitungkan estimasinya?",
+    "subjekEmail": "Jadwal Survei Pengukuran & Estimasi Interior Custom Shansusdzar",
+    "isiEmail": "Yth. Bapak/Ibu {nama} ({perusahaan}),\n\nTerima kasih telah menghubungi Interior & Furniture Shansusdzar Indonesia.\n\nKami siap membantu penjadwalan survei pengukuran lokasi di area {kota} sekaligus membawa sampel material utama (Blockboard, Multipleks, PVC Board) serta finishing/laminasi HPL dan Cat Duco.\n\nSilakan balas email ini atau hubungi WhatsApp resmi kami untuk menentukan hari kunjungan yang nyaman.\n\nHormat kami,\nShansusdzar Indonesia Workshop Purwakarta",
+    "emailBalasan": "admin@shansusdzar.id",
+    "jumlahTerkirim": 3,
+    "terakhirDikirim": "2026-11-18T14:15:00.000Z",
+    "dibuatPada": "2026-11-10T08:00:00.000Z",
+    "diperbaruiPada": "2026-11-18T14:15:00.000Z"
+  },
+  {
+    "id": "cmp-katalog-arsitek-q4",
+    "judul": "Katalog & Penawaran Custom Interior Mitra Q4",
+    "tujuan": "Penawaran Katalog & Kolaborasi",
+    "status": "Aktif",
+    "targetSegmen": [
+      "Arsitek & Desainer",
+      "Korporat / Komersial",
+      "Klien Selesai"
+    ],
+    "saluran": [
+      "email",
+      "whatsapp"
+    ],
+    "pesanWhatsapp": "Salam hormat {nama} dari {perusahaan},\n\nKami dari workshop Shansusdzar Indonesia ingin berbagi pembaruan katalog furniture modular serta opsi kerja sama produksi custom interior di wilayah {kota} & sekitarnya.\n\nApabila ada kebutuhan RAB kabinet, meja kerja, atau partisi proyek mendatang, kami siap mendukung dari gambar kerja hingga instalasi.",
+    "subjekEmail": "Referensi Desain & Katalog Produksi Custom Shansusdzar Indonesia",
+    "isiEmail": "Yth. Bapak/Ibu {nama} ({perusahaan}),\n\nSalam hangat dari tim Interior & Furniture Shansusdzar Indonesia.\n\nBersama surat ini kami sampaikan pembaruan katalog unit furniture modular dan layanan pengerjaan interior custom (kitchen set, wardrobe full plafon, meja kerja, dan partisi ruang kantor) untuk kebutuhan klien maupun proyek di wilayah {kota}.\n\nKami membuka kolaborasi pengajuan gambar kerja, pemilihan finishing/laminasi, dan jadwal produksi workshop yang terukur.\n\nHormat kami,\nTim Produksi & Pemasaran Shansusdzar Indonesia",
+    "emailBalasan": "admin@shansusdzar.id",
+    "jumlahTerkirim": 4,
+    "terakhirDikirim": "2026-11-15T09:30:00.000Z",
+    "dibuatPada": "2026-11-05T09:00:00.000Z",
+    "diperbaruiPada": "2026-11-15T09:30:00.000Z"
+  }
+]

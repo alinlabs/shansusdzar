@@ -1,0 +1,37 @@
+[
+  {
+    "namaKunci": "shansusdzar-theme-v2",
+    "jenisPenyimpanan": "localStorage",
+    "tujuan": "Menyimpan preferensi tema tampilan situs (mode gelap atau terang).",
+    "kategori": "Fungsional Esensial",
+    "masaSimpan": "Hingga diubah atau dibersihkan pengguna"
+  },
+  {
+    "namaKunci": "shansusdzar-cart-v1",
+    "jenisPenyimpanan": "localStorage",
+    "tujuan": "Menyimpan sementara daftar unit furniture dan estimasi custom interior yang dipilih.",
+    "kategori": "Fungsional Pesanan",
+    "masaSimpan": "Hingga pesanan dikosongkan / dibersihkan"
+  },
+  {
+    "namaKunci": "shansusdzar-user-profile-v1",
+    "jenisPenyimpanan": "localStorage",
+    "tujuan": "Menyimpan nama, nomor telepon, dan lokasi alamat akun pelanggan di perangkat pengguna untuk mempercepat pemesanan dan permintaan survei tanpa kata sandi.",
+    "kategori": "Fungsional Akun Lokal",
+    "masaSimpan": "Dapat dihapus kapan saja via Pengaturan Akun atau Kebijakan Privasi"
+  },
+  {
+    "namaKunci": "shansusdzar-order-customer-v1",
+    "jenisPenyimpanan": "localStorage",
+    "tujuan": "Menyimpan catatan pesanan dan sinkronisasi data pemesan serta titik koordinat opsional agar tidak hilang saat berpindah halaman.",
+    "kategori": "Fungsional Pesanan",
+    "masaSimpan": "Dapat dihapus kapan saja via Kebijakan Privasi"
+  },
+  {
+    "namaKunci": "shansusdzar-analytics-v1",
+    "jenisPenyimpanan": "localStorage",
+    "tujuan": "Menghitung agregat statistik kunjungan halaman internal tanpa identitas personal maupun cookie pihak ketiga.",
+    "kategori": "Statistik Agregat Lokal",
+    "masaSimpan": "Agregat 30–60 hari di peramban"
+  }
+]

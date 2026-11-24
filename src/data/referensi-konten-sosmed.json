@@ -1,0 +1,28 @@
+{
+  "daftarPlatform": [
+    "Instagram",
+    "TikTok",
+    "Facebook"
+  ],
+  "daftarFormat": [
+    "Reels / Video Pendek",
+    "Carousel",
+    "Feed Foto",
+    "Story",
+    "Live Workshop"
+  ],
+  "daftarStatus": [
+    "Ide",
+    "Produksi",
+    "Siap Upload",
+    "Terjadwal",
+    "Terbit"
+  ],
+  "daftarPilar": [
+    "Behind the Workshop",
+    "Portofolio Klien",
+    "Edukasi Material",
+    "Layanan & Fitur",
+    "Promo & Testimoni"
+  ]
+}

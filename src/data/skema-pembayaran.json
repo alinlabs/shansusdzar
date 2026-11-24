@@ -1,0 +1,34 @@
+{
+  "judul": "Skema Pembayaran Shansus Dzar Indonesia",
+  "catatan": "Pembayaran dilakukan bertahap sesuai progres pengerjaan dan hanya sah melalui rekening resmi yang tercantum pada invoice workshop.",
+  "tahapan": [
+    {
+      "id": "termin-dp",
+      "urutan": 1,
+      "nama": "Termin 1 : Down Payment",
+      "persentase": 30,
+      "keterangan": "Saat kontrak ditandatangani dan disepakati."
+    },
+    {
+      "id": "termin-produksi",
+      "urutan": 2,
+      "nama": "Termin 2 : Progress Produksi",
+      "persentase": 40,
+      "keterangan": "Saat produksi sudah berjalan 50% progress."
+    },
+    {
+      "id": "termin-pra-instalasi",
+      "urutan": 3,
+      "nama": "Termin 3 : Pra-Instalasi",
+      "persentase": 20,
+      "keterangan": "Setelah produksi selesai dan siap diinstal atau sebelum diinstal."
+    },
+    {
+      "id": "termin-bast",
+      "urutan": 4,
+      "nama": "Termin 4 : Serah Terima",
+      "persentase": 10,
+      "keterangan": "Sebagai masa tunggu revisi atau perbaikan, dibayar saat penandatanganan BAST."
+    }
+  ]
+}
