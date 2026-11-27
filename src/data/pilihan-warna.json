@@ -1,0 +1,55 @@
+{
+  "versiSkema": 1,
+  "diperbaruiPada": "2026-11-22",
+  "catatan": "Palet warna umum yang berlaku untuk seluruh produk katalog dan custom interior Shansus Dzar Indonesia.",
+  "daftarWarna": [
+    {
+      "id": "gading-hangat",
+      "nama": "Gading Hangat",
+      "hex": "#EAE5DC",
+      "catatanNuansa": "Terang netral"
+    },
+    {
+      "id": "gandum-alami",
+      "nama": "Gandum Alami",
+      "hex": "#D8CFC2",
+      "catatanNuansa": "Hangat lembut"
+    },
+    {
+      "id": "abu-batu",
+      "nama": "Abu Batu",
+      "hex": "#999697",
+      "catatanNuansa": "Abu netral"
+    },
+    {
+      "id": "kayu-muda",
+      "nama": "Kayu Muda",
+      "hex": "#C2A382",
+      "catatanNuansa": "Nuansa kayu hangat"
+    },
+    {
+      "id": "walnut-tua",
+      "nama": "Cokelat Walnut",
+      "hex": "#634E3F",
+      "catatanNuansa": "Gelap elegan"
+    },
+    {
+      "id": "zaitun-redup",
+      "nama": "Zaitun Redup",
+      "hex": "#767969",
+      "catatanNuansa": "Aksen bumi tenang"
+    },
+    {
+      "id": "arang-hangat",
+      "nama": "Arang Hangat",
+      "hex": "#494641",
+      "catatanNuansa": "Gelap arsitektural"
+    },
+    {
+      "id": "grafit-gelap",
+      "nama": "Grafit Gelap",
+      "hex": "#2D2C29",
+      "catatanNuansa": "Kontras tegas"
+    }
+  ]
+}

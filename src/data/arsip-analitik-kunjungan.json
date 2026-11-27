@@ -1,0 +1,76 @@
+{
+  "arsipBulanan": [
+    {
+      "kodeBulan": "2026-09",
+      "pengunjung": 1085,
+      "tayanganHalaman": 3140,
+      "minatPesanan": 64
+    },
+    {
+      "kodeBulan": "2026-10",
+      "pengunjung": 1320,
+      "tayanganHalaman": 3890,
+      "minatPesanan": 82
+    },
+    {
+      "kodeBulan": "2026-11",
+      "pengunjung": 1495,
+      "tayanganHalaman": 4420,
+      "minatPesanan": 96
+    }
+  ],
+  "namaBulanSingkat": [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "Mei",
+    "Jun",
+    "Jul",
+    "Agu",
+    "Sep",
+    "Okt",
+    "Nov",
+    "Des"
+  ],
+  "variabelGrafik": [
+    "var(--chart-1)",
+    "var(--chart-2)",
+    "var(--chart-3)",
+    "var(--chart-4)",
+    "var(--chart-5)",
+    "var(--chart-6)"
+  ],
+  "metaRute": {
+    "beranda": {
+      "label": "Beranda Utama",
+      "jalur": "/",
+      "variabelWarna": "var(--chart-1)"
+    },
+    "katalog": {
+      "label": "Produk Furniture",
+      "jalur": "/produk",
+      "variabelWarna": "var(--chart-2)"
+    },
+    "portofolio": {
+      "label": "Portofolio Proyek",
+      "jalur": "/portofolio",
+      "variabelWarna": "var(--chart-3)"
+    },
+    "informasi": {
+      "label": "Berita, Material & Tentang",
+      "jalur": "/berita · /tentang",
+      "variabelWarna": "var(--chart-4)"
+    },
+    "custom": {
+      "label": "Custom Interior",
+      "jalur": "/produk/custom",
+      "variabelWarna": "var(--chart-5)"
+    },
+    "pesanan": {
+      "label": "Halaman Pesanan & PDF",
+      "jalur": "/pesanan",
+      "variabelWarna": "var(--chart-6)"
+    }
+  }
+}

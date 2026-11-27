@@ -1,0 +1,53 @@
+{
+  "daftarSegmen": [
+    "Prospek Baru",
+    "Klien Aktif",
+    "Klien Selesai",
+    "Arsitek & Desainer",
+    "Korporat / Komersial"
+  ],
+  "daftarSumber": [
+    "WhatsApp Masuk",
+    "Form Pesanan Web",
+    "Invoice / SPK",
+    "Instagram / TikTok",
+    "Referensi Klien",
+    "Manual Admin"
+  ],
+  "templatWhatsapp": [
+    {
+      "id": "wa-tpl-promo",
+      "saluran": "whatsapp",
+      "nama": "Penawaran Katalog & Survei Gratis",
+      "isi": "Assalamu'alaikum / Halo Bapak/Ibu {nama},\n\nKami dari Shansus Dzar Indonesia (Interior Design & Building) menginformasikan pembukaan jadwal survei pengukuran gratis untuk area {kota} minggu ini.\n\nTersedia pilihan kitchen set, lemari panel penuh plafon, hingga furniture custom dengan material utama Blockboard, Multipleks, atau PVC Board.\n\nBila ada rencana penataan ruangan dalam waktu dekat, silakan balas pesan ini untuk konsultasi estimasi ukuran dan budget.\n\nTerima kasih,\nTim Shansus Dzar Indonesia"
+    },
+    {
+      "id": "wa-tpl-followup",
+      "saluran": "whatsapp",
+      "nama": "Follow Up Prospek & Estimasi Custom",
+      "isi": "Halo Bapak/Ibu {nama},\n\nMenindaklanjuti minat penataan interior di {kota}, apakah ada bagian ruangan yang ingin kami bantu hitungkan estimasi ukurannya? Saat ini kami memiliki slot pengerjaan workshop yang dapat dijadwalkan lebih cepat.\n\nJika Bapak/Ibu berkenan, kami siap mengirimkan referensi finishing/laminasi HPL maupun Cat Duco beserta contoh hasil pengerjaan terbaru.\n\nSalam hangat,\nShansus Dzar Indonesia"
+    },
+    {
+      "id": "wa-tpl-aftersales",
+      "saluran": "whatsapp",
+      "nama": "Sapa Klien Selesai & Perawatan Unit",
+      "isi": "Halo Bapak/Ibu {nama},\n\nSemoga unit furniture dari Shansus Dzar Indonesia di {kota} tetap nyaman digunakan. Kami ingin memastikan seluruh engsel slow-motion, rel laci, serta permukaan finishing/laminasi dalam kondisi baik.\n\nApabila ada kebutuhan penyetelan ringan atau rencana penambahan kabinet di ruangan lain, silakan hubungi kami kapan saja.\n\nTerima kasih atas kepercayaannya kepada kami."
+    }
+  ],
+  "templatEmail": [
+    {
+      "id": "email-tpl-catalog",
+      "saluran": "email",
+      "nama": "Katalog & Penawaran Custom Interior",
+      "subjek": "Referensi Desain & Estimasi Interior Custom untuk {nama} ({kota})",
+      "isi": "Yth. Bapak/Ibu {nama},\n\nPerkenalkan kami dari Shansus Dzar Indonesia (Interior Design & Building) yang berbasis di Purwakarta dan melayani pemasangan untuk wilayah Purwakarta, Karawang, Subang, Bekasi, hingga Bandung.\n\nMelalui email ini kami sampaikan layanan pembuatan custom interior (Kitchen Set Modular, Lemari Pakaian Penuh Plafon, Meja Kerja, Credenza, dan Furniture Komersial) dengan pengerjaan presisi oleh pengrajin & santri berpengalaman.\n\nKeunggulan layanan kami:\n1. Konsultasi desain & kalkulasi estimasi transparan sebelum produksi.\n2. Pilihan material utama terukur (Blockboard, Multipleks, PVC Board) dengan finishing/laminasi HPL atau Cat Duco.\n3. Jadwal survei pengukuran langsung ke lokasi di {kota}.\n\nSilakan balas email ini atau hubungi WhatsApp resmi kami di 0813-15000-234 untuk penjadwalan survei.\n\nHormat kami,\nTim Marketing & Konsultasi\nShansus Dzar Indonesia"
+    },
+    {
+      "id": "email-tpl-partner",
+      "saluran": "email",
+      "nama": "Kolaborasi Workshop untuk Arsitek & Kontraktor",
+      "subjek": "Peluang Kerja Sama Produksi Custom Furniture Workshop Shansus Dzar Indonesia",
+      "isi": "Yth. Rekan {nama} ({perusahaan}),\n\nKami membuka kerja sama produksi subkon & pengadaan custom interior untuk proyek residensial, kantor, maupun komersial dengan kualitas workshop terstandar dan dokumentasi SPK yang tertib.\n\nKami siap mendukung pengerjaan kabinet custom, finishing/laminasi HPL maupun Cat Duco, serta instalasi tepat waktu untuk proyek Anda di {kota} dan sekitarnya.\n\nApabila membutuhkan daftar spesifikasi material maupun penawaran RAB produksi, silakan balas email ini untuk menjadwalkan diskusi.\n\nSalam kolaborasi,\nShansus Dzar Indonesia"
+    }
+  ]
+}
