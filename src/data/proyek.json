@@ -1,0 +1,507 @@
+[
+  {
+    "id": "K-003",
+    "namaProyek": "Kitchen Set & Island Table Modular",
+    "jenisKlien": "pribadi",
+    "namaKlien": "Bapak Hendra Wijaya",
+    "teleponKlien": "+6281388204410",
+    "alamat": {
+      "provinsi": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "kabupaten": {
+        "id": "32.75",
+        "name": "Kota Bekasi"
+      },
+      "kecamatan": {
+        "id": "32.75.10",
+        "name": "Jatisampurna"
+      },
+      "desa": {
+        "id": "32.75.10.1002",
+        "name": "Jatikarya",
+        "postalCode": "17435"
+      }
+    },
+    "nilaiKontrak": 29000000,
+    "tanggalMulai": "2026-09-24",
+    "tanggalTargetSelesai": "2026-11-20",
+    "status": "Selesai",
+    "dibuatPada": "2026-09-24T09:00:00.000Z",
+    "daftarProduk": [
+      {
+        "id": "katalog-kitchen-set-01",
+        "dimensi": "360 x 60 x 250",
+        "customisasi": "Sudut (L-Shape)",
+        "material": "Multipleks",
+        "finishing": "HPL",
+        "kodeWarna": "",
+        "tambahan": [
+          {
+            "jenis": "Engsel & Rel Laci Soft-Close",
+            "biaya": 0
+          },
+          {
+            "jenis": "Rak Piring & Sekat Sendok Bawaan",
+            "biaya": 0
+          },
+          {
+            "jenis": "Bukaan Jalur Cooker Hood & Stopkontak",
+            "biaya": 0
+          },
+          {
+            "jenis": "Lis Pelindung Tepi & Edging PVC Rapi",
+            "biaya": 0
+          }
+        ],
+        "spesifikasiMaterial": "Sudut (L-Shape), Multipleks 18 MM, Finishing HPL, Engsel & Rel Laci Soft-Close, Rak Piring & Sekat Sendok Bawaan, Bukaan Jalur Cooker Hood & Stopkontak, Lis Pelindung Tepi & Edging PVC Rapi",
+        "jumlah": 1,
+        "hargaSatuan": 22500000
+      },
+      {
+        "id": "katalog-island-table-02",
+        "dimensi": "260 x 80 x 90",
+        "customisasi": "Island Storage Penuh",
+        "material": "Multipleks",
+        "finishing": "HPL",
+        "kodeWarna": "",
+        "tambahan": [
+          {
+            "jenis": "Top Table Tebal & Edging PVC Rapi",
+            "biaya": 0
+          },
+          {
+            "jenis": "Rel Laci & Engsel Soft-Close",
+            "biaya": 0
+          },
+          {
+            "jenis": "Penyesuaian Jalur Stopkontak Samping",
+            "biaya": 0
+          }
+        ],
+        "spesifikasiMaterial": "Island Storage Penuh, Multipleks 18 MM, Finishing HPL, Top Table Tebal & Edging PVC Rapi, Rel Laci & Engsel Soft-Close, Penyesuaian Jalur Stopkontak Samping",
+        "jumlah": 1,
+        "hargaSatuan": 6500000
+      }
+    ],
+    "tanggalDokumen": {
+      "tanggalPenawaran": "2026-09-20",
+      "tanggalSpk": "2026-09-24",
+      "tanggalKirim": "2026-11-16",
+      "tanggalTermin1": "2026-09-24",
+      "tanggalTermin2": "2026-10-12",
+      "tanggalTermin3": "2026-11-05",
+      "tanggalTermin4": "2026-11-19"
+    },
+    "detailTeknis": {
+      "penanggungJawabPengirimanInstalasi": "",
+      "masaGaransiBulan": 12,
+      "tanggalGaransiBerakhir": "2027-11-20"
+    }
+  },
+  {
+    "id": "K-001",
+    "namaProyek": "Kitchen Set L-Shape HPL & Kabinet Pantry",
+    "jenisKlien": "pribadi",
+    "namaKlien": "Ibu Ratna Dewi",
+    "teleponKlien": "+6281294401122",
+    "alamat": {
+      "provinsi": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "kabupaten": {
+        "id": "32.14",
+        "name": "Kabupaten Purwakarta"
+      },
+      "kecamatan": {
+        "id": "32.14.13",
+        "name": "Bungursari"
+      },
+      "desa": {
+        "id": "32.14.13.2007",
+        "name": "Cinangka",
+        "postalCode": "41181"
+      },
+      "detail": "Perumahan Bukit Indah Blok C4"
+    },
+    "nilaiKontrak": 26500000,
+    "tanggalMulai": "2026-11-17",
+    "tanggalTargetSelesai": "2026-12-02",
+    "status": "Selesai",
+    "dibuatPada": "2026-11-17T09:00:00.000Z",
+    "daftarProduk": [
+      {
+        "id": "katalog-kitchen-set-01",
+        "dimensi": "360 x 60 x 220",
+        "customisasi": "Sudut (L-Shape)",
+        "material": "Multipleks",
+        "finishing": "HPL",
+        "kodeWarna": "",
+        "tambahan": [
+          {
+            "jenis": "Engsel & Rel Laci Soft-Close",
+            "biaya": 0
+          },
+          {
+            "jenis": "Rak Piring & Sekat Sendok Bawaan",
+            "biaya": 0
+          },
+          {
+            "jenis": "Bukaan Jalur Cooker Hood & Stopkontak",
+            "biaya": 0
+          },
+          {
+            "jenis": "Lis Pelindung Tepi & Edging PVC Rapi",
+            "biaya": 0
+          }
+        ],
+        "spesifikasiMaterial": "Sudut (L-Shape), Multipleks 18 MM, Finishing HPL, Engsel & Rel Laci Soft-Close, Rak Piring & Sekat Sendok Bawaan, Bukaan Jalur Cooker Hood & Stopkontak, Lis Pelindung Tepi & Edging PVC Rapi",
+        "jumlah": 1,
+        "hargaSatuan": 19800000
+      },
+      {
+        "id": "katalog-island-table-02",
+        "dimensi": "200 x 80 x 90",
+        "customisasi": "Island + Area Duduk Bar",
+        "material": "Multipleks",
+        "finishing": "HPL",
+        "kodeWarna": "",
+        "tambahan": [
+          {
+            "jenis": "Top Table Tebal & Edging PVC Rapi",
+            "biaya": 0
+          },
+          {
+            "jenis": "Rel Laci & Engsel Soft-Close",
+            "biaya": 0
+          },
+          {
+            "jenis": "Penyesuaian Jalur Stopkontak Samping",
+            "biaya": 0
+          },
+          {
+            "jenis": "Upgrade Top Table Solid Surface",
+            "biaya": 1700000
+          }
+        ],
+        "spesifikasiMaterial": "Island + Area Duduk Bar, Multipleks 18 MM, Finishing HPL, Top Table Tebal & Edging PVC Rapi, Rel Laci & Engsel Soft-Close, Penyesuaian Jalur Stopkontak Samping, Upgrade Top Table Solid Surface",
+        "jumlah": 1,
+        "hargaSatuan": 5000000
+      }
+    ],
+    "tanggalDokumen": {
+      "tanggalPenawaran": "2026-11-14",
+      "tanggalSpk": "2026-11-17",
+      "tanggalKirim": "2026-11-30",
+      "tanggalTermin1": "2026-11-17",
+      "tanggalTermin2": "2026-11-23",
+      "tanggalTermin3": "2026-11-29",
+      "tanggalTermin4": "2026-12-02"
+    },
+    "detailTeknis": {
+      "penanggungJawabPengirimanInstalasi": "",
+      "masaGaransiBulan": 6,
+      "tanggalGaransiBerakhir": "2027-06-02"
+    }
+  },
+  {
+    "id": "K-005",
+    "namaProyek": "Meja Kerja & Wall Panel",
+    "jenisKlien": "perusahaan",
+    "namaKlien": "PT Sinar Cipta Karawang",
+    "penanggungJawabKlien": "Bapak Andi Wijaya",
+    "jabatanKlien": "Manager Operasional",
+    "teleponKlien": "+628119200450",
+    "alamat": {
+      "provinsi": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "kabupaten": {
+        "id": "32.15",
+        "name": "Kabupaten Karawang"
+      },
+      "kecamatan": {
+        "id": "32.15.01",
+        "name": "Karawang Barat"
+      },
+      "desa": {
+        "id": "32.15.01.1011",
+        "name": "Nagasari",
+        "postalCode": "41312"
+      }
+    },
+    "nilaiKontrak": 24000000,
+    "tanggalMulai": "2026-10-05",
+    "tanggalTargetSelesai": "2026-11-28",
+    "status": "Instalasi",
+    "dibuatPada": "2026-10-05T09:00:00.000Z",
+    "daftarProduk": [
+      {
+        "id": "katalog-meja-kerja-11",
+        "dimensi": "220 x 60 x 75",
+        "customisasi": "Meja Lurus + Laci",
+        "material": "Multipleks",
+        "finishing": "HPL",
+        "kodeWarna": "",
+        "tambahan": [
+          {
+            "jenis": "Lubang Grommet & Jalur Kabel Bawah Meja",
+            "biaya": 0
+          },
+          {
+            "jenis": "Laci Berkas Rel Soft-Close",
+            "biaya": 0
+          },
+          {
+            "jenis": "Penguatan Rangka Kaki & Edging Meja",
+            "biaya": 0
+          }
+        ],
+        "spesifikasiMaterial": "Meja Lurus + Laci, Multipleks 18 MM, Finishing HPL, Lubang Grommet & Jalur Kabel Bawah Meja, Laci Berkas Rel Soft-Close, Penguatan Rangka Kaki & Edging Meja",
+        "jumlah": 2,
+        "hargaSatuan": 5500000
+      },
+      {
+        "id": "katalog-wall-panel-14",
+        "dimensi": "400 x 5 x 220",
+        "customisasi": "Kisi-Kisi Vertikal",
+        "material": "Multipleks",
+        "finishing": "HPL",
+        "kodeWarna": "",
+        "tambahan": [
+          {
+            "jenis": "Rangka Dasar Penyesuai Kerataan Dinding",
+            "biaya": 0
+          },
+          {
+            "jenis": "Pemotongan Titik Sakelar & Stopkontak",
+            "biaya": 0
+          },
+          {
+            "jenis": "Lis Penutup Tepi & Nat Modul Rapi",
+            "biaya": 0
+          }
+        ],
+        "spesifikasiMaterial": "Kisi-Kisi Vertikal, Multipleks 18 MM, Finishing HPL, Rangka Dasar Penyesuai Kerataan Dinding, Pemotongan Titik Sakelar & Stopkontak, Lis Penutup Tepi & Nat Modul Rapi",
+        "jumlah": 1,
+        "hargaSatuan": 13000000,
+        "hargaManual": true
+      }
+    ],
+    "tanggalDokumen": {
+      "tanggalPenawaran": "2026-10-01",
+      "tanggalSpk": "2026-10-05",
+      "tanggalKirim": "2026-11-24",
+      "tanggalTermin1": "2026-10-05",
+      "tanggalTermin2": "2026-10-26",
+      "tanggalTermin3": "2026-11-24",
+      "tanggalTermin4": "2026-11-28"
+    },
+    "detailTeknis": {
+      "penanggungJawabPengirimanInstalasi": "",
+      "masaGaransiBulan": 6,
+      "tanggalGaransiBerakhir": "2027-05-28"
+    }
+  },
+  {
+    "id": "K-002",
+    "namaProyek": "Wardrobe & Bufet TV",
+    "jenisKlien": "pribadi",
+    "namaKlien": "Ibu Nadia Kusuma",
+    "teleponKlien": "+628127701980",
+    "alamat": {
+      "provinsi": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "kabupaten": {
+        "id": "32.14",
+        "name": "Kabupaten Purwakarta"
+      },
+      "kecamatan": {
+        "id": "32.14.01",
+        "name": "Purwakarta"
+      },
+      "desa": {
+        "id": "32.14.01.1001",
+        "name": "Nagri Kidul",
+        "postalCode": "41111"
+      }
+    },
+    "nilaiKontrak": 22500000,
+    "tanggalMulai": "2026-11-15",
+    "tanggalTargetSelesai": "2026-12-06",
+    "status": "Produksi",
+    "dibuatPada": "2026-11-15T09:00:00.000Z",
+    "daftarProduk": [
+      {
+        "id": "katalog-lemari-pakaian-03",
+        "dimensi": "240 x 60 x 250",
+        "customisasi": "Pintu Geser (Sliding)",
+        "material": "Multipleks",
+        "finishing": "HPL",
+        "kodeWarna": "",
+        "tambahan": [
+          {
+            "jenis": "Sekat Ambalan Lipat & Laci Penyimpanan",
+            "biaya": 0
+          },
+          {
+            "jenis": "Pipa Gantungan Baju & Engsel Soft-Close",
+            "biaya": 0
+          },
+          {
+            "jenis": "Handle Minimalis & Rel Pintu Presisi",
+            "biaya": 0
+          }
+        ],
+        "spesifikasiMaterial": "Pintu Geser (Sliding), Multipleks 18 MM, Finishing HPL, Sekat Ambalan Lipat & Laci Penyimpanan, Pipa Gantungan Baju & Engsel Soft-Close, Handle Minimalis & Rel Pintu Presisi",
+        "jumlah": 1,
+        "hargaSatuan": 15000000
+      },
+      {
+        "id": "katalog-credenza-meja-tv-06",
+        "dimensi": "300 x 45 x 55",
+        "customisasi": "Gantung Dinding (Floating)",
+        "material": "Multipleks",
+        "finishing": "HPL",
+        "kodeWarna": "",
+        "tambahan": [
+          {
+            "jenis": "Lubang Kabel & Ventilasi Perangkat Audio",
+            "biaya": 0
+          },
+          {
+            "jenis": "Engsel & Rel Laci Soft-Close",
+            "biaya": 0
+          },
+          {
+            "jenis": "Ambalan Dalam & Edging PVC Rapi",
+            "biaya": 0
+          }
+        ],
+        "spesifikasiMaterial": "Gantung Dinding (Floating), Multipleks 18 MM, Finishing HPL, Lubang Kabel & Ventilasi Perangkat Audio, Engsel & Rel Laci Soft-Close, Ambalan Dalam & Edging PVC Rapi",
+        "jumlah": 1,
+        "hargaSatuan": 7500000
+      }
+    ],
+    "tanggalDokumen": {
+      "tanggalPenawaran": "2026-11-10",
+      "tanggalSpk": "2026-11-15",
+      "tanggalKirim": "2026-12-03",
+      "tanggalTermin1": "2026-11-15",
+      "tanggalTermin2": "2026-11-26",
+      "tanggalTermin3": "2026-12-03",
+      "tanggalTermin4": "2026-12-06"
+    },
+    "detailTeknis": {
+      "penanggungJawabPengirimanInstalasi": "",
+      "masaGaransiBulan": 6,
+      "tanggalGaransiBerakhir": "2027-06-06"
+    }
+  },
+  {
+    "id": "K-004",
+    "namaProyek": "Modern Divan & Backdrop TV",
+    "jenisKlien": "pribadi",
+    "namaKlien": "Bapak Dimas Pratama",
+    "teleponKlien": "+628156022310",
+    "alamat": {
+      "provinsi": {
+        "id": "32",
+        "name": "Jawa Barat"
+      },
+      "kabupaten": {
+        "id": "32.73",
+        "name": "Kota Bandung"
+      },
+      "kecamatan": {
+        "id": "32.73.08",
+        "name": "Cidadap"
+      },
+      "desa": {
+        "id": "32.73.08.1001",
+        "name": "Hegarmanah",
+        "postalCode": "40141"
+      }
+    },
+    "nilaiKontrak": 16800000,
+    "tanggalMulai": "2026-11-20",
+    "tanggalTargetSelesai": "2026-12-12",
+    "status": "Perencanaan",
+    "dibuatPada": "2026-11-20T09:00:00.000Z",
+    "daftarProduk": [
+      {
+        "id": "katalog-divan-tempat-tidur-07",
+        "dimensi": "180 x 200 x 35",
+        "customisasi": "King / 180 × 200",
+        "material": "Multipleks",
+        "finishing": "HPL",
+        "kodeWarna": "",
+        "tambahan": [
+          {
+            "jenis": "Penyesuaian Posisi Laci Samping/Depan",
+            "biaya": 0
+          },
+          {
+            "jenis": "Penguatan Tulangan Rangka Kasur",
+            "biaya": 0
+          },
+          {
+            "jenis": "Rel Laci Heavy-Duty Soft-Close",
+            "biaya": 0
+          }
+        ],
+        "spesifikasiMaterial": "King / 180 × 200, Multipleks 18 MM, Finishing HPL, Penyesuaian Posisi Laci Samping/Depan, Penguatan Tulangan Rangka Kasur, Rel Laci Heavy-Duty Soft-Close",
+        "jumlah": 1,
+        "hargaSatuan": 4500000
+      },
+      {
+        "id": "katalog-backdrop-tv-05",
+        "dimensi": "300 x 5 x 260",
+        "customisasi": "Panel + Aksen Kisi",
+        "material": "Multipleks",
+        "finishing": "HPL",
+        "kodeWarna": "",
+        "tambahan": [
+          {
+            "jenis": "Jalur Kabel TV & Bracket Tersembunyi",
+            "biaya": 0
+          },
+          {
+            "jenis": "Penguatan Rangka Dudukan Bracket TV",
+            "biaya": 0
+          },
+          {
+            "jenis": "Rangka Cleat Dinding & Lis Penutup Tepi",
+            "biaya": 0
+          },
+          {
+            "jenis": "Instalasi LED Strip Warm White & Bracket TV",
+            "biaya": 600000
+          }
+        ],
+        "spesifikasiMaterial": "Panel + Aksen Kisi, Multipleks 18 MM, Finishing HPL, Jalur Kabel TV & Bracket Tersembunyi, Penguatan Rangka Dudukan Bracket TV, Rangka Cleat Dinding & Lis Penutup Tepi, Instalasi LED Strip Warm White & Bracket TV",
+        "jumlah": 1,
+        "hargaSatuan": 11700000
+      }
+    ],
+    "tanggalDokumen": {
+      "tanggalPenawaran": "2026-11-18",
+      "tanggalSpk": "2026-11-20",
+      "tanggalKirim": "2026-12-09",
+      "tanggalTermin1": "2026-11-20",
+      "tanggalTermin2": "2026-11-30",
+      "tanggalTermin3": "2026-12-09",
+      "tanggalTermin4": "2026-12-12"
+    },
+    "detailTeknis": {
+      "penanggungJawabPengirimanInstalasi": "",
+      "masaGaransiBulan": 6,
+      "tanggalGaransiBerakhir": "2027-06-12"
+    }
+  }
+]

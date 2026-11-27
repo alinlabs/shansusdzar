@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "SDI Furniture",
+  "short_name": "SDI Furniture",
+  "description": "Interior Design & Building di Purwakarta, Indonesia. Jelajahi katalog furniture, rancang interior kustom, dan ajukan ringkasan pesanan PDF.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#171716",
+  "background_color": "#171716",
+  "lang": "id",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

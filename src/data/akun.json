@@ -1,0 +1,82 @@
+[
+  {
+    "id": "usr-hilman",
+    "nama": "Hilman Aziz Napis",
+    "email": "admin1@shansusdzar.com",
+    "kataSandi": "admin123",
+    "isOwner": true,
+    "divisi": "Pimpinan Studio",
+    "akses": [
+      { "halaman": "proyek", "krendensial": "editor" },
+      { "halaman": "keuangan", "krendensial": "editor" },
+      { "halaman": "produk", "krendensial": "editor" },
+      { "halaman": "portofolio", "krendensial": "editor" },
+      { "halaman": "berita", "krendensial": "editor" },
+      { "halaman": "material", "krendensial": "editor" },
+      { "halaman": "faq", "krendensial": "editor" },
+      { "halaman": "profil-usaha", "krendensial": "editor" },
+      { "halaman": "pengguna", "krendensial": "editor" }
+    ],
+    "loginTerakhir": "2026-11-20T09:15:00.000Z"
+  },
+  {
+    "id": "usr-katalog",
+    "nama": "Fajar Maulana",
+    "email": "admin2@shansusdzar.com",
+    "kataSandi": "admin123",
+    "isOwner": false,
+    "divisi": "Produksi & Katalog",
+    "akses": [
+      { "halaman": "proyek", "krendensial": "hide" },
+      { "halaman": "keuangan", "krendensial": "hide" },
+      { "halaman": "produk", "krendensial": "editor" },
+      { "halaman": "portofolio", "krendensial": "view" },
+      { "halaman": "berita", "krendensial": "hide" },
+      { "halaman": "material", "krendensial": "hide" },
+      { "halaman": "faq", "krendensial": "hide" },
+      { "halaman": "profil-usaha", "krendensial": "hide" },
+      { "halaman": "pengguna", "krendensial": "hide" }
+    ],
+    "loginTerakhir": "2026-11-19T14:20:00.000Z"
+  },
+  {
+    "id": "usr-konten",
+    "nama": "Aisyah Rahma",
+    "email": "admin3@shansusdzar.com",
+    "kataSandi": "admin123",
+    "isOwner": false,
+    "divisi": "Dokumentasi & Klien",
+    "akses": [
+      { "halaman": "proyek", "krendensial": "hide" },
+      { "halaman": "keuangan", "krendensial": "hide" },
+      { "halaman": "produk", "krendensial": "view" },
+      { "halaman": "portofolio", "krendensial": "editor" },
+      { "halaman": "berita", "krendensial": "editor" },
+      { "halaman": "material", "krendensial": "editor" },
+      { "halaman": "faq", "krendensial": "editor" },
+      { "halaman": "profil-usaha", "krendensial": "editor" },
+      { "halaman": "pengguna", "krendensial": "hide" }
+    ],
+    "loginTerakhir": "2026-11-18T11:05:00.000Z"
+  },
+  {
+    "id": "usr-viewer",
+    "nama": "Zaki Permana",
+    "email": "admin4@shansusdzar.com",
+    "kataSandi": "admin123",
+    "isOwner": false,
+    "divisi": "Peninjau Internal",
+    "akses": [
+      { "halaman": "proyek", "krendensial": "view" },
+      { "halaman": "keuangan", "krendensial": "view" },
+      { "halaman": "produk", "krendensial": "view" },
+      { "halaman": "portofolio", "krendensial": "view" },
+      { "halaman": "berita", "krendensial": "view" },
+      { "halaman": "material", "krendensial": "view" },
+      { "halaman": "faq", "krendensial": "view" },
+      { "halaman": "profil-usaha", "krendensial": "view" },
+      { "halaman": "pengguna", "krendensial": "view" }
+    ],
+    "loginTerakhir": null
+  }
+]

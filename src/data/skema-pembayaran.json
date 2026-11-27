@@ -1,0 +1,22 @@
+[
+  {
+    "tahap": "Down Payment",
+    "persentase": 30,
+    "ketentuan": "Saat kontrak ditandatangani dan disepakati."
+  },
+  {
+    "tahap": "Progress Produksi",
+    "persentase": 40,
+    "ketentuan": "Saat produksi sudah berjalan 50% progress."
+  },
+  {
+    "tahap": "Pra-Instalasi",
+    "persentase": 20,
+    "ketentuan": "Setelah produksi selesai dan siap diinstal atau sebelum diinstal."
+  },
+  {
+    "tahap": "Serah Terima",
+    "persentase": 10,
+    "ketentuan": "Sebagai masa tunggu revisi atau perbaikan, dibayar saat penandatanganan BAST."
+  }
+]
