@@ -1,0 +1,194 @@
+[
+  {
+    "id": "mkt-c-01",
+    "kodeKlien": "K-001",
+    "nama": "Raka Pratama",
+    "namaPerusahaan": "Hunian Griya Asri",
+    "telepon": "0812-8490-3312",
+    "teleponTerstandar": "6281284903312",
+    "email": "raka.pratama@example.co.id",
+    "kota": "Kab. Purwakarta",
+    "alamat": {
+      "provinsi": { "id": "32", "name": "Jawa Barat" },
+      "kabupaten": { "id": "32.14", "name": "Kabupaten Purwakarta" },
+      "kecamatan": { "id": "32.14.01", "name": "Purwakarta" },
+      "desa": { "id": "32.14.01.1003", "name": "Nagri Tengah", "postalCode": "41114" },
+      "detail": "Hunian Griya Asri"
+    },
+    "segmen": "Klien Selesai",
+    "sumber": "Invoice / SPK",
+    "labelTag": [
+      "kitchen-set",
+      "hpl"
+    ],
+    "izinWhatsapp": true,
+    "izinEmail": true,
+    "catatan": "Pemasangan kitchen set 2026 selesai tepat waktu; tertarik lemari bawah tangga tahap berikutnya.",
+    "terakhirDihubungi": "2026-11-12T10:30:00.000Z",
+    "dibuatPada": "2026-09-14T08:00:00.000Z"
+  },
+  {
+    "id": "mkt-c-02",
+    "kodeKlien": "K-002",
+    "nama": "Nadia Kusuma",
+    "namaPerusahaan": "Pribadi",
+    "telepon": "0856-7712-4409",
+    "teleponTerstandar": "6285677124409",
+    "email": "nadia.kusuma@example.co.id",
+    "kota": "Kota Bandung",
+    "alamat": {
+      "provinsi": { "id": "32", "name": "Jawa Barat" },
+      "kabupaten": { "id": "32.73", "name": "Kota Bandung" },
+      "kecamatan": { "id": "32.73.01", "name": "Sukasari" },
+      "desa": { "id": "32.73.01.1001", "name": "Sukarasa", "postalCode": "40152" }
+    },
+    "segmen": "Klien Selesai",
+    "sumber": "Instagram / TikTok",
+    "labelTag": [
+      "sofa-minimalis",
+      "ruang-tamu"
+    ],
+    "izinWhatsapp": true,
+    "izinEmail": true,
+    "catatan": "Sudah menerima Sofa Sandar Minimalis warna gandum hangat.",
+    "terakhirDihubungi": null,
+    "dibuatPada": "2026-10-02T09:15:00.000Z"
+  },
+  {
+    "id": "mkt-c-03",
+    "kodeKlien": "K-003",
+    "nama": "Hendra Wijaya",
+    "namaPerusahaan": "Cluster Galuh Mas",
+    "telepon": "+62 813-9021-5540",
+    "teleponTerstandar": "6281390215540",
+    "email": "hendra.wijaya@example.co.id",
+    "kota": "Kab. Karawang",
+    "alamat": {
+      "provinsi": { "id": "32", "name": "Jawa Barat" },
+      "kabupaten": { "id": "32.15", "name": "Kabupaten Karawang" },
+      "kecamatan": { "id": "32.15.03", "name": "Telukjambe Timur" },
+      "desa": { "id": "32.15.03.2002", "name": "Sukaharja", "postalCode": "41360" },
+      "detail": "Cluster Galuh Mas"
+    },
+    "segmen": "Klien Aktif",
+    "sumber": "Invoice / SPK",
+    "labelTag": [
+      "wardrobe-full-plafon",
+      "kamar-tidur"
+    ],
+    "izinWhatsapp": true,
+    "izinEmail": true,
+    "catatan": "Sedang dalam tahap finishing workshop untuk lemari pakaian panel penuh plafon.",
+    "terakhirDihubungi": "2026-11-18T13:20:00.000Z",
+    "dibuatPada": "2026-10-20T11:00:00.000Z"
+  },
+  {
+    "id": "mkt-c-04",
+    "kodeKlien": "K-004",
+    "nama": "Dimas Saputra",
+    "namaPerusahaan": "Studio Kerja Digital",
+    "telepon": "0878-2214-8890",
+    "teleponTerstandar": "6287822148890",
+    "email": "dimas.saputra@example.co.id",
+    "kota": "Kota Bekasi",
+    "alamat": {
+      "provinsi": { "id": "32", "name": "Jawa Barat" },
+      "kabupaten": { "id": "32.75", "name": "Kota Bekasi" },
+      "kecamatan": { "id": "32.75.04", "name": "Bekasi Selatan" },
+      "desa": { "id": "32.75.04.1001", "name": "Pekayonjaya", "postalCode": "17148" }
+    },
+    "segmen": "Klien Aktif",
+    "sumber": "Form Pesanan Web",
+    "labelTag": [
+      "meja-kerja",
+      "partisi-kantor"
+    ],
+    "izinWhatsapp": true,
+    "izinEmail": true,
+    "catatan": "Meminta survei lanjutan untuk area ruang rapat lantai 2.",
+    "terakhirDihubungi": null,
+    "dibuatPada": "2026-11-05T14:40:00.000Z"
+  },
+  {
+    "id": "mkt-c-05",
+    "kodeKlien": "K-005",
+    "nama": "Ar. Bagus Santoso",
+    "namaPerusahaan": "Ruang Rancang Arsitektur",
+    "telepon": "0811-2299-7741",
+    "teleponTerstandar": "6281122997741",
+    "email": "bagus@ruangrancang.example.id",
+    "kota": "Kota Bandung",
+    "alamat": {
+      "provinsi": { "id": "32", "name": "Jawa Barat" },
+      "kabupaten": { "id": "32.73", "name": "Kota Bandung" },
+      "kecamatan": { "id": "32.73.08", "name": "Cidadap" },
+      "desa": { "id": "32.73.08.1002", "name": "Ciumbuleuit", "postalCode": "40142" }
+    },
+    "segmen": "Arsitek & Desainer",
+    "sumber": "Referensi Klien",
+    "labelTag": [
+      "mitra-arsitek",
+      "rab-produksi"
+    ],
+    "izinWhatsapp": true,
+    "izinEmail": true,
+    "catatan": "Membutuhkan kolaborasi vendor custom kabinet untuk 3 proyek residensial Q1.",
+    "terakhirDihubungi": null,
+    "dibuatPada": "2026-11-08T10:10:00.000Z"
+  },
+  {
+    "id": "mkt-c-06",
+    "kodeKlien": "K-006",
+    "nama": "Siti Rahmawati",
+    "namaPerusahaan": "Pribadi",
+    "telepon": "0857-1904-6621",
+    "teleponTerstandar": "6285719046621",
+    "email": "siti.rahma@example.co.id",
+    "kota": "Kab. Purwakarta",
+    "alamat": {
+      "provinsi": { "id": "32", "name": "Jawa Barat" },
+      "kabupaten": { "id": "32.14", "name": "Kabupaten Purwakarta" },
+      "kecamatan": { "id": "32.14.01", "name": "Purwakarta" },
+      "desa": { "id": "32.14.01.1005", "name": "Cipaisan", "postalCode": "41113" }
+    },
+    "segmen": "Prospek Baru",
+    "sumber": "WhatsApp Masuk",
+    "labelTag": [
+      "meja-makan",
+      "credenza"
+    ],
+    "izinWhatsapp": true,
+    "izinEmail": true,
+    "catatan": "Menanyakan estimasi harga meja makan jati dan credenza TV 220 cm.",
+    "terakhirDihubungi": null,
+    "dibuatPada": "2026-11-16T16:05:00.000Z"
+  },
+  {
+    "id": "mkt-c-07",
+    "kodeKlien": "K-007",
+    "nama": "Andi Kurniawan",
+    "namaPerusahaan": "PT Sinar Logam Subang",
+    "telepon": "0819-4430-1182",
+    "teleponTerstandar": "6281944301182",
+    "email": "pengadaan@sinarlogam.example.co.id",
+    "kota": "Kab. Subang",
+    "alamat": {
+      "provinsi": { "id": "32", "name": "Jawa Barat" },
+      "kabupaten": { "id": "32.13", "name": "Kabupaten Subang" },
+      "kecamatan": { "id": "32.13.03", "name": "Subang" },
+      "desa": { "id": "32.13.03.1002", "name": "Cigadung", "postalCode": "41213" }
+    },
+    "segmen": "Korporat / Komersial",
+    "sumber": "Manual Admin",
+    "labelTag": [
+      "kantor",
+      "resepsionis",
+      "kabinet-arsip"
+    ],
+    "izinWhatsapp": true,
+    "izinEmail": true,
+    "catatan": "Rencana pengadaan meja resepsionis dan kabinet arsip 12 pintu awal tahun.",
+    "terakhirDihubungi": null,
+    "dibuatPada": "2026-11-19T08:45:00.000Z"
+  }
+]

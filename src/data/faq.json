@@ -1,0 +1,66 @@
+[
+  {
+    "id": "faq-survei",
+    "kategori": "Alur & Survei",
+    "pertanyaan": "Bagaimana alur pemesanan dan layanan survei ke lokasi di SDI?",
+    "jawaban": "Pemesanan mengikuti 6 tahap terstruktur: Konsultasi kebutuhan awal, Survei pengukuran presisi di lokasi, penyusunan Design & RAB final, pembayaran Termin 1 : Down Payment, Produksi workshop, serta Instalasi/Pemasangan hingga serah terima bergaransi.",
+    "urutan": 1,
+    "terbit": true
+  },
+  {
+    "id": "faq-jam-layanan",
+    "kategori": "Alur & Survei",
+    "pertanyaan": "Kapan jam operasional workshop dan jadwal survei lapangan?",
+    "jawaban": "Workshop Shansus Dzar Indonesia beroperasi setiap hari pukul 07.00 – 20.00 WIB. Layanan survei pengukuran ke lokasi juga selalu tersedia setiap hari dengan jadwal fleksibel yang menyesuaikan kebutuhan dan kesepakatan waktu Anda bersama tim melalui WhatsApp resmi studio.",
+    "urutan": 2,
+    "terbit": true
+  },
+  {
+    "id": "faq-area-jangkauan",
+    "kategori": "Alur & Survei",
+    "pertanyaan": "Wilayah mana saja yang masuk area jangkauan survei dan pemasangan?",
+    "jawaban": "Layanan survei pengukuran lapangan hingga pemasangan langsung mencakup Kabupaten Purwakarta, Karawang & Cikampek, Subang, Bandung Raya, serta Bekasi & Cikarang. Untuk proyek di luar wilayah tersebut, silakan konsultasikan terlebih dahulu via WhatsApp agar tim dapat menyesuaikan jadwal rute kunjungan.",
+    "urutan": 3,
+    "terbit": true
+  },
+  {
+    "id": "faq-durasi",
+    "kategori": "Produksi & Waktu",
+    "pertanyaan": "Berapa lama estimasi proses produksi hingga instalasi di lokasi?",
+    "jawaban": "Setelah tahap Design disetujui dan DP diterima, estimasi waktu produksi di workshop rata-rata memakan waktu 10 hingga 21 hari kerja (tergantung kompleksitas unit & antrean produksi) sebelum masuk ke tahap instalasi/pemasangan di lokasi.",
+    "urutan": 4,
+    "terbit": true
+  },
+  {
+    "id": "faq-material-dapur",
+    "kategori": "Material & Teknis",
+    "pertanyaan": "Berapa ketebalan bahan yang digunakan dan material apa yang cocok untuk area dapur?",
+    "jawaban": "Seluruh material utama di Shansus Dzar Indonesia — baik Blockboard, Multipleks, maupun PVC Board — menggunakan ketebalan seragam yaitu 18 mm. Untuk kabinet bawah area sink atau area lembap, kami sangat menyarankan PVC Board 18 mm, sedangkan area kering ideal memakai Multipleks atau Blockboard 18 mm dengan finishing HPL atau Cat Duco.",
+    "urutan": 5,
+    "terbit": true
+  },
+  {
+    "id": "faq-pembayaran",
+    "kategori": "Harga & Pembayaran",
+    "pertanyaan": "Bagaimana skema pembayaran termin, tarif desain, dan konfirmasi harga resmi?",
+    "jawaban": "Setiap pemesanan produksi (Build) di Shansus Dzar otomatis sudah Gratis Desain 3D (Desain & Build), sedangkan bila Anda hanya membutuhkan jasa desain saja silakan klik konsultasi langsung via WhatsApp. Estimasi awal Build dihitung sesuai produk — menggunakan meter lari (/m) untuk unit horizontal bertinggi standar atau luas panjang × tinggi (/m²) untuk kabinet/bidang vertikal — bersama material 18 mm dan finishing pilihan. Pembayaran proyek mengikuti 4 tahap termin resmi workshop: 1) Termin 1 : Down Payment 30% saat kontrak ditandatangani dan disepakati, 2) Termin 2 : Progress Produksi 40% saat produksi sudah berjalan 50% progress, 3) Termin 3 : Pra-Instalasi 20% setelah produksi selesai dan siap diinstal atau sebelum diinstal, serta 4) Termin 4 : Serah Terima 10% sebagai masa tunggu revisi atau perbaikan saat penandatanganan BAST melalui rekening resmi workshop.",
+    "urutan": 6,
+    "terbit": true
+  },
+  {
+    "id": "faq-garansi",
+    "kategori": "Garansi & Perawatan",
+    "pertanyaan": "Apakah ada garansi setelah unit terpasang di rumah?",
+    "jawaban": "Ya, setelah tahap Instalasi/Pemasangan dan penandatanganan BAST selesai, kami memberikan garansi penyetelan hardware (engsel, rel laci, dan konstruksi pemasangan) hingga 6 bulan beserta panduan perawatan sesuai jenis material utama 18 mm dan finishing yang dipilih.",
+    "urutan": 7,
+    "terbit": true
+  },
+  {
+    "id": "faq-komitmen",
+    "kategori": "Produksi & Waktu",
+    "pertanyaan": "Bagaimana komitmen layanan dan pemantauan progres pengerjaan di workshop?",
+    "jawaban": "Tim kami memberikan konsultasi kebutuhan serta estimasi awal terbuka tanpa biaya tersembunyi, melakukan survei pengukuran langsung untuk memastikan presisi terhadap kolom dan jalur instalasi, serta mengirimkan pembaruan progres pengerjaan workshop secara berkala sebelum jadwal pengiriman dan pemasangan.",
+    "urutan": 8,
+    "terbit": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": "mkt-log-01",
+    "saluran": "whatsapp",
+    "judul": "Follow Up Jadwal Survei Purwakarta & Karawang",
+    "jumlahPenerima": 3,
+    "ringkasanPenerima": "Hendra Wijaya, Siti Rahmawati, Raka Pratama",
+    "dikirimOleh": "Hilman Aziz Napis",
+    "waktuKirim": "2026-11-18T14:15:00.000Z"
+  },
+  {
+    "id": "mkt-log-02",
+    "saluran": "email",
+    "judul": "Katalog & Penawaran Custom Interior Q4",
+    "subjek": "Referensi Desain & Estimasi Interior Custom Shansus Dzar Indonesia",
+    "jumlahPenerima": 4,
+    "ringkasanPenerima": "Ar. Bagus Santoso, Andi Kurniawan, Nadia Kusuma, Dimas Saputra",
+    "dikirimOleh": "Aisyah Rahma",
+    "waktuKirim": "2026-11-15T09:30:00.000Z"
+  }
+]
